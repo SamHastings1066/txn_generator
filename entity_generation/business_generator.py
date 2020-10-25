@@ -39,6 +39,10 @@ def generate_businesses(
       turnover_weights = list(entity_params_dict["business"]["region_turnover_dist"][rgn].values())
       turnover.append(random.choices(turnover_list, weights = turnover_weights, k=1)[0])
 
+  turnover = [x.replace('+','-1000000') for x in turnover]
+  turnover = [x.split('-') for x in turnover]
+  turnover = [int(random.uniform(int(x[0]),int(x[1]))) * 1000 for x in turnover]
+
   # Create account ids, for now each business has a current and a loan account
   # account ids are just the entity_id with the suffic CUR or LOA
 
