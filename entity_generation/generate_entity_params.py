@@ -20,13 +20,14 @@ region_names_list = list(region_names[names_index])
 region_names_list = [x.rstrip() for x in region_names_list]
 region_freqency_list = list(region_frequency[names_index])
 
-# Create region distribution dictionary
-region_dist = {}
-for key in region_names_list:
-    for value in region_freqency_list:
-        region_dist[key] = value
-        region_freqency_list.remove(value)
-        break
+# Create series of lad17 codes and select the ones that map to the
+# region_names_list
+lad17cd_codes = sector_freq_df.iloc[6:450,0]
+lad17cd_codes_list = list(lad17cd_codes[names_index])
+
+# Create region distribution dictionary and map of region name to lad code
+region_dist = dict(zip(region_names_list, region_freqency_list))
+region_lad_map = dict(zip(region_names_list, lad17cd_codes_list))
 
 
 ################################################################################
@@ -90,6 +91,7 @@ region_turnover_dist = json.loads(region_turnover_string)
 # Create dictionary with all entity parameters
 entity_dict = {"business":{
     "region_dist" : region_dist,
+    "region_lad_map": region_lad_map,
     "region_sector_dist" : region_sector_dist,
     "region_turnover_dist": region_turnover_dist
 }}

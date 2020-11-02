@@ -1,1001 +1,1001 @@
-,entity_id,region,sector,turnover,account_ids,criminal
-0,B_1,North West,Professional scientific technical,500-999,"['B_1_CUR', 'B_1_LOA']",0
-1,B_2,Yorkshire and The Humber,Health,50-99,"['B_2_CUR', 'B_2_LOA']",0
-2,B_3,London,Professional scientific technical,10000-49999,"['B_3_CUR', 'B_3_LOA']",0
-3,B_4,West Midlands,Information communication,0-49,"['B_4_CUR', 'B_4_LOA']",0
-4,B_5,Yorkshire and The Humber,Accommodation food services,100-249,"['B_5_CUR', 'B_5_LOA']",0
-5,B_6,Yorkshire and The Humber,Accommodation food services,100-249,"['B_6_CUR', 'B_6_LOA']",0
-6,B_7,South West,Construction,250-499,"['B_7_CUR', 'B_7_LOA']",0
-7,B_8,North East,Production,50-99,"['B_8_CUR', 'B_8_LOA']",0
-8,B_9,London,Property,0-49,"['B_9_CUR', 'B_9_LOA']",0
-9,B_10,West Midlands,Accommodation food services,500-999,"['B_10_CUR', 'B_10_LOA']",0
-10,B_11,West Midlands,Accommodation food services,0-49,"['B_11_CUR', 'B_11_LOA']",0
-11,B_12,Yorkshire and The Humber,Agriculture forestry fishing,100-249,"['B_12_CUR', 'B_12_LOA']",0
-12,B_13,North West,Retail,100-249,"['B_13_CUR', 'B_13_LOA']",0
-13,B_14,North West,Construction,50-99,"['B_14_CUR', 'B_14_LOA']",0
-14,B_15,London,Professional scientific technical,100-249,"['B_15_CUR', 'B_15_LOA']",0
-15,B_16,South East,Transport Storage inc postal,100-249,"['B_16_CUR', 'B_16_LOA']",0
-16,B_17,London,Wholesale,50-99,"['B_17_CUR', 'B_17_LOA']",0
-17,B_18,South East,Information communication,250-499,"['B_18_CUR', 'B_18_LOA']",0
-18,B_19,East,Professional scientific technical,100-249,"['B_19_CUR', 'B_19_LOA']",0
-19,B_20,East,Professional scientific technical,50-99,"['B_20_CUR', 'B_20_LOA']",0
-20,B_21,South East,Wholesale,1000-1999,"['B_21_CUR', 'B_21_LOA']",0
-21,B_22,South West,Construction,50-99,"['B_22_CUR', 'B_22_LOA']",0
-22,B_23,London,Construction,0-49,"['B_23_CUR', 'B_23_LOA']",0
-23,B_24,Scotland,Retail,50-99,"['B_24_CUR', 'B_24_LOA']",0
-24,B_25,London,Arts entertainment recreation other services,50-99,"['B_25_CUR', 'B_25_LOA']",0
-25,B_26,London,Information communication,50-99,"['B_26_CUR', 'B_26_LOA']",0
-26,B_27,South East,Information communication,500-999,"['B_27_CUR', 'B_27_LOA']",0
-27,B_28,North West,Professional scientific technical,250-499,"['B_28_CUR', 'B_28_LOA']",0
-28,B_29,Wales,Construction,100-249,"['B_29_CUR', 'B_29_LOA']",0
-29,B_30,Northern Ireland,Health,100-249,"['B_30_CUR', 'B_30_LOA']",0
-30,B_31,London,Business administration support services,100-249,"['B_31_CUR', 'B_31_LOA']",0
-31,B_32,East Midlands,Health,100-249,"['B_32_CUR', 'B_32_LOA']",0
-32,B_33,South West,Motor trades,250-499,"['B_33_CUR', 'B_33_LOA']",0
-33,B_34,Wales,Construction,100-249,"['B_34_CUR', 'B_34_LOA']",0
-34,B_35,Scotland,Transport Storage inc postal,100-249,"['B_35_CUR', 'B_35_LOA']",0
-35,B_36,East Midlands,Information communication,0-49,"['B_36_CUR', 'B_36_LOA']",0
-36,B_37,West Midlands,Construction,100-249,"['B_37_CUR', 'B_37_LOA']",0
-37,B_38,Scotland,Retail,0-49,"['B_38_CUR', 'B_38_LOA']",0
-38,B_39,Yorkshire and The Humber,Construction,1000-1999,"['B_39_CUR', 'B_39_LOA']",0
-39,B_40,London,Accommodation food services,2000-4999,"['B_40_CUR', 'B_40_LOA']",0
-40,B_41,North West,Construction,100-249,"['B_41_CUR', 'B_41_LOA']",0
-41,B_42,East,Construction,100-249,"['B_42_CUR', 'B_42_LOA']",0
-42,B_43,Scotland,Wholesale,250-499,"['B_43_CUR', 'B_43_LOA']",0
-43,B_44,South West,Agriculture forestry fishing,50-99,"['B_44_CUR', 'B_44_LOA']",0
-44,B_45,South East,Wholesale,0-49,"['B_45_CUR', 'B_45_LOA']",0
-45,B_46,South East,Arts entertainment recreation other services,50-99,"['B_46_CUR', 'B_46_LOA']",0
-46,B_47,South West,Business administration support services,50-99,"['B_47_CUR', 'B_47_LOA']",0
-47,B_48,South West,Production,100-249,"['B_48_CUR', 'B_48_LOA']",0
-48,B_49,West Midlands,Production,0-49,"['B_49_CUR', 'B_49_LOA']",0
-49,B_50,London,Finance insurance,100-249,"['B_50_CUR', 'B_50_LOA']",0
-50,B_51,South East,Arts entertainment recreation other services,50-99,"['B_51_CUR', 'B_51_LOA']",0
-51,B_52,South West,Construction,10000-49999,"['B_52_CUR', 'B_52_LOA']",0
-52,B_53,West Midlands,Agriculture forestry fishing,250-499,"['B_53_CUR', 'B_53_LOA']",0
-53,B_54,North East,Property,50-99,"['B_54_CUR', 'B_54_LOA']",0
-54,B_55,East,Information communication,50-99,"['B_55_CUR', 'B_55_LOA']",0
-55,B_56,London,Information communication,100-249,"['B_56_CUR', 'B_56_LOA']",0
-56,B_57,South East,Accommodation food services,0-49,"['B_57_CUR', 'B_57_LOA']",0
-57,B_58,East,Construction,500-999,"['B_58_CUR', 'B_58_LOA']",0
-58,B_59,West Midlands,Business administration support services,500-999,"['B_59_CUR', 'B_59_LOA']",0
-59,B_60,Scotland,Wholesale,100-249,"['B_60_CUR', 'B_60_LOA']",0
-60,B_61,South East,Professional scientific technical,100-249,"['B_61_CUR', 'B_61_LOA']",0
-61,B_62,South West,Business administration support services,250-499,"['B_62_CUR', 'B_62_LOA']",0
-62,B_63,East Midlands,Retail,50-99,"['B_63_CUR', 'B_63_LOA']",0
-63,B_64,Yorkshire and The Humber,Business administration support services,500-999,"['B_64_CUR', 'B_64_LOA']",0
-64,B_65,North East,Accommodation food services,100-249,"['B_65_CUR', 'B_65_LOA']",0
-65,B_66,East Midlands,Health,100-249,"['B_66_CUR', 'B_66_LOA']",0
-66,B_67,South East,Professional scientific technical,0-49,"['B_67_CUR', 'B_67_LOA']",0
-67,B_68,North West,Information communication,100-249,"['B_68_CUR', 'B_68_LOA']",0
-68,B_69,Scotland,Health,100-249,"['B_69_CUR', 'B_69_LOA']",0
-69,B_70,Scotland,Property,0-49,"['B_70_CUR', 'B_70_LOA']",0
-70,B_71,London,Production,50000+,"['B_71_CUR', 'B_71_LOA']",0
-71,B_72,Yorkshire and The Humber,Agriculture forestry fishing,0-49,"['B_72_CUR', 'B_72_LOA']",0
-72,B_73,North West,Information communication,100-249,"['B_73_CUR', 'B_73_LOA']",0
-73,B_74,West Midlands,Business administration support services,500-999,"['B_74_CUR', 'B_74_LOA']",0
-74,B_75,Scotland,Production,100-249,"['B_75_CUR', 'B_75_LOA']",0
-75,B_76,London,Retail,100-249,"['B_76_CUR', 'B_76_LOA']",0
-76,B_77,North East,Production,250-499,"['B_77_CUR', 'B_77_LOA']",0
-77,B_78,Yorkshire and The Humber,Information communication,1000-1999,"['B_78_CUR', 'B_78_LOA']",0
-78,B_79,North East,Production,0-49,"['B_79_CUR', 'B_79_LOA']",0
-79,B_80,London,Wholesale,50-99,"['B_80_CUR', 'B_80_LOA']",0
-80,B_81,South West,Construction,50-99,"['B_81_CUR', 'B_81_LOA']",0
-81,B_82,South West,Retail,100-249,"['B_82_CUR', 'B_82_LOA']",0
-82,B_83,North West,Information communication,1000-1999,"['B_83_CUR', 'B_83_LOA']",0
-83,B_84,North West,Information communication,50-99,"['B_84_CUR', 'B_84_LOA']",0
-84,B_85,North West,Information communication,100-249,"['B_85_CUR', 'B_85_LOA']",0
-85,B_86,South East,Business administration support services,50-99,"['B_86_CUR', 'B_86_LOA']",0
-86,B_87,South West,Motor trades,50-99,"['B_87_CUR', 'B_87_LOA']",0
-87,B_88,North West,Professional scientific technical,100-249,"['B_88_CUR', 'B_88_LOA']",0
-88,B_89,East,Production,0-49,"['B_89_CUR', 'B_89_LOA']",0
-89,B_90,South East,Information communication,100-249,"['B_90_CUR', 'B_90_LOA']",0
-90,B_91,North West,Retail,100-249,"['B_91_CUR', 'B_91_LOA']",0
-91,B_92,East,Accommodation food services,50-99,"['B_92_CUR', 'B_92_LOA']",0
-92,B_93,South West,Agriculture forestry fishing,100-249,"['B_93_CUR', 'B_93_LOA']",0
-93,B_94,South East,Professional scientific technical,50-99,"['B_94_CUR', 'B_94_LOA']",0
-94,B_95,Yorkshire and The Humber,Arts entertainment recreation other services,50-99,"['B_95_CUR', 'B_95_LOA']",0
-95,B_96,West Midlands,Wholesale,100-249,"['B_96_CUR', 'B_96_LOA']",0
-96,B_97,North West,Public administration defence,10000-49999,"['B_97_CUR', 'B_97_LOA']",0
-97,B_98,London,Arts entertainment recreation other services,10000-49999,"['B_98_CUR', 'B_98_LOA']",0
-98,B_99,Northern Ireland,Construction,0-49,"['B_99_CUR', 'B_99_LOA']",0
-99,B_100,East,Construction,100-249,"['B_100_CUR', 'B_100_LOA']",0
-100,B_101,East Midlands,Professional scientific technical,100-249,"['B_101_CUR', 'B_101_LOA']",0
-101,B_102,Yorkshire and The Humber,Retail,500-999,"['B_102_CUR', 'B_102_LOA']",0
-102,B_103,Northern Ireland,Agriculture forestry fishing,0-49,"['B_103_CUR', 'B_103_LOA']",0
-103,B_104,East,Construction,100-249,"['B_104_CUR', 'B_104_LOA']",0
-104,B_105,Wales,Accommodation food services,2000-4999,"['B_105_CUR', 'B_105_LOA']",0
-105,B_106,North West,Construction,50-99,"['B_106_CUR', 'B_106_LOA']",0
-106,B_107,East,Wholesale,500-999,"['B_107_CUR', 'B_107_LOA']",0
-107,B_108,London,Transport Storage inc postal,0-49,"['B_108_CUR', 'B_108_LOA']",0
-108,B_109,North West,Business administration support services,250-499,"['B_109_CUR', 'B_109_LOA']",1
-109,B_110,London,Arts entertainment recreation other services,500-999,"['B_110_CUR', 'B_110_LOA']",0
-110,B_111,London,Business administration support services,250-499,"['B_111_CUR', 'B_111_LOA']",0
-111,B_112,Wales,Health,250-499,"['B_112_CUR', 'B_112_LOA']",0
-112,B_113,North West,Business administration support services,100-249,"['B_113_CUR', 'B_113_LOA']",0
-113,B_114,Scotland,Business administration support services,50-99,"['B_114_CUR', 'B_114_LOA']",0
-114,B_115,London,Arts entertainment recreation other services,0-49,"['B_115_CUR', 'B_115_LOA']",0
-115,B_116,East,Health,100-249,"['B_116_CUR', 'B_116_LOA']",0
-116,B_117,East,Arts entertainment recreation other services,100-249,"['B_117_CUR', 'B_117_LOA']",0
-117,B_118,North West,Motor trades,250-499,"['B_118_CUR', 'B_118_LOA']",0
-118,B_119,Yorkshire and The Humber,Accommodation food services,100-249,"['B_119_CUR', 'B_119_LOA']",0
-119,B_120,Yorkshire and The Humber,Professional scientific technical,50-99,"['B_120_CUR', 'B_120_LOA']",0
-120,B_121,Yorkshire and The Humber,Arts entertainment recreation other services,50-99,"['B_121_CUR', 'B_121_LOA']",0
-121,B_122,West Midlands,Professional scientific technical,50-99,"['B_122_CUR', 'B_122_LOA']",0
-122,B_123,Yorkshire and The Humber,Professional scientific technical,50-99,"['B_123_CUR', 'B_123_LOA']",0
-123,B_124,Scotland,Arts entertainment recreation other services,100-249,"['B_124_CUR', 'B_124_LOA']",0
-124,B_125,South East,Wholesale,50-99,"['B_125_CUR', 'B_125_LOA']",0
-125,B_126,West Midlands,Arts entertainment recreation other services,50-99,"['B_126_CUR', 'B_126_LOA']",0
-126,B_127,East,Arts entertainment recreation other services,100-249,"['B_127_CUR', 'B_127_LOA']",0
-127,B_128,East,Professional scientific technical,50-99,"['B_128_CUR', 'B_128_LOA']",0
-128,B_129,North East,Professional scientific technical,0-49,"['B_129_CUR', 'B_129_LOA']",0
-129,B_130,North West,Wholesale,50-99,"['B_130_CUR', 'B_130_LOA']",0
-130,B_131,North West,Wholesale,100-249,"['B_131_CUR', 'B_131_LOA']",0
-131,B_132,East Midlands,Information communication,0-49,"['B_132_CUR', 'B_132_LOA']",0
-132,B_133,Scotland,Arts entertainment recreation other services,50-99,"['B_133_CUR', 'B_133_LOA']",0
-133,B_134,Northern Ireland,Finance insurance,50-99,"['B_134_CUR', 'B_134_LOA']",0
-134,B_135,West Midlands,Professional scientific technical,250-499,"['B_135_CUR', 'B_135_LOA']",0
-135,B_136,South East,Professional scientific technical,50-99,"['B_136_CUR', 'B_136_LOA']",0
-136,B_137,Yorkshire and The Humber,Professional scientific technical,250-499,"['B_137_CUR', 'B_137_LOA']",0
-137,B_138,Northern Ireland,Retail,100-249,"['B_138_CUR', 'B_138_LOA']",0
-138,B_139,South East,Production,250-499,"['B_139_CUR', 'B_139_LOA']",0
-139,B_140,London,Business administration support services,100-249,"['B_140_CUR', 'B_140_LOA']",0
-140,B_141,North West,Professional scientific technical,250-499,"['B_141_CUR', 'B_141_LOA']",0
-141,B_142,London,Professional scientific technical,5000-9999,"['B_142_CUR', 'B_142_LOA']",0
-142,B_143,East Midlands,Construction,500-999,"['B_143_CUR', 'B_143_LOA']",0
-143,B_144,London,Education,50-99,"['B_144_CUR', 'B_144_LOA']",0
-144,B_145,London,Production,50-99,"['B_145_CUR', 'B_145_LOA']",0
-145,B_146,East Midlands,Professional scientific technical,0-49,"['B_146_CUR', 'B_146_LOA']",0
-146,B_147,West Midlands,Motor trades,250-499,"['B_147_CUR', 'B_147_LOA']",0
-147,B_148,London,Health,50-99,"['B_148_CUR', 'B_148_LOA']",0
-148,B_149,North East,Accommodation food services,100-249,"['B_149_CUR', 'B_149_LOA']",0
-149,B_150,South West,Arts entertainment recreation other services,500-999,"['B_150_CUR', 'B_150_LOA']",0
-150,B_151,South East,Professional scientific technical,0-49,"['B_151_CUR', 'B_151_LOA']",0
-151,B_152,West Midlands,Professional scientific technical,250-499,"['B_152_CUR', 'B_152_LOA']",0
-152,B_153,South East,Education,100-249,"['B_153_CUR', 'B_153_LOA']",0
-153,B_154,South West,Accommodation food services,100-249,"['B_154_CUR', 'B_154_LOA']",0
-154,B_155,West Midlands,Retail,1000-1999,"['B_155_CUR', 'B_155_LOA']",0
-155,B_156,London,Retail,100-249,"['B_156_CUR', 'B_156_LOA']",0
-156,B_157,London,Business administration support services,100-249,"['B_157_CUR', 'B_157_LOA']",0
-157,B_158,South East,Construction,100-249,"['B_158_CUR', 'B_158_LOA']",0
-158,B_159,West Midlands,Construction,250-499,"['B_159_CUR', 'B_159_LOA']",0
-159,B_160,North East,Professional scientific technical,0-49,"['B_160_CUR', 'B_160_LOA']",0
-160,B_161,London,Finance insurance,0-49,"['B_161_CUR', 'B_161_LOA']",0
-161,B_162,Yorkshire and The Humber,Professional scientific technical,1000-1999,"['B_162_CUR', 'B_162_LOA']",0
-162,B_163,Yorkshire and The Humber,Production,250-499,"['B_163_CUR', 'B_163_LOA']",0
-163,B_164,East,Retail,100-249,"['B_164_CUR', 'B_164_LOA']",0
-164,B_165,North West,Construction,100-249,"['B_165_CUR', 'B_165_LOA']",0
-165,B_166,London,Professional scientific technical,2000-4999,"['B_166_CUR', 'B_166_LOA']",0
-166,B_167,East Midlands,Agriculture forestry fishing,250-499,"['B_167_CUR', 'B_167_LOA']",0
-167,B_168,Wales,Business administration support services,50-99,"['B_168_CUR', 'B_168_LOA']",0
-168,B_169,London,Arts entertainment recreation other services,10000-49999,"['B_169_CUR', 'B_169_LOA']",0
-169,B_170,Northern Ireland,Professional scientific technical,0-49,"['B_170_CUR', 'B_170_LOA']",0
-170,B_171,West Midlands,Accommodation food services,100-249,"['B_171_CUR', 'B_171_LOA']",0
-171,B_172,Scotland,Agriculture forestry fishing,250-499,"['B_172_CUR', 'B_172_LOA']",0
-172,B_173,London,Production,0-49,"['B_173_CUR', 'B_173_LOA']",0
-173,B_174,North West,Construction,100-249,"['B_174_CUR', 'B_174_LOA']",0
-174,B_175,South East,Information communication,100-249,"['B_175_CUR', 'B_175_LOA']",0
-175,B_176,West Midlands,Wholesale,250-499,"['B_176_CUR', 'B_176_LOA']",0
-176,B_177,North East,Professional scientific technical,250-499,"['B_177_CUR', 'B_177_LOA']",0
-177,B_178,West Midlands,Arts entertainment recreation other services,250-499,"['B_178_CUR', 'B_178_LOA']",0
-178,B_179,Wales,Production,500-999,"['B_179_CUR', 'B_179_LOA']",0
-179,B_180,West Midlands,Business administration support services,250-499,"['B_180_CUR', 'B_180_LOA']",0
-180,B_181,West Midlands,Professional scientific technical,50-99,"['B_181_CUR', 'B_181_LOA']",0
-181,B_182,South West,Agriculture forestry fishing,250-499,"['B_182_CUR', 'B_182_LOA']",0
-182,B_183,East,Property,50-99,"['B_183_CUR', 'B_183_LOA']",0
-183,B_184,Yorkshire and The Humber,Retail,0-49,"['B_184_CUR', 'B_184_LOA']",0
-184,B_185,East,Transport Storage inc postal,500-999,"['B_185_CUR', 'B_185_LOA']",0
-185,B_186,London,Property,0-49,"['B_186_CUR', 'B_186_LOA']",0
-186,B_187,South East,Professional scientific technical,100-249,"['B_187_CUR', 'B_187_LOA']",0
-187,B_188,Wales,Professional scientific technical,0-49,"['B_188_CUR', 'B_188_LOA']",0
-188,B_189,Northern Ireland,Arts entertainment recreation other services,100-249,"['B_189_CUR', 'B_189_LOA']",0
-189,B_190,East,Motor trades,100-249,"['B_190_CUR', 'B_190_LOA']",0
-190,B_191,South East,Accommodation food services,250-499,"['B_191_CUR', 'B_191_LOA']",0
-191,B_192,East,Accommodation food services,250-499,"['B_192_CUR', 'B_192_LOA']",0
-192,B_193,London,Retail,0-49,"['B_193_CUR', 'B_193_LOA']",0
-193,B_194,South West,Information communication,2000-4999,"['B_194_CUR', 'B_194_LOA']",0
-194,B_195,North East,Property,250-499,"['B_195_CUR', 'B_195_LOA']",0
-195,B_196,London,Business administration support services,100-249,"['B_196_CUR', 'B_196_LOA']",0
-196,B_197,South East,Professional scientific technical,100-249,"['B_197_CUR', 'B_197_LOA']",0
-197,B_198,London,Professional scientific technical,50000+,"['B_198_CUR', 'B_198_LOA']",0
-198,B_199,East Midlands,Transport Storage inc postal,500-999,"['B_199_CUR', 'B_199_LOA']",0
-199,B_200,South East,Business administration support services,1000-1999,"['B_200_CUR', 'B_200_LOA']",0
-200,B_201,London,Motor trades,100-249,"['B_201_CUR', 'B_201_LOA']",0
-201,B_202,London,Production,0-49,"['B_202_CUR', 'B_202_LOA']",0
-202,B_203,Wales,Accommodation food services,0-49,"['B_203_CUR', 'B_203_LOA']",0
-203,B_204,Scotland,Property,0-49,"['B_204_CUR', 'B_204_LOA']",0
-204,B_205,Yorkshire and The Humber,Professional scientific technical,500-999,"['B_205_CUR', 'B_205_LOA']",0
-205,B_206,London,Arts entertainment recreation other services,100-249,"['B_206_CUR', 'B_206_LOA']",0
-206,B_207,London,Professional scientific technical,50-99,"['B_207_CUR', 'B_207_LOA']",0
-207,B_208,North West,Construction,50-99,"['B_208_CUR', 'B_208_LOA']",0
-208,B_209,London,Information communication,500-999,"['B_209_CUR', 'B_209_LOA']",0
-209,B_210,South East,Wholesale,500-999,"['B_210_CUR', 'B_210_LOA']",0
-210,B_211,South East,Professional scientific technical,500-999,"['B_211_CUR', 'B_211_LOA']",0
-211,B_212,London,Retail,250-499,"['B_212_CUR', 'B_212_LOA']",0
-212,B_213,South East,Construction,50-99,"['B_213_CUR', 'B_213_LOA']",0
-213,B_214,South West,Production,100-249,"['B_214_CUR', 'B_214_LOA']",0
-214,B_215,London,Information communication,250-499,"['B_215_CUR', 'B_215_LOA']",0
-215,B_216,South West,Finance insurance,10000-49999,"['B_216_CUR', 'B_216_LOA']",0
-216,B_217,London,Motor trades,0-49,"['B_217_CUR', 'B_217_LOA']",0
-217,B_218,Scotland,Arts entertainment recreation other services,250-499,"['B_218_CUR', 'B_218_LOA']",0
-218,B_219,Scotland,Agriculture forestry fishing,100-249,"['B_219_CUR', 'B_219_LOA']",0
-219,B_220,London,Wholesale,100-249,"['B_220_CUR', 'B_220_LOA']",0
-220,B_221,Yorkshire and The Humber,Construction,2000-4999,"['B_221_CUR', 'B_221_LOA']",0
-221,B_222,Yorkshire and The Humber,Construction,50-99,"['B_222_CUR', 'B_222_LOA']",0
-222,B_223,South East,Education,0-49,"['B_223_CUR', 'B_223_LOA']",0
-223,B_224,South West,Information communication,100-249,"['B_224_CUR', 'B_224_LOA']",0
-224,B_225,East Midlands,Business administration support services,0-49,"['B_225_CUR', 'B_225_LOA']",0
-225,B_226,London,Arts entertainment recreation other services,50-99,"['B_226_CUR', 'B_226_LOA']",0
-226,B_227,South West,Professional scientific technical,500-999,"['B_227_CUR', 'B_227_LOA']",0
-227,B_228,North West,Transport Storage inc postal,250-499,"['B_228_CUR', 'B_228_LOA']",0
-228,B_229,London,Business administration support services,50-99,"['B_229_CUR', 'B_229_LOA']",0
-229,B_230,East,Property,250-499,"['B_230_CUR', 'B_230_LOA']",0
-230,B_231,London,Information communication,250-499,"['B_231_CUR', 'B_231_LOA']",0
-231,B_232,Scotland,Accommodation food services,250-499,"['B_232_CUR', 'B_232_LOA']",0
-232,B_233,South West,Construction,50-99,"['B_233_CUR', 'B_233_LOA']",0
-233,B_234,South East,Construction,100-249,"['B_234_CUR', 'B_234_LOA']",0
-234,B_235,London,Business administration support services,100-249,"['B_235_CUR', 'B_235_LOA']",0
-235,B_236,East Midlands,Transport Storage inc postal,50-99,"['B_236_CUR', 'B_236_LOA']",0
-236,B_237,East Midlands,Retail,0-49,"['B_237_CUR', 'B_237_LOA']",0
-237,B_238,South East,Retail,100-249,"['B_238_CUR', 'B_238_LOA']",0
-238,B_239,South East,Arts entertainment recreation other services,1000-1999,"['B_239_CUR', 'B_239_LOA']",0
-239,B_240,London,Business administration support services,0-49,"['B_240_CUR', 'B_240_LOA']",0
-240,B_241,East,Professional scientific technical,250-499,"['B_241_CUR', 'B_241_LOA']",0
-241,B_242,North West,Professional scientific technical,0-49,"['B_242_CUR', 'B_242_LOA']",0
-242,B_243,West Midlands,Agriculture forestry fishing,250-499,"['B_243_CUR', 'B_243_LOA']",0
-243,B_244,South East,Professional scientific technical,250-499,"['B_244_CUR', 'B_244_LOA']",0
-244,B_245,London,Retail,50-99,"['B_245_CUR', 'B_245_LOA']",0
-245,B_246,Yorkshire and The Humber,Construction,2000-4999,"['B_246_CUR', 'B_246_LOA']",0
-246,B_247,North East,Production,250-499,"['B_247_CUR', 'B_247_LOA']",0
-247,B_248,West Midlands,Professional scientific technical,50-99,"['B_248_CUR', 'B_248_LOA']",0
-248,B_249,South East,Professional scientific technical,0-49,"['B_249_CUR', 'B_249_LOA']",0
-249,B_250,London,Finance insurance,500-999,"['B_250_CUR', 'B_250_LOA']",0
-250,B_251,West Midlands,Business administration support services,250-499,"['B_251_CUR', 'B_251_LOA']",0
-251,B_252,South East,Arts entertainment recreation other services,500-999,"['B_252_CUR', 'B_252_LOA']",0
-252,B_253,Scotland,Construction,100-249,"['B_253_CUR', 'B_253_LOA']",0
-253,B_254,South East,Agriculture forestry fishing,50-99,"['B_254_CUR', 'B_254_LOA']",0
-254,B_255,South East,Professional scientific technical,50-99,"['B_255_CUR', 'B_255_LOA']",0
-255,B_256,North West,Retail,50-99,"['B_256_CUR', 'B_256_LOA']",0
-256,B_257,South East,Retail,100-249,"['B_257_CUR', 'B_257_LOA']",0
-257,B_258,South West,Agriculture forestry fishing,50-99,"['B_258_CUR', 'B_258_LOA']",0
-258,B_259,South West,Motor trades,2000-4999,"['B_259_CUR', 'B_259_LOA']",0
-259,B_260,London,Accommodation food services,50-99,"['B_260_CUR', 'B_260_LOA']",0
-260,B_261,North West,Finance insurance,0-49,"['B_261_CUR', 'B_261_LOA']",0
-261,B_262,North East,Agriculture forestry fishing,50-99,"['B_262_CUR', 'B_262_LOA']",0
-262,B_263,North West,Professional scientific technical,50-99,"['B_263_CUR', 'B_263_LOA']",0
-263,B_264,London,Arts entertainment recreation other services,100-249,"['B_264_CUR', 'B_264_LOA']",0
-264,B_265,East,Motor trades,250-499,"['B_265_CUR', 'B_265_LOA']",0
-265,B_266,London,Transport Storage inc postal,500-999,"['B_266_CUR', 'B_266_LOA']",0
-266,B_267,South East,Business administration support services,100-249,"['B_267_CUR', 'B_267_LOA']",0
-267,B_268,London,Production,250-499,"['B_268_CUR', 'B_268_LOA']",0
-268,B_269,London,Retail,500-999,"['B_269_CUR', 'B_269_LOA']",0
-269,B_270,London,Professional scientific technical,100-249,"['B_270_CUR', 'B_270_LOA']",0
-270,B_271,North West,Property,50-99,"['B_271_CUR', 'B_271_LOA']",0
-271,B_272,East Midlands,Professional scientific technical,100-249,"['B_272_CUR', 'B_272_LOA']",0
-272,B_273,South East,Accommodation food services,500-999,"['B_273_CUR', 'B_273_LOA']",0
-273,B_274,Wales,Business administration support services,1000-1999,"['B_274_CUR', 'B_274_LOA']",0
-274,B_275,Scotland,Arts entertainment recreation other services,100-249,"['B_275_CUR', 'B_275_LOA']",0
-275,B_276,London,Information communication,250-499,"['B_276_CUR', 'B_276_LOA']",0
-276,B_277,West Midlands,Accommodation food services,250-499,"['B_277_CUR', 'B_277_LOA']",0
-277,B_278,West Midlands,Accommodation food services,250-499,"['B_278_CUR', 'B_278_LOA']",0
-278,B_279,Scotland,Business administration support services,100-249,"['B_279_CUR', 'B_279_LOA']",0
-279,B_280,London,Business administration support services,0-49,"['B_280_CUR', 'B_280_LOA']",0
-280,B_281,East,Health,50-99,"['B_281_CUR', 'B_281_LOA']",0
-281,B_282,East,Construction,0-49,"['B_282_CUR', 'B_282_LOA']",0
-282,B_283,West Midlands,Property,0-49,"['B_283_CUR', 'B_283_LOA']",0
-283,B_284,North West,Construction,50-99,"['B_284_CUR', 'B_284_LOA']",0
-284,B_285,East,Construction,100-249,"['B_285_CUR', 'B_285_LOA']",0
-285,B_286,London,Production,50-99,"['B_286_CUR', 'B_286_LOA']",0
-286,B_287,East,Business administration support services,250-499,"['B_287_CUR', 'B_287_LOA']",0
-287,B_288,North West,Production,100-249,"['B_288_CUR', 'B_288_LOA']",0
-288,B_289,East Midlands,Retail,100-249,"['B_289_CUR', 'B_289_LOA']",0
-289,B_290,South East,Property,1000-1999,"['B_290_CUR', 'B_290_LOA']",0
-290,B_291,North West,Accommodation food services,250-499,"['B_291_CUR', 'B_291_LOA']",0
-291,B_292,London,Production,50-99,"['B_292_CUR', 'B_292_LOA']",0
-292,B_293,Yorkshire and The Humber,Construction,0-49,"['B_293_CUR', 'B_293_LOA']",0
-293,B_294,London,Information communication,100-249,"['B_294_CUR', 'B_294_LOA']",0
-294,B_295,Yorkshire and The Humber,Information communication,50-99,"['B_295_CUR', 'B_295_LOA']",0
-295,B_296,South West,Health,100-249,"['B_296_CUR', 'B_296_LOA']",0
-296,B_297,North West,Business administration support services,100-249,"['B_297_CUR', 'B_297_LOA']",0
-297,B_298,London,Professional scientific technical,2000-4999,"['B_298_CUR', 'B_298_LOA']",0
-298,B_299,East Midlands,Professional scientific technical,50-99,"['B_299_CUR', 'B_299_LOA']",0
-299,B_300,South East,Professional scientific technical,100-249,"['B_300_CUR', 'B_300_LOA']",0
-300,B_301,North West,Business administration support services,100-249,"['B_301_CUR', 'B_301_LOA']",0
-301,B_302,South West,Property,50-99,"['B_302_CUR', 'B_302_LOA']",0
-302,B_303,West Midlands,Transport Storage inc postal,250-499,"['B_303_CUR', 'B_303_LOA']",0
-303,B_304,South West,Information communication,50-99,"['B_304_CUR', 'B_304_LOA']",0
-304,B_305,South East,Finance insurance,50-99,"['B_305_CUR', 'B_305_LOA']",0
-305,B_306,London,Information communication,5000-9999,"['B_306_CUR', 'B_306_LOA']",0
-306,B_307,London,Transport Storage inc postal,50-99,"['B_307_CUR', 'B_307_LOA']",0
-307,B_308,Scotland,Health,100-249,"['B_308_CUR', 'B_308_LOA']",0
-308,B_309,South East,Professional scientific technical,100-249,"['B_309_CUR', 'B_309_LOA']",0
-309,B_310,West Midlands,Accommodation food services,100-249,"['B_310_CUR', 'B_310_LOA']",0
-310,B_311,London,Professional scientific technical,50-99,"['B_311_CUR', 'B_311_LOA']",0
-311,B_312,North West,Retail,1000-1999,"['B_312_CUR', 'B_312_LOA']",0
-312,B_313,Scotland,Health,100-249,"['B_313_CUR', 'B_313_LOA']",0
-313,B_314,London,Property,50-99,"['B_314_CUR', 'B_314_LOA']",0
-314,B_315,London,Professional scientific technical,100-249,"['B_315_CUR', 'B_315_LOA']",0
-315,B_316,London,Business administration support services,100-249,"['B_316_CUR', 'B_316_LOA']",0
-316,B_317,South East,Agriculture forestry fishing,250-499,"['B_317_CUR', 'B_317_LOA']",0
-317,B_318,South East,Motor trades,100-249,"['B_318_CUR', 'B_318_LOA']",0
-318,B_319,South East,Arts entertainment recreation other services,0-49,"['B_319_CUR', 'B_319_LOA']",0
-319,B_320,Wales,Production,500-999,"['B_320_CUR', 'B_320_LOA']",0
-320,B_321,Wales,Professional scientific technical,500-999,"['B_321_CUR', 'B_321_LOA']",0
-321,B_322,East Midlands,Retail,50-99,"['B_322_CUR', 'B_322_LOA']",0
-322,B_323,East,Arts entertainment recreation other services,100-249,"['B_323_CUR', 'B_323_LOA']",0
-323,B_324,Yorkshire and The Humber,Construction,100-249,"['B_324_CUR', 'B_324_LOA']",0
-324,B_325,East,Retail,100-249,"['B_325_CUR', 'B_325_LOA']",0
-325,B_326,East,Construction,50-99,"['B_326_CUR', 'B_326_LOA']",0
-326,B_327,South East,Construction,50-99,"['B_327_CUR', 'B_327_LOA']",0
-327,B_328,South West,Agriculture forestry fishing,100-249,"['B_328_CUR', 'B_328_LOA']",0
-328,B_329,East Midlands,Agriculture forestry fishing,250-499,"['B_329_CUR', 'B_329_LOA']",0
-329,B_330,South East,Professional scientific technical,100-249,"['B_330_CUR', 'B_330_LOA']",0
-330,B_331,London,Professional scientific technical,500-999,"['B_331_CUR', 'B_331_LOA']",0
-331,B_332,East,Construction,2000-4999,"['B_332_CUR', 'B_332_LOA']",0
-332,B_333,South East,Production,2000-4999,"['B_333_CUR', 'B_333_LOA']",0
-333,B_334,South East,Accommodation food services,100-249,"['B_334_CUR', 'B_334_LOA']",0
-334,B_335,Yorkshire and The Humber,Production,50-99,"['B_335_CUR', 'B_335_LOA']",0
-335,B_336,London,Construction,50-99,"['B_336_CUR', 'B_336_LOA']",0
-336,B_337,London,Retail,500-999,"['B_337_CUR', 'B_337_LOA']",0
-337,B_338,South East,Professional scientific technical,250-499,"['B_338_CUR', 'B_338_LOA']",0
-338,B_339,Scotland,Business administration support services,100-249,"['B_339_CUR', 'B_339_LOA']",0
-339,B_340,London,Information communication,100-249,"['B_340_CUR', 'B_340_LOA']",0
-340,B_341,West Midlands,Professional scientific technical,500-999,"['B_341_CUR', 'B_341_LOA']",0
-341,B_342,Scotland,Retail,100-249,"['B_342_CUR', 'B_342_LOA']",0
-342,B_343,Scotland,Accommodation food services,100-249,"['B_343_CUR', 'B_343_LOA']",0
-343,B_344,East,Professional scientific technical,250-499,"['B_344_CUR', 'B_344_LOA']",0
-344,B_345,South East,Professional scientific technical,250-499,"['B_345_CUR', 'B_345_LOA']",0
-345,B_346,Northern Ireland,Agriculture forestry fishing,500-999,"['B_346_CUR', 'B_346_LOA']",0
-346,B_347,South West,Accommodation food services,0-49,"['B_347_CUR', 'B_347_LOA']",0
-347,B_348,East,Arts entertainment recreation other services,0-49,"['B_348_CUR', 'B_348_LOA']",0
-348,B_349,North East,Retail,100-249,"['B_349_CUR', 'B_349_LOA']",0
-349,B_350,Wales,Production,250-499,"['B_350_CUR', 'B_350_LOA']",0
-350,B_351,South West,Business administration support services,50-99,"['B_351_CUR', 'B_351_LOA']",0
-351,B_352,Yorkshire and The Humber,Accommodation food services,250-499,"['B_352_CUR', 'B_352_LOA']",0
-352,B_353,West Midlands,Professional scientific technical,100-249,"['B_353_CUR', 'B_353_LOA']",0
-353,B_354,South East,Professional scientific technical,0-49,"['B_354_CUR', 'B_354_LOA']",0
-354,B_355,South East,Agriculture forestry fishing,250-499,"['B_355_CUR', 'B_355_LOA']",0
-355,B_356,London,Business administration support services,250-499,"['B_356_CUR', 'B_356_LOA']",0
-356,B_357,North East,Business administration support services,100-249,"['B_357_CUR', 'B_357_LOA']",1
-357,B_358,Yorkshire and The Humber,Agriculture forestry fishing,50-99,"['B_358_CUR', 'B_358_LOA']",0
-358,B_359,South East,Information communication,0-49,"['B_359_CUR', 'B_359_LOA']",0
-359,B_360,London,Construction,50-99,"['B_360_CUR', 'B_360_LOA']",0
-360,B_361,London,Arts entertainment recreation other services,0-49,"['B_361_CUR', 'B_361_LOA']",0
-361,B_362,South East,Transport Storage inc postal,50-99,"['B_362_CUR', 'B_362_LOA']",0
-362,B_363,Scotland,Arts entertainment recreation other services,100-249,"['B_363_CUR', 'B_363_LOA']",0
-363,B_364,East,Health,50-99,"['B_364_CUR', 'B_364_LOA']",0
-364,B_365,Yorkshire and The Humber,Professional scientific technical,250-499,"['B_365_CUR', 'B_365_LOA']",0
-365,B_366,Scotland,Accommodation food services,100-249,"['B_366_CUR', 'B_366_LOA']",0
-366,B_367,East Midlands,Professional scientific technical,50-99,"['B_367_CUR', 'B_367_LOA']",0
-367,B_368,Yorkshire and The Humber,Professional scientific technical,0-49,"['B_368_CUR', 'B_368_LOA']",0
-368,B_369,Yorkshire and The Humber,Production,250-499,"['B_369_CUR', 'B_369_LOA']",0
-369,B_370,Yorkshire and The Humber,Wholesale,250-499,"['B_370_CUR', 'B_370_LOA']",0
-370,B_371,West Midlands,Retail,0-49,"['B_371_CUR', 'B_371_LOA']",0
-371,B_372,East,Professional scientific technical,100-249,"['B_372_CUR', 'B_372_LOA']",0
-372,B_373,West Midlands,Transport Storage inc postal,500-999,"['B_373_CUR', 'B_373_LOA']",0
-373,B_374,North East,Construction,250-499,"['B_374_CUR', 'B_374_LOA']",0
-374,B_375,South East,Arts entertainment recreation other services,500-999,"['B_375_CUR', 'B_375_LOA']",0
-375,B_376,West Midlands,Construction,100-249,"['B_376_CUR', 'B_376_LOA']",0
-376,B_377,London,Accommodation food services,100-249,"['B_377_CUR', 'B_377_LOA']",0
-377,B_378,South East,Retail,250-499,"['B_378_CUR', 'B_378_LOA']",0
-378,B_379,Scotland,Construction,250-499,"['B_379_CUR', 'B_379_LOA']",0
-379,B_380,Yorkshire and The Humber,Accommodation food services,100-249,"['B_380_CUR', 'B_380_LOA']",0
-380,B_381,South East,Professional scientific technical,50-99,"['B_381_CUR', 'B_381_LOA']",0
-381,B_382,North West,Professional scientific technical,50-99,"['B_382_CUR', 'B_382_LOA']",0
-382,B_383,Scotland,Professional scientific technical,100-249,"['B_383_CUR', 'B_383_LOA']",0
-383,B_384,Scotland,Retail,250-499,"['B_384_CUR', 'B_384_LOA']",0
-384,B_385,London,Accommodation food services,50-99,"['B_385_CUR', 'B_385_LOA']",0
-385,B_386,South East,Information communication,0-49,"['B_386_CUR', 'B_386_LOA']",0
-386,B_387,East,Business administration support services,250-499,"['B_387_CUR', 'B_387_LOA']",0
-387,B_388,Northern Ireland,Transport Storage inc postal,2000-4999,"['B_388_CUR', 'B_388_LOA']",0
-388,B_389,London,Health,100-249,"['B_389_CUR', 'B_389_LOA']",0
-389,B_390,North West,Business administration support services,100-249,"['B_390_CUR', 'B_390_LOA']",0
-390,B_391,South East,Professional scientific technical,0-49,"['B_391_CUR', 'B_391_LOA']",0
-391,B_392,Wales,Business administration support services,100-249,"['B_392_CUR', 'B_392_LOA']",0
-392,B_393,South West,Transport Storage inc postal,500-999,"['B_393_CUR', 'B_393_LOA']",0
-393,B_394,Scotland,Information communication,250-499,"['B_394_CUR', 'B_394_LOA']",0
-394,B_395,South East,Information communication,50-99,"['B_395_CUR', 'B_395_LOA']",0
-395,B_396,Yorkshire and The Humber,Accommodation food services,2000-4999,"['B_396_CUR', 'B_396_LOA']",0
-396,B_397,London,Retail,100-249,"['B_397_CUR', 'B_397_LOA']",0
-397,B_398,North West,Professional scientific technical,100-249,"['B_398_CUR', 'B_398_LOA']",0
-398,B_399,West Midlands,Construction,100-249,"['B_399_CUR', 'B_399_LOA']",0
-399,B_400,West Midlands,Construction,100-249,"['B_400_CUR', 'B_400_LOA']",0
-400,B_401,East,Professional scientific technical,50-99,"['B_401_CUR', 'B_401_LOA']",0
-401,B_402,Yorkshire and The Humber,Construction,50-99,"['B_402_CUR', 'B_402_LOA']",0
-402,B_403,London,Retail,1000-1999,"['B_403_CUR', 'B_403_LOA']",0
-403,B_404,London,Information communication,100-249,"['B_404_CUR', 'B_404_LOA']",0
-404,B_405,South West,Accommodation food services,1000-1999,"['B_405_CUR', 'B_405_LOA']",0
-405,B_406,North East,Health,50-99,"['B_406_CUR', 'B_406_LOA']",0
-406,B_407,East,Production,250-499,"['B_407_CUR', 'B_407_LOA']",0
-407,B_408,Yorkshire and The Humber,Agriculture forestry fishing,250-499,"['B_408_CUR', 'B_408_LOA']",0
-408,B_409,North West,Business administration support services,500-999,"['B_409_CUR', 'B_409_LOA']",0
-409,B_410,South East,Business administration support services,100-249,"['B_410_CUR', 'B_410_LOA']",0
-410,B_411,Yorkshire and The Humber,Construction,100-249,"['B_411_CUR', 'B_411_LOA']",0
-411,B_412,South East,Business administration support services,100-249,"['B_412_CUR', 'B_412_LOA']",0
-412,B_413,East,Motor trades,100-249,"['B_413_CUR', 'B_413_LOA']",0
-413,B_414,East Midlands,Property,100-249,"['B_414_CUR', 'B_414_LOA']",0
-414,B_415,Wales,Transport Storage inc postal,500-999,"['B_415_CUR', 'B_415_LOA']",0
-415,B_416,Scotland,Motor trades,50-99,"['B_416_CUR', 'B_416_LOA']",0
-416,B_417,London,Construction,100-249,"['B_417_CUR', 'B_417_LOA']",0
-417,B_418,East,Professional scientific technical,1000-1999,"['B_418_CUR', 'B_418_LOA']",0
-418,B_419,South East,Health,500-999,"['B_419_CUR', 'B_419_LOA']",0
-419,B_420,London,Construction,250-499,"['B_420_CUR', 'B_420_LOA']",0
-420,B_421,West Midlands,Professional scientific technical,50-99,"['B_421_CUR', 'B_421_LOA']",0
-421,B_422,West Midlands,Business administration support services,500-999,"['B_422_CUR', 'B_422_LOA']",0
-422,B_423,South East,Property,2000-4999,"['B_423_CUR', 'B_423_LOA']",0
-423,B_424,East Midlands,Retail,100-249,"['B_424_CUR', 'B_424_LOA']",0
-424,B_425,North East,Business administration support services,0-49,"['B_425_CUR', 'B_425_LOA']",0
-425,B_426,South East,Professional scientific technical,500-999,"['B_426_CUR', 'B_426_LOA']",0
-426,B_427,East Midlands,Construction,0-49,"['B_427_CUR', 'B_427_LOA']",0
-427,B_428,North West,Accommodation food services,100-249,"['B_428_CUR', 'B_428_LOA']",0
-428,B_429,North East,Professional scientific technical,500-999,"['B_429_CUR', 'B_429_LOA']",0
-429,B_430,East,Wholesale,100-249,"['B_430_CUR', 'B_430_LOA']",0
-430,B_431,Scotland,Professional scientific technical,50-99,"['B_431_CUR', 'B_431_LOA']",0
-431,B_432,Yorkshire and The Humber,Agriculture forestry fishing,50-99,"['B_432_CUR', 'B_432_LOA']",0
-432,B_433,Northern Ireland,Construction,50-99,"['B_433_CUR', 'B_433_LOA']",0
-433,B_434,South East,Construction,100-249,"['B_434_CUR', 'B_434_LOA']",0
-434,B_435,South East,Accommodation food services,1000-1999,"['B_435_CUR', 'B_435_LOA']",0
-435,B_436,South West,Construction,500-999,"['B_436_CUR', 'B_436_LOA']",0
-436,B_437,West Midlands,Retail,1000-1999,"['B_437_CUR', 'B_437_LOA']",0
-437,B_438,London,Health,0-49,"['B_438_CUR', 'B_438_LOA']",0
-438,B_439,Yorkshire and The Humber,Retail,100-249,"['B_439_CUR', 'B_439_LOA']",0
-439,B_440,Scotland,Professional scientific technical,100-249,"['B_440_CUR', 'B_440_LOA']",0
-440,B_441,East,Information communication,250-499,"['B_441_CUR', 'B_441_LOA']",0
-441,B_442,South East,Construction,100-249,"['B_442_CUR', 'B_442_LOA']",0
-442,B_443,West Midlands,Professional scientific technical,100-249,"['B_443_CUR', 'B_443_LOA']",0
-443,B_444,Yorkshire and The Humber,Retail,500-999,"['B_444_CUR', 'B_444_LOA']",0
-444,B_445,Yorkshire and The Humber,Business administration support services,50-99,"['B_445_CUR', 'B_445_LOA']",0
-445,B_446,East Midlands,Business administration support services,250-499,"['B_446_CUR', 'B_446_LOA']",0
-446,B_447,South East,Transport Storage inc postal,10000-49999,"['B_447_CUR', 'B_447_LOA']",0
-447,B_448,Yorkshire and The Humber,Transport Storage inc postal,100-249,"['B_448_CUR', 'B_448_LOA']",0
-448,B_449,East,Arts entertainment recreation other services,100-249,"['B_449_CUR', 'B_449_LOA']",0
-449,B_450,East Midlands,Accommodation food services,100-249,"['B_450_CUR', 'B_450_LOA']",0
-450,B_451,North West,Professional scientific technical,2000-4999,"['B_451_CUR', 'B_451_LOA']",0
-451,B_452,East,Business administration support services,50-99,"['B_452_CUR', 'B_452_LOA']",0
-452,B_453,East Midlands,Retail,0-49,"['B_453_CUR', 'B_453_LOA']",0
-453,B_454,Scotland,Health,50-99,"['B_454_CUR', 'B_454_LOA']",0
-454,B_455,East Midlands,Professional scientific technical,250-499,"['B_455_CUR', 'B_455_LOA']",0
-455,B_456,Scotland,Business administration support services,250-499,"['B_456_CUR', 'B_456_LOA']",0
-456,B_457,London,Professional scientific technical,100-249,"['B_457_CUR', 'B_457_LOA']",0
-457,B_458,Yorkshire and The Humber,Business administration support services,100-249,"['B_458_CUR', 'B_458_LOA']",0
-458,B_459,North East,Retail,500-999,"['B_459_CUR', 'B_459_LOA']",0
-459,B_460,North East,Professional scientific technical,0-49,"['B_460_CUR', 'B_460_LOA']",0
-460,B_461,North East,Arts entertainment recreation other services,50-99,"['B_461_CUR', 'B_461_LOA']",0
-461,B_462,South West,Property,50-99,"['B_462_CUR', 'B_462_LOA']",0
-462,B_463,North West,Information communication,100-249,"['B_463_CUR', 'B_463_LOA']",0
-463,B_464,South East,Information communication,250-499,"['B_464_CUR', 'B_464_LOA']",0
-464,B_465,London,Professional scientific technical,50-99,"['B_465_CUR', 'B_465_LOA']",0
-465,B_466,Northern Ireland,Agriculture forestry fishing,0-49,"['B_466_CUR', 'B_466_LOA']",0
-466,B_467,East,Construction,100-249,"['B_467_CUR', 'B_467_LOA']",0
-467,B_468,South East,Information communication,250-499,"['B_468_CUR', 'B_468_LOA']",0
-468,B_469,London,Construction,100-249,"['B_469_CUR', 'B_469_LOA']",0
-469,B_470,Scotland,Professional scientific technical,10000-49999,"['B_470_CUR', 'B_470_LOA']",0
-470,B_471,London,Business administration support services,1000-1999,"['B_471_CUR', 'B_471_LOA']",0
-471,B_472,South East,Business administration support services,100-249,"['B_472_CUR', 'B_472_LOA']",0
-472,B_473,West Midlands,Agriculture forestry fishing,100-249,"['B_473_CUR', 'B_473_LOA']",0
-473,B_474,East,Arts entertainment recreation other services,250-499,"['B_474_CUR', 'B_474_LOA']",0
-474,B_475,Northern Ireland,Agriculture forestry fishing,100-249,"['B_475_CUR', 'B_475_LOA']",0
-475,B_476,London,Health,100-249,"['B_476_CUR', 'B_476_LOA']",0
-476,B_477,Wales,Information communication,100-249,"['B_477_CUR', 'B_477_LOA']",0
-477,B_478,Northern Ireland,Transport Storage inc postal,250-499,"['B_478_CUR', 'B_478_LOA']",0
-478,B_479,South East,Arts entertainment recreation other services,250-499,"['B_479_CUR', 'B_479_LOA']",0
-479,B_480,West Midlands,Motor trades,500-999,"['B_480_CUR', 'B_480_LOA']",0
-480,B_481,London,Business administration support services,500-999,"['B_481_CUR', 'B_481_LOA']",0
-481,B_482,North West,Business administration support services,50-99,"['B_482_CUR', 'B_482_LOA']",0
-482,B_483,London,Professional scientific technical,50-99,"['B_483_CUR', 'B_483_LOA']",0
-483,B_484,Scotland,Health,100-249,"['B_484_CUR', 'B_484_LOA']",0
-484,B_485,East,Property,100-249,"['B_485_CUR', 'B_485_LOA']",0
-485,B_486,East Midlands,Wholesale,100-249,"['B_486_CUR', 'B_486_LOA']",0
-486,B_487,North West,Accommodation food services,50-99,"['B_487_CUR', 'B_487_LOA']",0
-487,B_488,North East,Construction,500-999,"['B_488_CUR', 'B_488_LOA']",0
-488,B_489,London,Finance insurance,100-249,"['B_489_CUR', 'B_489_LOA']",0
-489,B_490,East,Business administration support services,2000-4999,"['B_490_CUR', 'B_490_LOA']",0
-490,B_491,East,Finance insurance,0-49,"['B_491_CUR', 'B_491_LOA']",0
-491,B_492,London,Professional scientific technical,250-499,"['B_492_CUR', 'B_492_LOA']",0
-492,B_493,Yorkshire and The Humber,Retail,500-999,"['B_493_CUR', 'B_493_LOA']",0
-493,B_494,South West,Agriculture forestry fishing,50-99,"['B_494_CUR', 'B_494_LOA']",0
-494,B_495,South East,Business administration support services,100-249,"['B_495_CUR', 'B_495_LOA']",0
-495,B_496,London,Retail,100-249,"['B_496_CUR', 'B_496_LOA']",0
-496,B_497,Yorkshire and The Humber,Accommodation food services,5000-9999,"['B_497_CUR', 'B_497_LOA']",0
-497,B_498,Scotland,Professional scientific technical,100-249,"['B_498_CUR', 'B_498_LOA']",0
-498,B_499,Scotland,Property,0-49,"['B_499_CUR', 'B_499_LOA']",0
-499,B_500,London,Construction,50-99,"['B_500_CUR', 'B_500_LOA']",0
-500,B_501,South West,Production,250-499,"['B_501_CUR', 'B_501_LOA']",0
-501,B_502,Scotland,Construction,50-99,"['B_502_CUR', 'B_502_LOA']",0
-502,B_503,South East,Information communication,0-49,"['B_503_CUR', 'B_503_LOA']",0
-503,B_504,South East,Retail,10000-49999,"['B_504_CUR', 'B_504_LOA']",0
-504,B_505,East,Construction,500-999,"['B_505_CUR', 'B_505_LOA']",0
-505,B_506,South West,Information communication,100-249,"['B_506_CUR', 'B_506_LOA']",0
-506,B_507,Scotland,Production,500-999,"['B_507_CUR', 'B_507_LOA']",0
-507,B_508,Yorkshire and The Humber,Accommodation food services,100-249,"['B_508_CUR', 'B_508_LOA']",0
-508,B_509,Yorkshire and The Humber,Production,2000-4999,"['B_509_CUR', 'B_509_LOA']",0
-509,B_510,East,Construction,100-249,"['B_510_CUR', 'B_510_LOA']",0
-510,B_511,South East,Agriculture forestry fishing,0-49,"['B_511_CUR', 'B_511_LOA']",0
-511,B_512,South East,Retail,50-99,"['B_512_CUR', 'B_512_LOA']",0
-512,B_513,East Midlands,Information communication,100-249,"['B_513_CUR', 'B_513_LOA']",0
-513,B_514,South East,Construction,50-99,"['B_514_CUR', 'B_514_LOA']",0
-514,B_515,South West,Accommodation food services,100-249,"['B_515_CUR', 'B_515_LOA']",0
-515,B_516,South West,Information communication,100-249,"['B_516_CUR', 'B_516_LOA']",0
-516,B_517,West Midlands,Construction,50-99,"['B_517_CUR', 'B_517_LOA']",0
-517,B_518,Yorkshire and The Humber,Production,250-499,"['B_518_CUR', 'B_518_LOA']",0
-518,B_519,London,Construction,50-99,"['B_519_CUR', 'B_519_LOA']",0
-519,B_520,South East,Retail,100-249,"['B_520_CUR', 'B_520_LOA']",0
-520,B_521,Yorkshire and The Humber,Production,100-249,"['B_521_CUR', 'B_521_LOA']",0
-521,B_522,Yorkshire and The Humber,Professional scientific technical,250-499,"['B_522_CUR', 'B_522_LOA']",0
-522,B_523,South East,Motor trades,0-49,"['B_523_CUR', 'B_523_LOA']",0
-523,B_524,West Midlands,Professional scientific technical,500-999,"['B_524_CUR', 'B_524_LOA']",0
-524,B_525,North East,Information communication,100-249,"['B_525_CUR', 'B_525_LOA']",0
-525,B_526,East Midlands,Professional scientific technical,50-99,"['B_526_CUR', 'B_526_LOA']",0
-526,B_527,North West,Arts entertainment recreation other services,100-249,"['B_527_CUR', 'B_527_LOA']",0
-527,B_528,South East,Health,100-249,"['B_528_CUR', 'B_528_LOA']",0
-528,B_529,South East,Production,250-499,"['B_529_CUR', 'B_529_LOA']",0
-529,B_530,North West,Agriculture forestry fishing,250-499,"['B_530_CUR', 'B_530_LOA']",0
-530,B_531,South West,Arts entertainment recreation other services,0-49,"['B_531_CUR', 'B_531_LOA']",0
-531,B_532,North West,Professional scientific technical,0-49,"['B_532_CUR', 'B_532_LOA']",0
-532,B_533,London,Information communication,100-249,"['B_533_CUR', 'B_533_LOA']",0
-533,B_534,Northern Ireland,Accommodation food services,250-499,"['B_534_CUR', 'B_534_LOA']",0
-534,B_535,London,Business administration support services,50-99,"['B_535_CUR', 'B_535_LOA']",0
-535,B_536,Northern Ireland,Arts entertainment recreation other services,1000-1999,"['B_536_CUR', 'B_536_LOA']",0
-536,B_537,Scotland,Property,100-249,"['B_537_CUR', 'B_537_LOA']",0
-537,B_538,North West,Business administration support services,100-249,"['B_538_CUR', 'B_538_LOA']",0
-538,B_539,Wales,Accommodation food services,100-249,"['B_539_CUR', 'B_539_LOA']",0
-539,B_540,North East,Retail,50-99,"['B_540_CUR', 'B_540_LOA']",0
-540,B_541,Yorkshire and The Humber,Information communication,50-99,"['B_541_CUR', 'B_541_LOA']",0
-541,B_542,London,Construction,250-499,"['B_542_CUR', 'B_542_LOA']",1
-542,B_543,Northern Ireland,Agriculture forestry fishing,500-999,"['B_543_CUR', 'B_543_LOA']",0
-543,B_544,West Midlands,Professional scientific technical,500-999,"['B_544_CUR', 'B_544_LOA']",0
-544,B_545,London,Professional scientific technical,100-249,"['B_545_CUR', 'B_545_LOA']",0
-545,B_546,West Midlands,Wholesale,100-249,"['B_546_CUR', 'B_546_LOA']",0
-546,B_547,South East,Property,50-99,"['B_547_CUR', 'B_547_LOA']",0
-547,B_548,Scotland,Construction,100-249,"['B_548_CUR', 'B_548_LOA']",0
-548,B_549,South West,Information communication,0-49,"['B_549_CUR', 'B_549_LOA']",0
-549,B_550,East Midlands,Construction,100-249,"['B_550_CUR', 'B_550_LOA']",0
-550,B_551,London,Health,100-249,"['B_551_CUR', 'B_551_LOA']",0
-551,B_552,East,Arts entertainment recreation other services,50-99,"['B_552_CUR', 'B_552_LOA']",0
-552,B_553,North West,Retail,100-249,"['B_553_CUR', 'B_553_LOA']",0
-553,B_554,East,Health,100-249,"['B_554_CUR', 'B_554_LOA']",0
-554,B_555,Yorkshire and The Humber,Agriculture forestry fishing,250-499,"['B_555_CUR', 'B_555_LOA']",0
-555,B_556,North West,Production,5000-9999,"['B_556_CUR', 'B_556_LOA']",0
-556,B_557,Scotland,Retail,50-99,"['B_557_CUR', 'B_557_LOA']",0
-557,B_558,London,Production,100-249,"['B_558_CUR', 'B_558_LOA']",0
-558,B_559,London,Retail,0-49,"['B_559_CUR', 'B_559_LOA']",0
-559,B_560,Yorkshire and The Humber,Wholesale,50-99,"['B_560_CUR', 'B_560_LOA']",0
-560,B_561,West Midlands,Retail,500-999,"['B_561_CUR', 'B_561_LOA']",0
-561,B_562,South East,Professional scientific technical,50-99,"['B_562_CUR', 'B_562_LOA']",0
-562,B_563,Yorkshire and The Humber,Retail,50-99,"['B_563_CUR', 'B_563_LOA']",0
-563,B_564,London,Professional scientific technical,100-249,"['B_564_CUR', 'B_564_LOA']",0
-564,B_565,Scotland,Agriculture forestry fishing,0-49,"['B_565_CUR', 'B_565_LOA']",0
-565,B_566,South West,Information communication,250-499,"['B_566_CUR', 'B_566_LOA']",0
-566,B_567,Scotland,Retail,0-49,"['B_567_CUR', 'B_567_LOA']",0
-567,B_568,West Midlands,Construction,100-249,"['B_568_CUR', 'B_568_LOA']",0
-568,B_569,South East,Health,50-99,"['B_569_CUR', 'B_569_LOA']",0
-569,B_570,London,Business administration support services,100-249,"['B_570_CUR', 'B_570_LOA']",0
-570,B_571,Northern Ireland,Agriculture forestry fishing,1000-1999,"['B_571_CUR', 'B_571_LOA']",0
-571,B_572,London,Property,100-249,"['B_572_CUR', 'B_572_LOA']",0
-572,B_573,London,Finance insurance,100-249,"['B_573_CUR', 'B_573_LOA']",0
-573,B_574,London,Retail,1000-1999,"['B_574_CUR', 'B_574_LOA']",0
-574,B_575,London,Professional scientific technical,100-249,"['B_575_CUR', 'B_575_LOA']",0
-575,B_576,Yorkshire and The Humber,Retail,50-99,"['B_576_CUR', 'B_576_LOA']",0
-576,B_577,London,Production,100-249,"['B_577_CUR', 'B_577_LOA']",0
-577,B_578,East,Professional scientific technical,0-49,"['B_578_CUR', 'B_578_LOA']",0
-578,B_579,London,Professional scientific technical,0-49,"['B_579_CUR', 'B_579_LOA']",0
-579,B_580,East,Education,0-49,"['B_580_CUR', 'B_580_LOA']",0
-580,B_581,East,Professional scientific technical,100-249,"['B_581_CUR', 'B_581_LOA']",0
-581,B_582,South East,Property,0-49,"['B_582_CUR', 'B_582_LOA']",0
-582,B_583,London,Wholesale,100-249,"['B_583_CUR', 'B_583_LOA']",0
-583,B_584,London,Professional scientific technical,50-99,"['B_584_CUR', 'B_584_LOA']",0
-584,B_585,London,Wholesale,0-49,"['B_585_CUR', 'B_585_LOA']",0
-585,B_586,London,Business administration support services,50-99,"['B_586_CUR', 'B_586_LOA']",0
-586,B_587,North East,Information communication,50-99,"['B_587_CUR', 'B_587_LOA']",0
-587,B_588,South East,Professional scientific technical,100-249,"['B_588_CUR', 'B_588_LOA']",0
-588,B_589,Yorkshire and The Humber,Construction,0-49,"['B_589_CUR', 'B_589_LOA']",0
-589,B_590,Yorkshire and The Humber,Professional scientific technical,500-999,"['B_590_CUR', 'B_590_LOA']",0
-590,B_591,London,Production,100-249,"['B_591_CUR', 'B_591_LOA']",0
-591,B_592,West Midlands,Property,100-249,"['B_592_CUR', 'B_592_LOA']",0
-592,B_593,East,Motor trades,100-249,"['B_593_CUR', 'B_593_LOA']",0
-593,B_594,South West,Business administration support services,100-249,"['B_594_CUR', 'B_594_LOA']",0
-594,B_595,Scotland,Professional scientific technical,10000-49999,"['B_595_CUR', 'B_595_LOA']",0
-595,B_596,London,Production,250-499,"['B_596_CUR', 'B_596_LOA']",0
-596,B_597,South East,Professional scientific technical,500-999,"['B_597_CUR', 'B_597_LOA']",0
-597,B_598,East Midlands,Information communication,100-249,"['B_598_CUR', 'B_598_LOA']",0
-598,B_599,London,Information communication,250-499,"['B_599_CUR', 'B_599_LOA']",0
-599,B_600,Scotland,Agriculture forestry fishing,100-249,"['B_600_CUR', 'B_600_LOA']",0
-600,B_601,London,Construction,100-249,"['B_601_CUR', 'B_601_LOA']",0
-601,B_602,South West,Retail,250-499,"['B_602_CUR', 'B_602_LOA']",0
-602,B_603,Scotland,Professional scientific technical,100-249,"['B_603_CUR', 'B_603_LOA']",0
-603,B_604,East,Accommodation food services,100-249,"['B_604_CUR', 'B_604_LOA']",0
-604,B_605,West Midlands,Wholesale,500-999,"['B_605_CUR', 'B_605_LOA']",0
-605,B_606,London,Information communication,10000-49999,"['B_606_CUR', 'B_606_LOA']",0
-606,B_607,Yorkshire and The Humber,Retail,50-99,"['B_607_CUR', 'B_607_LOA']",0
-607,B_608,Wales,Professional scientific technical,2000-4999,"['B_608_CUR', 'B_608_LOA']",0
-608,B_609,East,Business administration support services,250-499,"['B_609_CUR', 'B_609_LOA']",0
-609,B_610,East,Professional scientific technical,2000-4999,"['B_610_CUR', 'B_610_LOA']",0
-610,B_611,South East,Agriculture forestry fishing,500-999,"['B_611_CUR', 'B_611_LOA']",0
-611,B_612,South East,Health,100-249,"['B_612_CUR', 'B_612_LOA']",0
-612,B_613,South West,Construction,100-249,"['B_613_CUR', 'B_613_LOA']",0
-613,B_614,East Midlands,Transport Storage inc postal,100-249,"['B_614_CUR', 'B_614_LOA']",0
-614,B_615,Scotland,Retail,100-249,"['B_615_CUR', 'B_615_LOA']",0
-615,B_616,London,Property,0-49,"['B_616_CUR', 'B_616_LOA']",0
-616,B_617,West Midlands,Business administration support services,2000-4999,"['B_617_CUR', 'B_617_LOA']",0
-617,B_618,London,Finance insurance,500-999,"['B_618_CUR', 'B_618_LOA']",0
-618,B_619,London,Arts entertainment recreation other services,100-249,"['B_619_CUR', 'B_619_LOA']",0
-619,B_620,South East,Property,250-499,"['B_620_CUR', 'B_620_LOA']",0
-620,B_621,West Midlands,Accommodation food services,100-249,"['B_621_CUR', 'B_621_LOA']",0
-621,B_622,South East,Finance insurance,100-249,"['B_622_CUR', 'B_622_LOA']",0
-622,B_623,Scotland,Agriculture forestry fishing,50-99,"['B_623_CUR', 'B_623_LOA']",0
-623,B_624,Scotland,Retail,100-249,"['B_624_CUR', 'B_624_LOA']",0
-624,B_625,East,Production,50-99,"['B_625_CUR', 'B_625_LOA']",0
-625,B_626,East,Arts entertainment recreation other services,50-99,"['B_626_CUR', 'B_626_LOA']",0
-626,B_627,London,Retail,100-249,"['B_627_CUR', 'B_627_LOA']",0
-627,B_628,East Midlands,Professional scientific technical,100-249,"['B_628_CUR', 'B_628_LOA']",0
-628,B_629,South East,Construction,50-99,"['B_629_CUR', 'B_629_LOA']",0
-629,B_630,London,Professional scientific technical,100-249,"['B_630_CUR', 'B_630_LOA']",0
-630,B_631,Yorkshire and The Humber,Motor trades,10000-49999,"['B_631_CUR', 'B_631_LOA']",0
-631,B_632,North West,Arts entertainment recreation other services,50-99,"['B_632_CUR', 'B_632_LOA']",0
-632,B_633,South West,Professional scientific technical,50-99,"['B_633_CUR', 'B_633_LOA']",0
-633,B_634,Scotland,Health,50-99,"['B_634_CUR', 'B_634_LOA']",0
-634,B_635,East,Retail,0-49,"['B_635_CUR', 'B_635_LOA']",0
-635,B_636,Yorkshire and The Humber,Retail,0-49,"['B_636_CUR', 'B_636_LOA']",0
-636,B_637,London,Accommodation food services,50-99,"['B_637_CUR', 'B_637_LOA']",0
-637,B_638,London,Professional scientific technical,50-99,"['B_638_CUR', 'B_638_LOA']",0
-638,B_639,South East,Construction,50-99,"['B_639_CUR', 'B_639_LOA']",0
-639,B_640,West Midlands,Motor trades,50-99,"['B_640_CUR', 'B_640_LOA']",0
-640,B_641,London,Arts entertainment recreation other services,50-99,"['B_641_CUR', 'B_641_LOA']",0
-641,B_642,North West,Business administration support services,1000-1999,"['B_642_CUR', 'B_642_LOA']",0
-642,B_643,Scotland,Retail,50-99,"['B_643_CUR', 'B_643_LOA']",0
-643,B_644,London,Professional scientific technical,0-49,"['B_644_CUR', 'B_644_LOA']",0
-644,B_645,London,Health,50-99,"['B_645_CUR', 'B_645_LOA']",0
-645,B_646,London,Property,100-249,"['B_646_CUR', 'B_646_LOA']",0
-646,B_647,Yorkshire and The Humber,Agriculture forestry fishing,50-99,"['B_647_CUR', 'B_647_LOA']",0
-647,B_648,North West,Retail,250-499,"['B_648_CUR', 'B_648_LOA']",0
-648,B_649,London,Retail,50-99,"['B_649_CUR', 'B_649_LOA']",0
-649,B_650,London,Transport Storage inc postal,50-99,"['B_650_CUR', 'B_650_LOA']",0
-650,B_651,North West,Business administration support services,100-249,"['B_651_CUR', 'B_651_LOA']",0
-651,B_652,Yorkshire and The Humber,Construction,100-249,"['B_652_CUR', 'B_652_LOA']",0
-652,B_653,North West,Arts entertainment recreation other services,500-999,"['B_653_CUR', 'B_653_LOA']",0
-653,B_654,South West,Construction,50-99,"['B_654_CUR', 'B_654_LOA']",0
-654,B_655,East,Professional scientific technical,100-249,"['B_655_CUR', 'B_655_LOA']",0
-655,B_656,West Midlands,Transport Storage inc postal,50-99,"['B_656_CUR', 'B_656_LOA']",0
-656,B_657,North West,Professional scientific technical,50-99,"['B_657_CUR', 'B_657_LOA']",0
-657,B_658,South West,Finance insurance,50-99,"['B_658_CUR', 'B_658_LOA']",0
-658,B_659,Wales,Agriculture forestry fishing,0-49,"['B_659_CUR', 'B_659_LOA']",0
-659,B_660,Scotland,Health,100-249,"['B_660_CUR', 'B_660_LOA']",0
-660,B_661,East,Agriculture forestry fishing,100-249,"['B_661_CUR', 'B_661_LOA']",0
-661,B_662,South East,Education,100-249,"['B_662_CUR', 'B_662_LOA']",0
-662,B_663,West Midlands,Business administration support services,0-49,"['B_663_CUR', 'B_663_LOA']",0
-663,B_664,East Midlands,Property,100-249,"['B_664_CUR', 'B_664_LOA']",0
-664,B_665,East,Wholesale,250-499,"['B_665_CUR', 'B_665_LOA']",0
-665,B_666,South East,Information communication,100-249,"['B_666_CUR', 'B_666_LOA']",0
-666,B_667,South West,Arts entertainment recreation other services,100-249,"['B_667_CUR', 'B_667_LOA']",0
-667,B_668,Yorkshire and The Humber,Transport Storage inc postal,0-49,"['B_668_CUR', 'B_668_LOA']",0
-668,B_669,Scotland,Professional scientific technical,0-49,"['B_669_CUR', 'B_669_LOA']",0
-669,B_670,North East,Professional scientific technical,100-249,"['B_670_CUR', 'B_670_LOA']",0
-670,B_671,London,Information communication,100-249,"['B_671_CUR', 'B_671_LOA']",0
-671,B_672,North East,Business administration support services,250-499,"['B_672_CUR', 'B_672_LOA']",0
-672,B_673,Northern Ireland,Professional scientific technical,10000-49999,"['B_673_CUR', 'B_673_LOA']",0
-673,B_674,London,Wholesale,0-49,"['B_674_CUR', 'B_674_LOA']",0
-674,B_675,Yorkshire and The Humber,Construction,100-249,"['B_675_CUR', 'B_675_LOA']",0
-675,B_676,South East,Business administration support services,50-99,"['B_676_CUR', 'B_676_LOA']",0
-676,B_677,Scotland,Professional scientific technical,500-999,"['B_677_CUR', 'B_677_LOA']",0
-677,B_678,North West,Construction,500-999,"['B_678_CUR', 'B_678_LOA']",0
-678,B_679,North West,Construction,50-99,"['B_679_CUR', 'B_679_LOA']",0
-679,B_680,Wales,Accommodation food services,100-249,"['B_680_CUR', 'B_680_LOA']",0
-680,B_681,South East,Agriculture forestry fishing,50-99,"['B_681_CUR', 'B_681_LOA']",0
-681,B_682,West Midlands,Retail,250-499,"['B_682_CUR', 'B_682_LOA']",1
-682,B_683,London,Accommodation food services,2000-4999,"['B_683_CUR', 'B_683_LOA']",0
-683,B_684,South East,Construction,100-249,"['B_684_CUR', 'B_684_LOA']",0
-684,B_685,South West,Health,0-49,"['B_685_CUR', 'B_685_LOA']",0
-685,B_686,Wales,Motor trades,100-249,"['B_686_CUR', 'B_686_LOA']",0
-686,B_687,South East,Accommodation food services,100-249,"['B_687_CUR', 'B_687_LOA']",0
-687,B_688,London,Retail,50-99,"['B_688_CUR', 'B_688_LOA']",0
-688,B_689,North East,Business administration support services,250-499,"['B_689_CUR', 'B_689_LOA']",0
-689,B_690,South West,Retail,1000-1999,"['B_690_CUR', 'B_690_LOA']",0
-690,B_691,South West,Property,250-499,"['B_691_CUR', 'B_691_LOA']",0
-691,B_692,Scotland,Property,0-49,"['B_692_CUR', 'B_692_LOA']",0
-692,B_693,South East,Production,100-249,"['B_693_CUR', 'B_693_LOA']",0
-693,B_694,Yorkshire and The Humber,Arts entertainment recreation other services,250-499,"['B_694_CUR', 'B_694_LOA']",0
-694,B_695,London,Property,10000-49999,"['B_695_CUR', 'B_695_LOA']",0
-695,B_696,Scotland,Professional scientific technical,250-499,"['B_696_CUR', 'B_696_LOA']",0
-696,B_697,East,Wholesale,0-49,"['B_697_CUR', 'B_697_LOA']",0
-697,B_698,North East,Business administration support services,0-49,"['B_698_CUR', 'B_698_LOA']",0
-698,B_699,Wales,Arts entertainment recreation other services,50-99,"['B_699_CUR', 'B_699_LOA']",0
-699,B_700,London,Information communication,10000-49999,"['B_700_CUR', 'B_700_LOA']",0
-700,B_701,London,Information communication,250-499,"['B_701_CUR', 'B_701_LOA']",0
-701,B_702,South East,Agriculture forestry fishing,100-249,"['B_702_CUR', 'B_702_LOA']",0
-702,B_703,Yorkshire and The Humber,Accommodation food services,2000-4999,"['B_703_CUR', 'B_703_LOA']",0
-703,B_704,Wales,Motor trades,100-249,"['B_704_CUR', 'B_704_LOA']",0
-704,B_705,South East,Construction,100-249,"['B_705_CUR', 'B_705_LOA']",0
-705,B_706,London,Information communication,100-249,"['B_706_CUR', 'B_706_LOA']",0
-706,B_707,South West,Construction,250-499,"['B_707_CUR', 'B_707_LOA']",0
-707,B_708,South East,Information communication,100-249,"['B_708_CUR', 'B_708_LOA']",0
-708,B_709,East,Information communication,100-249,"['B_709_CUR', 'B_709_LOA']",0
-709,B_710,South East,Business administration support services,250-499,"['B_710_CUR', 'B_710_LOA']",0
-710,B_711,North West,Business administration support services,50-99,"['B_711_CUR', 'B_711_LOA']",0
-711,B_712,North East,Accommodation food services,2000-4999,"['B_712_CUR', 'B_712_LOA']",0
-712,B_713,London,Business administration support services,0-49,"['B_713_CUR', 'B_713_LOA']",0
-713,B_714,East Midlands,Construction,50-99,"['B_714_CUR', 'B_714_LOA']",0
-714,B_715,South East,Retail,0-49,"['B_715_CUR', 'B_715_LOA']",0
-715,B_716,North West,Professional scientific technical,0-49,"['B_716_CUR', 'B_716_LOA']",0
-716,B_717,North West,Transport Storage inc postal,50-99,"['B_717_CUR', 'B_717_LOA']",0
-717,B_718,East Midlands,Business administration support services,2000-4999,"['B_718_CUR', 'B_718_LOA']",0
-718,B_719,Yorkshire and The Humber,Retail,500-999,"['B_719_CUR', 'B_719_LOA']",0
-719,B_720,London,Professional scientific technical,50-99,"['B_720_CUR', 'B_720_LOA']",0
-720,B_721,East,Accommodation food services,0-49,"['B_721_CUR', 'B_721_LOA']",0
-721,B_722,South East,Health,50-99,"['B_722_CUR', 'B_722_LOA']",0
-722,B_723,London,Accommodation food services,100-249,"['B_723_CUR', 'B_723_LOA']",0
-723,B_724,London,Information communication,50-99,"['B_724_CUR', 'B_724_LOA']",0
-724,B_725,East,Business administration support services,100-249,"['B_725_CUR', 'B_725_LOA']",0
-725,B_726,West Midlands,Construction,50000+,"['B_726_CUR', 'B_726_LOA']",0
-726,B_727,Yorkshire and The Humber,Accommodation food services,250-499,"['B_727_CUR', 'B_727_LOA']",0
-727,B_728,London,Professional scientific technical,250-499,"['B_728_CUR', 'B_728_LOA']",0
-728,B_729,East,Business administration support services,100-249,"['B_729_CUR', 'B_729_LOA']",0
-729,B_730,Yorkshire and The Humber,Property,100-249,"['B_730_CUR', 'B_730_LOA']",0
-730,B_731,West Midlands,Production,250-499,"['B_731_CUR', 'B_731_LOA']",0
-731,B_732,London,Arts entertainment recreation other services,250-499,"['B_732_CUR', 'B_732_LOA']",0
-732,B_733,Yorkshire and The Humber,Retail,250-499,"['B_733_CUR', 'B_733_LOA']",0
-733,B_734,South East,Retail,100-249,"['B_734_CUR', 'B_734_LOA']",0
-734,B_735,South West,Construction,100-249,"['B_735_CUR', 'B_735_LOA']",0
-735,B_736,London,Information communication,250-499,"['B_736_CUR', 'B_736_LOA']",0
-736,B_737,Yorkshire and The Humber,Arts entertainment recreation other services,100-249,"['B_737_CUR', 'B_737_LOA']",0
-737,B_738,London,Retail,0-49,"['B_738_CUR', 'B_738_LOA']",0
-738,B_739,West Midlands,Information communication,100-249,"['B_739_CUR', 'B_739_LOA']",0
-739,B_740,East,Wholesale,100-249,"['B_740_CUR', 'B_740_LOA']",0
-740,B_741,South East,Professional scientific technical,100-249,"['B_741_CUR', 'B_741_LOA']",0
-741,B_742,South East,Professional scientific technical,100-249,"['B_742_CUR', 'B_742_LOA']",0
-742,B_743,Yorkshire and The Humber,Motor trades,100-249,"['B_743_CUR', 'B_743_LOA']",0
-743,B_744,East,Accommodation food services,50-99,"['B_744_CUR', 'B_744_LOA']",0
-744,B_745,South West,Wholesale,50-99,"['B_745_CUR', 'B_745_LOA']",0
-745,B_746,South East,Professional scientific technical,50-99,"['B_746_CUR', 'B_746_LOA']",0
-746,B_747,South West,Finance insurance,100-249,"['B_747_CUR', 'B_747_LOA']",0
-747,B_748,East,Professional scientific technical,100-249,"['B_748_CUR', 'B_748_LOA']",0
-748,B_749,South West,Construction,50-99,"['B_749_CUR', 'B_749_LOA']",0
-749,B_750,London,Arts entertainment recreation other services,100-249,"['B_750_CUR', 'B_750_LOA']",0
-750,B_751,London,Construction,50-99,"['B_751_CUR', 'B_751_LOA']",0
-751,B_752,North West,Arts entertainment recreation other services,100-249,"['B_752_CUR', 'B_752_LOA']",0
-752,B_753,North West,Construction,0-49,"['B_753_CUR', 'B_753_LOA']",0
-753,B_754,London,Wholesale,100-249,"['B_754_CUR', 'B_754_LOA']",0
-754,B_755,North West,Construction,100-249,"['B_755_CUR', 'B_755_LOA']",1
-755,B_756,South East,Professional scientific technical,100-249,"['B_756_CUR', 'B_756_LOA']",0
-756,B_757,East Midlands,Information communication,1000-1999,"['B_757_CUR', 'B_757_LOA']",0
-757,B_758,South West,Agriculture forestry fishing,0-49,"['B_758_CUR', 'B_758_LOA']",0
-758,B_759,West Midlands,Business administration support services,1000-1999,"['B_759_CUR', 'B_759_LOA']",0
-759,B_760,South West,Arts entertainment recreation other services,250-499,"['B_760_CUR', 'B_760_LOA']",0
-760,B_761,South West,Agriculture forestry fishing,50-99,"['B_761_CUR', 'B_761_LOA']",0
-761,B_762,South East,Construction,100-249,"['B_762_CUR', 'B_762_LOA']",0
-762,B_763,South East,Construction,100-249,"['B_763_CUR', 'B_763_LOA']",0
-763,B_764,London,Information communication,100-249,"['B_764_CUR', 'B_764_LOA']",0
-764,B_765,South East,Health,250-499,"['B_765_CUR', 'B_765_LOA']",0
-765,B_766,London,Information communication,2000-4999,"['B_766_CUR', 'B_766_LOA']",0
-766,B_767,Yorkshire and The Humber,Construction,100-249,"['B_767_CUR', 'B_767_LOA']",0
-767,B_768,South East,Business administration support services,250-499,"['B_768_CUR', 'B_768_LOA']",0
-768,B_769,Northern Ireland,Business administration support services,0-49,"['B_769_CUR', 'B_769_LOA']",0
-769,B_770,South East,Education,0-49,"['B_770_CUR', 'B_770_LOA']",0
-770,B_771,East,Information communication,500-999,"['B_771_CUR', 'B_771_LOA']",0
-771,B_772,Scotland,Wholesale,50-99,"['B_772_CUR', 'B_772_LOA']",0
-772,B_773,Yorkshire and The Humber,Professional scientific technical,2000-4999,"['B_773_CUR', 'B_773_LOA']",0
-773,B_774,North West,Accommodation food services,50-99,"['B_774_CUR', 'B_774_LOA']",0
-774,B_775,East,Property,100-249,"['B_775_CUR', 'B_775_LOA']",0
-775,B_776,East,Construction,100-249,"['B_776_CUR', 'B_776_LOA']",0
-776,B_777,Scotland,Construction,50-99,"['B_777_CUR', 'B_777_LOA']",0
-777,B_778,South East,Transport Storage inc postal,100-249,"['B_778_CUR', 'B_778_LOA']",0
-778,B_779,Yorkshire and The Humber,Professional scientific technical,0-49,"['B_779_CUR', 'B_779_LOA']",0
-779,B_780,South East,Wholesale,50-99,"['B_780_CUR', 'B_780_LOA']",0
-780,B_781,Scotland,Motor trades,100-249,"['B_781_CUR', 'B_781_LOA']",0
-781,B_782,London,Information communication,100-249,"['B_782_CUR', 'B_782_LOA']",0
-782,B_783,London,Retail,100-249,"['B_783_CUR', 'B_783_LOA']",0
-783,B_784,Northern Ireland,Arts entertainment recreation other services,0-49,"['B_784_CUR', 'B_784_LOA']",0
-784,B_785,West Midlands,Property,50-99,"['B_785_CUR', 'B_785_LOA']",0
-785,B_786,Yorkshire and The Humber,Accommodation food services,0-49,"['B_786_CUR', 'B_786_LOA']",0
-786,B_787,North West,Information communication,0-49,"['B_787_CUR', 'B_787_LOA']",0
-787,B_788,West Midlands,Wholesale,100-249,"['B_788_CUR', 'B_788_LOA']",0
-788,B_789,Scotland,Property,1000-1999,"['B_789_CUR', 'B_789_LOA']",0
-789,B_790,Yorkshire and The Humber,Property,50-99,"['B_790_CUR', 'B_790_LOA']",0
-790,B_791,London,Professional scientific technical,100-249,"['B_791_CUR', 'B_791_LOA']",0
-791,B_792,Yorkshire and The Humber,Production,100-249,"['B_792_CUR', 'B_792_LOA']",0
-792,B_793,South West,Retail,250-499,"['B_793_CUR', 'B_793_LOA']",0
-793,B_794,Northern Ireland,Retail,250-499,"['B_794_CUR', 'B_794_LOA']",0
-794,B_795,North West,Construction,50-99,"['B_795_CUR', 'B_795_LOA']",0
-795,B_796,London,Business administration support services,50-99,"['B_796_CUR', 'B_796_LOA']",0
-796,B_797,South East,Retail,2000-4999,"['B_797_CUR', 'B_797_LOA']",0
-797,B_798,Northern Ireland,Business administration support services,0-49,"['B_798_CUR', 'B_798_LOA']",0
-798,B_799,North West,Arts entertainment recreation other services,100-249,"['B_799_CUR', 'B_799_LOA']",0
-799,B_800,South East,Construction,250-499,"['B_800_CUR', 'B_800_LOA']",0
-800,B_801,Wales,Property,250-499,"['B_801_CUR', 'B_801_LOA']",0
-801,B_802,East,Business administration support services,50-99,"['B_802_CUR', 'B_802_LOA']",0
-802,B_803,London,Arts entertainment recreation other services,100-249,"['B_803_CUR', 'B_803_LOA']",0
-803,B_804,North West,Health,5000-9999,"['B_804_CUR', 'B_804_LOA']",0
-804,B_805,London,Professional scientific technical,2000-4999,"['B_805_CUR', 'B_805_LOA']",0
-805,B_806,London,Business administration support services,100-249,"['B_806_CUR', 'B_806_LOA']",0
-806,B_807,South West,Professional scientific technical,50-99,"['B_807_CUR', 'B_807_LOA']",0
-807,B_808,London,Information communication,500-999,"['B_808_CUR', 'B_808_LOA']",0
-808,B_809,East Midlands,Business administration support services,100-249,"['B_809_CUR', 'B_809_LOA']",0
-809,B_810,South West,Agriculture forestry fishing,50-99,"['B_810_CUR', 'B_810_LOA']",0
-810,B_811,London,Health,1000-1999,"['B_811_CUR', 'B_811_LOA']",0
-811,B_812,South East,Retail,50-99,"['B_812_CUR', 'B_812_LOA']",0
-812,B_813,London,Arts entertainment recreation other services,50-99,"['B_813_CUR', 'B_813_LOA']",0
-813,B_814,East,Construction,100-249,"['B_814_CUR', 'B_814_LOA']",0
-814,B_815,South West,Agriculture forestry fishing,100-249,"['B_815_CUR', 'B_815_LOA']",0
-815,B_816,South East,Information communication,0-49,"['B_816_CUR', 'B_816_LOA']",0
-816,B_817,London,Business administration support services,100-249,"['B_817_CUR', 'B_817_LOA']",0
-817,B_818,South West,Motor trades,100-249,"['B_818_CUR', 'B_818_LOA']",0
-818,B_819,East,Professional scientific technical,250-499,"['B_819_CUR', 'B_819_LOA']",0
-819,B_820,North East,Professional scientific technical,100-249,"['B_820_CUR', 'B_820_LOA']",0
-820,B_821,London,Retail,0-49,"['B_821_CUR', 'B_821_LOA']",0
-821,B_822,West Midlands,Finance insurance,250-499,"['B_822_CUR', 'B_822_LOA']",0
-822,B_823,East Midlands,Agriculture forestry fishing,100-249,"['B_823_CUR', 'B_823_LOA']",0
-823,B_824,South East,Agriculture forestry fishing,250-499,"['B_824_CUR', 'B_824_LOA']",0
-824,B_825,West Midlands,Construction,50-99,"['B_825_CUR', 'B_825_LOA']",0
-825,B_826,South West,Public administration defence,100-249,"['B_826_CUR', 'B_826_LOA']",0
-826,B_827,London,Professional scientific technical,500-999,"['B_827_CUR', 'B_827_LOA']",0
-827,B_828,London,Retail,0-49,"['B_828_CUR', 'B_828_LOA']",0
-828,B_829,London,Property,50-99,"['B_829_CUR', 'B_829_LOA']",0
-829,B_830,South East,Arts entertainment recreation other services,100-249,"['B_830_CUR', 'B_830_LOA']",0
-830,B_831,South West,Accommodation food services,1000-1999,"['B_831_CUR', 'B_831_LOA']",0
-831,B_832,North West,Information communication,100-249,"['B_832_CUR', 'B_832_LOA']",0
-832,B_833,London,Property,100-249,"['B_833_CUR', 'B_833_LOA']",0
-833,B_834,East Midlands,Agriculture forestry fishing,100-249,"['B_834_CUR', 'B_834_LOA']",1
-834,B_835,East,Professional scientific technical,50-99,"['B_835_CUR', 'B_835_LOA']",0
-835,B_836,North East,Business administration support services,500-999,"['B_836_CUR', 'B_836_LOA']",0
-836,B_837,South East,Professional scientific technical,100-249,"['B_837_CUR', 'B_837_LOA']",0
-837,B_838,East,Arts entertainment recreation other services,2000-4999,"['B_838_CUR', 'B_838_LOA']",0
-838,B_839,South East,Property,250-499,"['B_839_CUR', 'B_839_LOA']",0
-839,B_840,East Midlands,Production,50-99,"['B_840_CUR', 'B_840_LOA']",0
-840,B_841,Wales,Accommodation food services,1000-1999,"['B_841_CUR', 'B_841_LOA']",0
-841,B_842,London,Professional scientific technical,50-99,"['B_842_CUR', 'B_842_LOA']",0
-842,B_843,Yorkshire and The Humber,Education,250-499,"['B_843_CUR', 'B_843_LOA']",0
-843,B_844,South West,Arts entertainment recreation other services,0-49,"['B_844_CUR', 'B_844_LOA']",0
-844,B_845,South West,Professional scientific technical,100-249,"['B_845_CUR', 'B_845_LOA']",0
-845,B_846,North East,Accommodation food services,0-49,"['B_846_CUR', 'B_846_LOA']",0
-846,B_847,South East,Property,0-49,"['B_847_CUR', 'B_847_LOA']",0
-847,B_848,Scotland,Wholesale,50-99,"['B_848_CUR', 'B_848_LOA']",0
-848,B_849,London,Wholesale,50-99,"['B_849_CUR', 'B_849_LOA']",0
-849,B_850,North East,Arts entertainment recreation other services,100-249,"['B_850_CUR', 'B_850_LOA']",0
-850,B_851,Northern Ireland,Agriculture forestry fishing,50-99,"['B_851_CUR', 'B_851_LOA']",0
-851,B_852,London,Transport Storage inc postal,100-249,"['B_852_CUR', 'B_852_LOA']",0
-852,B_853,Wales,Professional scientific technical,100-249,"['B_853_CUR', 'B_853_LOA']",0
-853,B_854,Yorkshire and The Humber,Arts entertainment recreation other services,500-999,"['B_854_CUR', 'B_854_LOA']",0
-854,B_855,North West,Agriculture forestry fishing,250-499,"['B_855_CUR', 'B_855_LOA']",0
-855,B_856,Scotland,Motor trades,500-999,"['B_856_CUR', 'B_856_LOA']",0
-856,B_857,South East,Retail,100-249,"['B_857_CUR', 'B_857_LOA']",0
-857,B_858,London,Wholesale,100-249,"['B_858_CUR', 'B_858_LOA']",0
-858,B_859,North West,Transport Storage inc postal,100-249,"['B_859_CUR', 'B_859_LOA']",0
-859,B_860,North West,Construction,50-99,"['B_860_CUR', 'B_860_LOA']",0
-860,B_861,Wales,Agriculture forestry fishing,500-999,"['B_861_CUR', 'B_861_LOA']",0
-861,B_862,Wales,Accommodation food services,250-499,"['B_862_CUR', 'B_862_LOA']",0
-862,B_863,London,Professional scientific technical,250-499,"['B_863_CUR', 'B_863_LOA']",0
-863,B_864,Wales,Professional scientific technical,50-99,"['B_864_CUR', 'B_864_LOA']",0
-864,B_865,South East,Information communication,100-249,"['B_865_CUR', 'B_865_LOA']",0
-865,B_866,East,Arts entertainment recreation other services,100-249,"['B_866_CUR', 'B_866_LOA']",0
-866,B_867,East Midlands,Business administration support services,50-99,"['B_867_CUR', 'B_867_LOA']",0
-867,B_868,South West,Transport Storage inc postal,100-249,"['B_868_CUR', 'B_868_LOA']",0
-868,B_869,South East,Information communication,0-49,"['B_869_CUR', 'B_869_LOA']",0
-869,B_870,East,Arts entertainment recreation other services,50-99,"['B_870_CUR', 'B_870_LOA']",0
-870,B_871,East,Construction,500-999,"['B_871_CUR', 'B_871_LOA']",0
-871,B_872,Wales,Information communication,0-49,"['B_872_CUR', 'B_872_LOA']",0
-872,B_873,East Midlands,Education,100-249,"['B_873_CUR', 'B_873_LOA']",0
-873,B_874,Yorkshire and The Humber,Property,500-999,"['B_874_CUR', 'B_874_LOA']",0
-874,B_875,Scotland,Construction,50-99,"['B_875_CUR', 'B_875_LOA']",0
-875,B_876,London,Property,0-49,"['B_876_CUR', 'B_876_LOA']",0
-876,B_877,South East,Health,0-49,"['B_877_CUR', 'B_877_LOA']",0
-877,B_878,London,Professional scientific technical,0-49,"['B_878_CUR', 'B_878_LOA']",0
-878,B_879,North West,Wholesale,100-249,"['B_879_CUR', 'B_879_LOA']",0
-879,B_880,West Midlands,Construction,50-99,"['B_880_CUR', 'B_880_LOA']",0
-880,B_881,Yorkshire and The Humber,Health,100-249,"['B_881_CUR', 'B_881_LOA']",0
-881,B_882,East,Wholesale,50-99,"['B_882_CUR', 'B_882_LOA']",0
-882,B_883,East,Information communication,50-99,"['B_883_CUR', 'B_883_LOA']",0
-883,B_884,London,Professional scientific technical,50-99,"['B_884_CUR', 'B_884_LOA']",0
-884,B_885,London,Information communication,100-249,"['B_885_CUR', 'B_885_LOA']",0
-885,B_886,North West,Health,500-999,"['B_886_CUR', 'B_886_LOA']",0
-886,B_887,London,Professional scientific technical,500-999,"['B_887_CUR', 'B_887_LOA']",0
-887,B_888,North West,Finance insurance,50-99,"['B_888_CUR', 'B_888_LOA']",0
-888,B_889,Scotland,Accommodation food services,100-249,"['B_889_CUR', 'B_889_LOA']",0
-889,B_890,South West,Construction,250-499,"['B_890_CUR', 'B_890_LOA']",0
-890,B_891,Scotland,Professional scientific technical,250-499,"['B_891_CUR', 'B_891_LOA']",0
-891,B_892,West Midlands,Retail,50-99,"['B_892_CUR', 'B_892_LOA']",0
-892,B_893,Northern Ireland,Property,50-99,"['B_893_CUR', 'B_893_LOA']",0
-893,B_894,Wales,Construction,5000-9999,"['B_894_CUR', 'B_894_LOA']",0
-894,B_895,North West,Health,50-99,"['B_895_CUR', 'B_895_LOA']",0
-895,B_896,East,Professional scientific technical,2000-4999,"['B_896_CUR', 'B_896_LOA']",0
-896,B_897,South West,Professional scientific technical,50-99,"['B_897_CUR', 'B_897_LOA']",0
-897,B_898,West Midlands,Construction,500-999,"['B_898_CUR', 'B_898_LOA']",0
-898,B_899,London,Business administration support services,50-99,"['B_899_CUR', 'B_899_LOA']",0
-899,B_900,East,Professional scientific technical,1000-1999,"['B_900_CUR', 'B_900_LOA']",0
-900,B_901,South West,Health,5000-9999,"['B_901_CUR', 'B_901_LOA']",0
-901,B_902,London,Retail,100-249,"['B_902_CUR', 'B_902_LOA']",0
-902,B_903,London,Professional scientific technical,50-99,"['B_903_CUR', 'B_903_LOA']",0
-903,B_904,Yorkshire and The Humber,Professional scientific technical,50-99,"['B_904_CUR', 'B_904_LOA']",0
-904,B_905,North East,Professional scientific technical,50-99,"['B_905_CUR', 'B_905_LOA']",0
-905,B_906,London,Accommodation food services,500-999,"['B_906_CUR', 'B_906_LOA']",0
-906,B_907,East,Information communication,50-99,"['B_907_CUR', 'B_907_LOA']",0
-907,B_908,South West,Agriculture forestry fishing,250-499,"['B_908_CUR', 'B_908_LOA']",0
-908,B_909,South East,Professional scientific technical,100-249,"['B_909_CUR', 'B_909_LOA']",0
-909,B_910,London,Business administration support services,50-99,"['B_910_CUR', 'B_910_LOA']",0
-910,B_911,North West,Transport Storage inc postal,100-249,"['B_911_CUR', 'B_911_LOA']",0
-911,B_912,South West,Transport Storage inc postal,0-49,"['B_912_CUR', 'B_912_LOA']",0
-912,B_913,South East,Professional scientific technical,0-49,"['B_913_CUR', 'B_913_LOA']",0
-913,B_914,London,Property,500-999,"['B_914_CUR', 'B_914_LOA']",0
-914,B_915,South West,Finance insurance,50-99,"['B_915_CUR', 'B_915_LOA']",0
-915,B_916,East Midlands,Professional scientific technical,50-99,"['B_916_CUR', 'B_916_LOA']",0
-916,B_917,South East,Construction,50-99,"['B_917_CUR', 'B_917_LOA']",0
-917,B_918,London,Professional scientific technical,100-249,"['B_918_CUR', 'B_918_LOA']",0
-918,B_919,East,Construction,250-499,"['B_919_CUR', 'B_919_LOA']",0
-919,B_920,North West,Retail,500-999,"['B_920_CUR', 'B_920_LOA']",0
-920,B_921,West Midlands,Construction,250-499,"['B_921_CUR', 'B_921_LOA']",0
-921,B_922,South East,Health,0-49,"['B_922_CUR', 'B_922_LOA']",0
-922,B_923,South East,Transport Storage inc postal,100-249,"['B_923_CUR', 'B_923_LOA']",0
-923,B_924,East,Retail,2000-4999,"['B_924_CUR', 'B_924_LOA']",0
-924,B_925,South East,Property,100-249,"['B_925_CUR', 'B_925_LOA']",0
-925,B_926,North East,Business administration support services,50-99,"['B_926_CUR', 'B_926_LOA']",0
-926,B_927,Scotland,Property,100-249,"['B_927_CUR', 'B_927_LOA']",0
-927,B_928,South West,Professional scientific technical,500-999,"['B_928_CUR', 'B_928_LOA']",0
-928,B_929,East,Production,2000-4999,"['B_929_CUR', 'B_929_LOA']",0
-929,B_930,East Midlands,Construction,100-249,"['B_930_CUR', 'B_930_LOA']",0
-930,B_931,Yorkshire and The Humber,Property,100-249,"['B_931_CUR', 'B_931_LOA']",0
-931,B_932,Scotland,Construction,100-249,"['B_932_CUR', 'B_932_LOA']",0
-932,B_933,London,Accommodation food services,250-499,"['B_933_CUR', 'B_933_LOA']",0
-933,B_934,North East,Information communication,100-249,"['B_934_CUR', 'B_934_LOA']",0
-934,B_935,North West,Business administration support services,50-99,"['B_935_CUR', 'B_935_LOA']",0
-935,B_936,Wales,Retail,100-249,"['B_936_CUR', 'B_936_LOA']",0
-936,B_937,South East,Professional scientific technical,250-499,"['B_937_CUR', 'B_937_LOA']",0
-937,B_938,East,Finance insurance,100-249,"['B_938_CUR', 'B_938_LOA']",0
-938,B_939,London,Professional scientific technical,1000-1999,"['B_939_CUR', 'B_939_LOA']",0
-939,B_940,Yorkshire and The Humber,Construction,50-99,"['B_940_CUR', 'B_940_LOA']",0
-940,B_941,North West,Education,100-249,"['B_941_CUR', 'B_941_LOA']",0
-941,B_942,South West,Finance insurance,250-499,"['B_942_CUR', 'B_942_LOA']",0
-942,B_943,London,Professional scientific technical,100-249,"['B_943_CUR', 'B_943_LOA']",0
-943,B_944,London,Professional scientific technical,100-249,"['B_944_CUR', 'B_944_LOA']",0
-944,B_945,South East,Business administration support services,100-249,"['B_945_CUR', 'B_945_LOA']",0
-945,B_946,South West,Business administration support services,100-249,"['B_946_CUR', 'B_946_LOA']",0
-946,B_947,South East,Professional scientific technical,500-999,"['B_947_CUR', 'B_947_LOA']",0
-947,B_948,South East,Construction,50-99,"['B_948_CUR', 'B_948_LOA']",0
-948,B_949,London,Construction,250-499,"['B_949_CUR', 'B_949_LOA']",0
-949,B_950,North East,Construction,100-249,"['B_950_CUR', 'B_950_LOA']",0
-950,B_951,West Midlands,Business administration support services,50-99,"['B_951_CUR', 'B_951_LOA']",0
-951,B_952,South West,Agriculture forestry fishing,100-249,"['B_952_CUR', 'B_952_LOA']",0
-952,B_953,South East,Professional scientific technical,100-249,"['B_953_CUR', 'B_953_LOA']",0
-953,B_954,North West,Construction,100-249,"['B_954_CUR', 'B_954_LOA']",0
-954,B_955,South East,Information communication,100-249,"['B_955_CUR', 'B_955_LOA']",0
-955,B_956,South East,Education,50-99,"['B_956_CUR', 'B_956_LOA']",0
-956,B_957,Yorkshire and The Humber,Production,0-49,"['B_957_CUR', 'B_957_LOA']",0
-957,B_958,South West,Wholesale,0-49,"['B_958_CUR', 'B_958_LOA']",0
-958,B_959,Wales,Health,250-499,"['B_959_CUR', 'B_959_LOA']",0
-959,B_960,South West,Property,50-99,"['B_960_CUR', 'B_960_LOA']",1
-960,B_961,North West,Professional scientific technical,100-249,"['B_961_CUR', 'B_961_LOA']",0
-961,B_962,London,Professional scientific technical,250-499,"['B_962_CUR', 'B_962_LOA']",0
-962,B_963,East Midlands,Business administration support services,500-999,"['B_963_CUR', 'B_963_LOA']",0
-963,B_964,South West,Transport Storage inc postal,500-999,"['B_964_CUR', 'B_964_LOA']",0
-964,B_965,East,Professional scientific technical,50-99,"['B_965_CUR', 'B_965_LOA']",0
-965,B_966,South East,Business administration support services,500-999,"['B_966_CUR', 'B_966_LOA']",0
-966,B_967,East,Production,2000-4999,"['B_967_CUR', 'B_967_LOA']",0
-967,B_968,Wales,Business administration support services,50-99,"['B_968_CUR', 'B_968_LOA']",0
-968,B_969,East,Construction,100-249,"['B_969_CUR', 'B_969_LOA']",0
-969,B_970,Scotland,Professional scientific technical,100-249,"['B_970_CUR', 'B_970_LOA']",0
-970,B_971,North West,Retail,250-499,"['B_971_CUR', 'B_971_LOA']",0
-971,B_972,Northern Ireland,Production,250-499,"['B_972_CUR', 'B_972_LOA']",0
-972,B_973,South East,Information communication,100-249,"['B_973_CUR', 'B_973_LOA']",0
-973,B_974,North West,Professional scientific technical,250-499,"['B_974_CUR', 'B_974_LOA']",0
-974,B_975,North West,Construction,50-99,"['B_975_CUR', 'B_975_LOA']",0
-975,B_976,Yorkshire and The Humber,Construction,100-249,"['B_976_CUR', 'B_976_LOA']",0
-976,B_977,London,Arts entertainment recreation other services,100-249,"['B_977_CUR', 'B_977_LOA']",0
-977,B_978,Yorkshire and The Humber,Wholesale,250-499,"['B_978_CUR', 'B_978_LOA']",0
-978,B_979,South West,Public administration defence,250-499,"['B_979_CUR', 'B_979_LOA']",0
-979,B_980,North West,Construction,0-49,"['B_980_CUR', 'B_980_LOA']",0
-980,B_981,South East,Professional scientific technical,0-49,"['B_981_CUR', 'B_981_LOA']",0
-981,B_982,Scotland,Education,0-49,"['B_982_CUR', 'B_982_LOA']",0
-982,B_983,South West,Agriculture forestry fishing,0-49,"['B_983_CUR', 'B_983_LOA']",0
-983,B_984,North West,Construction,100-249,"['B_984_CUR', 'B_984_LOA']",0
-984,B_985,West Midlands,Business administration support services,250-499,"['B_985_CUR', 'B_985_LOA']",0
-985,B_986,Wales,Agriculture forestry fishing,1000-1999,"['B_986_CUR', 'B_986_LOA']",0
-986,B_987,East Midlands,Agriculture forestry fishing,0-49,"['B_987_CUR', 'B_987_LOA']",0
-987,B_988,London,Information communication,100-249,"['B_988_CUR', 'B_988_LOA']",0
-988,B_989,South East,Retail,100-249,"['B_989_CUR', 'B_989_LOA']",0
-989,B_990,West Midlands,Construction,0-49,"['B_990_CUR', 'B_990_LOA']",0
-990,B_991,Scotland,Business administration support services,50-99,"['B_991_CUR', 'B_991_LOA']",0
-991,B_992,West Midlands,Professional scientific technical,100-249,"['B_992_CUR', 'B_992_LOA']",0
-992,B_993,Yorkshire and The Humber,Production,100-249,"['B_993_CUR', 'B_993_LOA']",0
-993,B_994,West Midlands,Construction,2000-4999,"['B_994_CUR', 'B_994_LOA']",0
-994,B_995,East Midlands,Production,100-249,"['B_995_CUR', 'B_995_LOA']",0
-995,B_996,Scotland,Construction,250-499,"['B_996_CUR', 'B_996_LOA']",0
-996,B_997,London,Professional scientific technical,0-49,"['B_997_CUR', 'B_997_LOA']",0
-997,B_998,West Midlands,Construction,250-499,"['B_998_CUR', 'B_998_LOA']",0
-998,B_999,Yorkshire and The Humber,Construction,100-249,"['B_999_CUR', 'B_999_LOA']",0
-999,B_1000,Yorkshire and The Humber,Finance insurance,50-99,"['B_1000_CUR', 'B_1000_LOA']",0
+,entity_id,region,lad17cd,sector,turnover,account_ids,criminal
+0,B_1,South East,E12000008,Accommodation food services,89000,"['B_1_CUR', 'B_1_LOA']",0
+1,B_2,London,E12000007,Construction,160000,"['B_2_CUR', 'B_2_LOA']",0
+2,B_3,South East,E12000008,Professional scientific technical,97000,"['B_3_CUR', 'B_3_LOA']",0
+3,B_4,West Midlands,E12000005,Professional scientific technical,227000,"['B_4_CUR', 'B_4_LOA']",0
+4,B_5,Scotland,S92000003,Construction,54000,"['B_5_CUR', 'B_5_LOA']",0
+5,B_6,North West,E12000002,Information communication,684000,"['B_6_CUR', 'B_6_LOA']",0
+6,B_7,Yorkshire and The Humber,E12000003,Professional scientific technical,685000,"['B_7_CUR', 'B_7_LOA']",0
+7,B_8,North East,E12000001,Education,125000,"['B_8_CUR', 'B_8_LOA']",0
+8,B_9,London,E12000007,Finance insurance,261000,"['B_9_CUR', 'B_9_LOA']",0
+9,B_10,East,E12000006,Retail,298000,"['B_10_CUR', 'B_10_LOA']",0
+10,B_11,South West,E12000009,Property,111000,"['B_11_CUR', 'B_11_LOA']",0
+11,B_12,London,E12000007,Information communication,86000,"['B_12_CUR', 'B_12_LOA']",0
+12,B_13,Scotland,S92000003,Production,88000,"['B_13_CUR', 'B_13_LOA']",0
+13,B_14,London,E12000007,Information communication,156000,"['B_14_CUR', 'B_14_LOA']",0
+14,B_15,Yorkshire and The Humber,E12000003,Agriculture forestry fishing,323000,"['B_15_CUR', 'B_15_LOA']",0
+15,B_16,South West,E12000009,Professional scientific technical,182000,"['B_16_CUR', 'B_16_LOA']",0
+16,B_17,East Midlands,E12000004,Retail,75000,"['B_17_CUR', 'B_17_LOA']",0
+17,B_18,North West,E12000002,Production,114000,"['B_18_CUR', 'B_18_LOA']",0
+18,B_19,East,E12000006,Construction,440000,"['B_19_CUR', 'B_19_LOA']",0
+19,B_20,Scotland,S92000003,Information communication,125000,"['B_20_CUR', 'B_20_LOA']",0
+20,B_21,North West,E12000002,Property,73000,"['B_21_CUR', 'B_21_LOA']",0
+21,B_22,Northern Ireland,N92000002,Construction,61000,"['B_22_CUR', 'B_22_LOA']",0
+22,B_23,East,E12000006,Professional scientific technical,182000,"['B_23_CUR', 'B_23_LOA']",0
+23,B_24,Yorkshire and The Humber,E12000003,Public administration defence,86000,"['B_24_CUR', 'B_24_LOA']",0
+24,B_25,Yorkshire and The Humber,E12000003,Arts entertainment recreation other services,665000,"['B_25_CUR', 'B_25_LOA']",0
+25,B_26,London,E12000007,Property,77000,"['B_26_CUR', 'B_26_LOA']",0
+26,B_27,Scotland,S92000003,Construction,157000,"['B_27_CUR', 'B_27_LOA']",0
+27,B_28,East Midlands,E12000004,Production,163000,"['B_28_CUR', 'B_28_LOA']",0
+28,B_29,East Midlands,E12000004,Information communication,70000,"['B_29_CUR', 'B_29_LOA']",0
+29,B_30,London,E12000007,Construction,195000,"['B_30_CUR', 'B_30_LOA']",0
+30,B_31,London,E12000007,Information communication,17000,"['B_31_CUR', 'B_31_LOA']",0
+31,B_32,South East,E12000008,Property,209000,"['B_32_CUR', 'B_32_LOA']",0
+32,B_33,East Midlands,E12000004,Professional scientific technical,12000,"['B_33_CUR', 'B_33_LOA']",0
+33,B_34,South West,E12000009,Construction,56000,"['B_34_CUR', 'B_34_LOA']",0
+34,B_35,East,E12000006,Information communication,194000,"['B_35_CUR', 'B_35_LOA']",0
+35,B_36,South East,E12000008,Business administration support services,38000,"['B_36_CUR', 'B_36_LOA']",0
+36,B_37,South East,E12000008,Construction,276000,"['B_37_CUR', 'B_37_LOA']",0
+37,B_38,London,E12000007,Business administration support services,80000,"['B_38_CUR', 'B_38_LOA']",0
+38,B_39,North West,E12000002,Production,296000,"['B_39_CUR', 'B_39_LOA']",0
+39,B_40,London,E12000007,Arts entertainment recreation other services,1000,"['B_40_CUR', 'B_40_LOA']",0
+40,B_41,Scotland,S92000003,Construction,394000,"['B_41_CUR', 'B_41_LOA']",0
+41,B_42,East Midlands,E12000004,Production,234000,"['B_42_CUR', 'B_42_LOA']",0
+42,B_43,Scotland,S92000003,Professional scientific technical,950000,"['B_43_CUR', 'B_43_LOA']",0
+43,B_44,East Midlands,E12000004,Construction,83000,"['B_44_CUR', 'B_44_LOA']",0
+44,B_45,South West,E12000009,Production,57000,"['B_45_CUR', 'B_45_LOA']",0
+45,B_46,North West,E12000002,Professional scientific technical,22000,"['B_46_CUR', 'B_46_LOA']",0
+46,B_47,East,E12000006,Construction,228000,"['B_47_CUR', 'B_47_LOA']",0
+47,B_48,South East,E12000008,Wholesale,239000,"['B_48_CUR', 'B_48_LOA']",0
+48,B_49,North West,E12000002,Retail,301000,"['B_49_CUR', 'B_49_LOA']",0
+49,B_50,Yorkshire and The Humber,E12000003,Accommodation food services,102000,"['B_50_CUR', 'B_50_LOA']",0
+50,B_51,West Midlands,E12000005,Business administration support services,268000,"['B_51_CUR', 'B_51_LOA']",0
+51,B_52,North West,E12000002,Professional scientific technical,25000,"['B_52_CUR', 'B_52_LOA']",0
+52,B_53,East,E12000006,Retail,226000,"['B_53_CUR', 'B_53_LOA']",0
+53,B_54,London,E12000007,Information communication,281000,"['B_54_CUR', 'B_54_LOA']",0
+54,B_55,South East,E12000008,Professional scientific technical,681000,"['B_55_CUR', 'B_55_LOA']",0
+55,B_56,West Midlands,E12000005,Construction,85000,"['B_56_CUR', 'B_56_LOA']",0
+56,B_57,South East,E12000008,Business administration support services,166000,"['B_57_CUR', 'B_57_LOA']",1
+57,B_58,East Midlands,E12000004,Professional scientific technical,29000,"['B_58_CUR', 'B_58_LOA']",0
+58,B_59,South East,E12000008,Professional scientific technical,719000,"['B_59_CUR', 'B_59_LOA']",0
+59,B_60,London,E12000007,Construction,293000,"['B_60_CUR', 'B_60_LOA']",0
+60,B_61,London,E12000007,Accommodation food services,29000,"['B_61_CUR', 'B_61_LOA']",0
+61,B_62,South West,E12000009,Finance insurance,142000,"['B_62_CUR', 'B_62_LOA']",0
+62,B_63,East,E12000006,Arts entertainment recreation other services,37000,"['B_63_CUR', 'B_63_LOA']",0
+63,B_64,Scotland,S92000003,Retail,148000,"['B_64_CUR', 'B_64_LOA']",0
+64,B_65,London,E12000007,Arts entertainment recreation other services,78000,"['B_65_CUR', 'B_65_LOA']",0
+65,B_66,North West,E12000002,Transport Storage inc postal,43000,"['B_66_CUR', 'B_66_LOA']",0
+66,B_67,South East,E12000008,Construction,229000,"['B_67_CUR', 'B_67_LOA']",0
+67,B_68,London,E12000007,Professional scientific technical,224000,"['B_68_CUR', 'B_68_LOA']",0
+68,B_69,South West,E12000009,Health,300000,"['B_69_CUR', 'B_69_LOA']",0
+69,B_70,South East,E12000008,Information communication,103000,"['B_70_CUR', 'B_70_LOA']",0
+70,B_71,Northern Ireland,N92000002,Property,187000,"['B_71_CUR', 'B_71_LOA']",0
+71,B_72,London,E12000007,Construction,1639000,"['B_72_CUR', 'B_72_LOA']",0
+72,B_73,East Midlands,E12000004,Construction,489000,"['B_73_CUR', 'B_73_LOA']",0
+73,B_74,East Midlands,E12000004,Production,0,"['B_74_CUR', 'B_74_LOA']",0
+74,B_75,West Midlands,E12000005,Transport Storage inc postal,16461000,"['B_75_CUR', 'B_75_LOA']",0
+75,B_76,South East,E12000008,Property,227000,"['B_76_CUR', 'B_76_LOA']",0
+76,B_77,South East,E12000008,Information communication,185000,"['B_77_CUR', 'B_77_LOA']",0
+77,B_78,London,E12000007,Professional scientific technical,18000,"['B_78_CUR', 'B_78_LOA']",0
+78,B_79,North East,E12000001,Professional scientific technical,91000,"['B_79_CUR', 'B_79_LOA']",0
+79,B_80,Northern Ireland,N92000002,Construction,0,"['B_80_CUR', 'B_80_LOA']",0
+80,B_81,West Midlands,E12000005,Retail,72000,"['B_81_CUR', 'B_81_LOA']",0
+81,B_82,South West,E12000009,Business administration support services,243000,"['B_82_CUR', 'B_82_LOA']",0
+82,B_83,South East,E12000008,Accommodation food services,412000,"['B_83_CUR', 'B_83_LOA']",0
+83,B_84,Northern Ireland,N92000002,Construction,178000,"['B_84_CUR', 'B_84_LOA']",0
+84,B_85,London,E12000007,Business administration support services,159000,"['B_85_CUR', 'B_85_LOA']",0
+85,B_86,North West,E12000002,Transport Storage inc postal,4079000,"['B_86_CUR', 'B_86_LOA']",0
+86,B_87,London,E12000007,Professional scientific technical,74000,"['B_87_CUR', 'B_87_LOA']",0
+87,B_88,North West,E12000002,Retail,64000,"['B_88_CUR', 'B_88_LOA']",0
+88,B_89,North East,E12000001,Accommodation food services,357000,"['B_89_CUR', 'B_89_LOA']",0
+89,B_90,London,E12000007,Arts entertainment recreation other services,224000,"['B_90_CUR', 'B_90_LOA']",0
+90,B_91,West Midlands,E12000005,Arts entertainment recreation other services,491000,"['B_91_CUR', 'B_91_LOA']",0
+91,B_92,Wales,W92000004,Production,229000,"['B_92_CUR', 'B_92_LOA']",0
+92,B_93,Scotland,S92000003,Agriculture forestry fishing,172000,"['B_93_CUR', 'B_93_LOA']",0
+93,B_94,Wales,W92000004,Agriculture forestry fishing,312000,"['B_94_CUR', 'B_94_LOA']",0
+94,B_95,West Midlands,E12000005,Wholesale,178000,"['B_95_CUR', 'B_95_LOA']",0
+95,B_96,West Midlands,E12000005,Construction,152000,"['B_96_CUR', 'B_96_LOA']",0
+96,B_97,West Midlands,E12000005,Business administration support services,225000,"['B_97_CUR', 'B_97_LOA']",1
+97,B_98,South West,E12000009,Business administration support services,1903000,"['B_98_CUR', 'B_98_LOA']",0
+98,B_99,East Midlands,E12000004,Production,42000,"['B_99_CUR', 'B_99_LOA']",0
+99,B_100,West Midlands,E12000005,Professional scientific technical,39000,"['B_100_CUR', 'B_100_LOA']",0
+100,B_101,East,E12000006,Production,4661000,"['B_101_CUR', 'B_101_LOA']",0
+101,B_102,East,E12000006,Information communication,333000,"['B_102_CUR', 'B_102_LOA']",0
+102,B_103,London,E12000007,Construction,41000,"['B_103_CUR', 'B_103_LOA']",0
+103,B_104,East,E12000006,Construction,97000,"['B_104_CUR', 'B_104_LOA']",0
+104,B_105,West Midlands,E12000005,Wholesale,161000,"['B_105_CUR', 'B_105_LOA']",0
+105,B_106,South East,E12000008,Construction,242000,"['B_106_CUR', 'B_106_LOA']",0
+106,B_107,London,E12000007,Retail,48000,"['B_107_CUR', 'B_107_LOA']",0
+107,B_108,East,E12000006,Professional scientific technical,71000,"['B_108_CUR', 'B_108_LOA']",0
+108,B_109,Northern Ireland,N92000002,Retail,196000,"['B_109_CUR', 'B_109_LOA']",0
+109,B_110,North East,E12000001,Professional scientific technical,658414000,"['B_110_CUR', 'B_110_LOA']",0
+110,B_111,South East,E12000008,Wholesale,3000,"['B_111_CUR', 'B_111_LOA']",0
+111,B_112,East Midlands,E12000004,Construction,46000,"['B_112_CUR', 'B_112_LOA']",0
+112,B_113,Yorkshire and The Humber,E12000003,Retail,108000,"['B_113_CUR', 'B_113_LOA']",0
+113,B_114,London,E12000007,Information communication,169000,"['B_114_CUR', 'B_114_LOA']",0
+114,B_115,South East,E12000008,Production,87000,"['B_115_CUR', 'B_115_LOA']",0
+115,B_116,West Midlands,E12000005,Health,82000,"['B_116_CUR', 'B_116_LOA']",0
+116,B_117,London,E12000007,Accommodation food services,162000,"['B_117_CUR', 'B_117_LOA']",0
+117,B_118,Yorkshire and The Humber,E12000003,Health,241000,"['B_118_CUR', 'B_118_LOA']",0
+118,B_119,London,E12000007,Business administration support services,57000,"['B_119_CUR', 'B_119_LOA']",0
+119,B_120,East Midlands,E12000004,Construction,243000,"['B_120_CUR', 'B_120_LOA']",0
+120,B_121,Yorkshire and The Humber,E12000003,Health,61000,"['B_121_CUR', 'B_121_LOA']",0
+121,B_122,Northern Ireland,N92000002,Retail,3763000,"['B_122_CUR', 'B_122_LOA']",0
+122,B_123,Yorkshire and The Humber,E12000003,Business administration support services,234000,"['B_123_CUR', 'B_123_LOA']",0
+123,B_124,East Midlands,E12000004,Business administration support services,42000,"['B_124_CUR', 'B_124_LOA']",0
+124,B_125,East Midlands,E12000004,Accommodation food services,138000,"['B_125_CUR', 'B_125_LOA']",0
+125,B_126,Northern Ireland,N92000002,Arts entertainment recreation other services,147000,"['B_126_CUR', 'B_126_LOA']",0
+126,B_127,South West,E12000009,Retail,58000,"['B_127_CUR', 'B_127_LOA']",0
+127,B_128,East,E12000006,Health,407000,"['B_128_CUR', 'B_128_LOA']",0
+128,B_129,North East,E12000001,Information communication,217000,"['B_129_CUR', 'B_129_LOA']",0
+129,B_130,London,E12000007,Production,273000,"['B_130_CUR', 'B_130_LOA']",0
+130,B_131,North West,E12000002,Construction,3545000,"['B_131_CUR', 'B_131_LOA']",0
+131,B_132,Yorkshire and The Humber,E12000003,Retail,121000,"['B_132_CUR', 'B_132_LOA']",0
+132,B_133,Yorkshire and The Humber,E12000003,Construction,119000,"['B_133_CUR', 'B_133_LOA']",0
+133,B_134,East Midlands,E12000004,Professional scientific technical,351000,"['B_134_CUR', 'B_134_LOA']",0
+134,B_135,East,E12000006,Information communication,159000,"['B_135_CUR', 'B_135_LOA']",0
+135,B_136,London,E12000007,Information communication,105000,"['B_136_CUR', 'B_136_LOA']",0
+136,B_137,North East,E12000001,Professional scientific technical,588000,"['B_137_CUR', 'B_137_LOA']",0
+137,B_138,West Midlands,E12000005,Information communication,69000,"['B_138_CUR', 'B_138_LOA']",0
+138,B_139,West Midlands,E12000005,Professional scientific technical,97000,"['B_139_CUR', 'B_139_LOA']",0
+139,B_140,London,E12000007,Transport Storage inc postal,32000,"['B_140_CUR', 'B_140_LOA']",0
+140,B_141,North West,E12000002,Accommodation food services,5000,"['B_141_CUR', 'B_141_LOA']",0
+141,B_142,London,E12000007,Construction,159000,"['B_142_CUR', 'B_142_LOA']",0
+142,B_143,West Midlands,E12000005,Business administration support services,316000,"['B_143_CUR', 'B_143_LOA']",0
+143,B_144,East,E12000006,Construction,607000,"['B_144_CUR', 'B_144_LOA']",0
+144,B_145,Scotland,S92000003,Information communication,76000,"['B_145_CUR', 'B_145_LOA']",0
+145,B_146,London,E12000007,Property,134000,"['B_146_CUR', 'B_146_LOA']",0
+146,B_147,Yorkshire and The Humber,E12000003,Professional scientific technical,100000,"['B_147_CUR', 'B_147_LOA']",0
+147,B_148,Scotland,S92000003,Arts entertainment recreation other services,19000,"['B_148_CUR', 'B_148_LOA']",0
+148,B_149,London,E12000007,Accommodation food services,89000,"['B_149_CUR', 'B_149_LOA']",0
+149,B_150,North West,E12000002,Arts entertainment recreation other services,70000,"['B_150_CUR', 'B_150_LOA']",0
+150,B_151,South West,E12000009,Construction,339000,"['B_151_CUR', 'B_151_LOA']",0
+151,B_152,East,E12000006,Information communication,187000,"['B_152_CUR', 'B_152_LOA']",0
+152,B_153,West Midlands,E12000005,Health,321000,"['B_153_CUR', 'B_153_LOA']",0
+153,B_154,North East,E12000001,Professional scientific technical,6665000,"['B_154_CUR', 'B_154_LOA']",0
+154,B_155,North West,E12000002,Professional scientific technical,184000,"['B_155_CUR', 'B_155_LOA']",0
+155,B_156,South East,E12000008,Public administration defence,397000,"['B_156_CUR', 'B_156_LOA']",0
+156,B_157,Scotland,S92000003,Finance insurance,15000,"['B_157_CUR', 'B_157_LOA']",0
+157,B_158,South West,E12000009,Wholesale,0,"['B_158_CUR', 'B_158_LOA']",0
+158,B_159,South East,E12000008,Business administration support services,123000,"['B_159_CUR', 'B_159_LOA']",0
+159,B_160,London,E12000007,Construction,246000,"['B_160_CUR', 'B_160_LOA']",0
+160,B_161,South West,E12000009,Arts entertainment recreation other services,146000,"['B_161_CUR', 'B_161_LOA']",0
+161,B_162,South West,E12000009,Transport Storage inc postal,854000,"['B_162_CUR', 'B_162_LOA']",0
+162,B_163,Wales,W92000004,Construction,4000,"['B_163_CUR', 'B_163_LOA']",0
+163,B_164,Yorkshire and The Humber,E12000003,Construction,1169000,"['B_164_CUR', 'B_164_LOA']",0
+164,B_165,South East,E12000008,Information communication,222000,"['B_165_CUR', 'B_165_LOA']",0
+165,B_166,East,E12000006,Information communication,193000,"['B_166_CUR', 'B_166_LOA']",0
+166,B_167,Northern Ireland,N92000002,Accommodation food services,46000,"['B_167_CUR', 'B_167_LOA']",0
+167,B_168,Yorkshire and The Humber,E12000003,Construction,292000,"['B_168_CUR', 'B_168_LOA']",0
+168,B_169,Yorkshire and The Humber,E12000003,Transport Storage inc postal,72000,"['B_169_CUR', 'B_169_LOA']",0
+169,B_170,West Midlands,E12000005,Transport Storage inc postal,714000,"['B_170_CUR', 'B_170_LOA']",0
+170,B_171,London,E12000007,Professional scientific technical,149000,"['B_171_CUR', 'B_171_LOA']",0
+171,B_172,London,E12000007,Construction,235000,"['B_172_CUR', 'B_172_LOA']",1
+172,B_173,London,E12000007,Professional scientific technical,129000,"['B_173_CUR', 'B_173_LOA']",0
+173,B_174,South East,E12000008,Production,126000,"['B_174_CUR', 'B_174_LOA']",0
+174,B_175,East,E12000006,Wholesale,136000,"['B_175_CUR', 'B_175_LOA']",0
+175,B_176,South East,E12000008,Professional scientific technical,475000,"['B_176_CUR', 'B_176_LOA']",0
+176,B_177,West Midlands,E12000005,Professional scientific technical,163000,"['B_177_CUR', 'B_177_LOA']",0
+177,B_178,South East,E12000008,Retail,14000,"['B_178_CUR', 'B_178_LOA']",0
+178,B_179,Northern Ireland,N92000002,Professional scientific technical,185000,"['B_179_CUR', 'B_179_LOA']",0
+179,B_180,Northern Ireland,N92000002,Health,314000,"['B_180_CUR', 'B_180_LOA']",0
+180,B_181,Yorkshire and The Humber,E12000003,Health,102000,"['B_181_CUR', 'B_181_LOA']",0
+181,B_182,Scotland,S92000003,Transport Storage inc postal,81000,"['B_182_CUR', 'B_182_LOA']",0
+182,B_183,East,E12000006,Construction,26000,"['B_183_CUR', 'B_183_LOA']",0
+183,B_184,West Midlands,E12000005,Construction,301000,"['B_184_CUR', 'B_184_LOA']",0
+184,B_185,North East,E12000001,Construction,131000,"['B_185_CUR', 'B_185_LOA']",0
+185,B_186,London,E12000007,Information communication,154000,"['B_186_CUR', 'B_186_LOA']",0
+186,B_187,North West,E12000002,Accommodation food services,38000,"['B_187_CUR', 'B_187_LOA']",0
+187,B_188,East Midlands,E12000004,Construction,181000,"['B_188_CUR', 'B_188_LOA']",0
+188,B_189,West Midlands,E12000005,Production,82000,"['B_189_CUR', 'B_189_LOA']",0
+189,B_190,South West,E12000009,Retail,23000,"['B_190_CUR', 'B_190_LOA']",0
+190,B_191,Scotland,S92000003,Agriculture forestry fishing,225000,"['B_191_CUR', 'B_191_LOA']",0
+191,B_192,London,E12000007,Professional scientific technical,65000,"['B_192_CUR', 'B_192_LOA']",0
+192,B_193,London,E12000007,Arts entertainment recreation other services,279000,"['B_193_CUR', 'B_193_LOA']",0
+193,B_194,South West,E12000009,Construction,231000,"['B_194_CUR', 'B_194_LOA']",0
+194,B_195,London,E12000007,Information communication,175000,"['B_195_CUR', 'B_195_LOA']",0
+195,B_196,East,E12000006,Production,245000,"['B_196_CUR', 'B_196_LOA']",0
+196,B_197,Yorkshire and The Humber,E12000003,Business administration support services,147000,"['B_197_CUR', 'B_197_LOA']",0
+197,B_198,West Midlands,E12000005,Wholesale,351000,"['B_198_CUR', 'B_198_LOA']",0
+198,B_199,South East,E12000008,Professional scientific technical,385000,"['B_199_CUR', 'B_199_LOA']",0
+199,B_200,London,E12000007,Retail,349000,"['B_200_CUR', 'B_200_LOA']",0
+200,B_201,North West,E12000002,Motor trades,935000,"['B_201_CUR', 'B_201_LOA']",0
+201,B_202,East Midlands,E12000004,Transport Storage inc postal,111000,"['B_202_CUR', 'B_202_LOA']",0
+202,B_203,Scotland,S92000003,Arts entertainment recreation other services,71000,"['B_203_CUR', 'B_203_LOA']",0
+203,B_204,London,E12000007,Accommodation food services,215000,"['B_204_CUR', 'B_204_LOA']",0
+204,B_205,North West,E12000002,Arts entertainment recreation other services,54000,"['B_205_CUR', 'B_205_LOA']",0
+205,B_206,West Midlands,E12000005,Property,35000,"['B_206_CUR', 'B_206_LOA']",0
+206,B_207,North East,E12000001,Business administration support services,11000,"['B_207_CUR', 'B_207_LOA']",0
+207,B_208,South West,E12000009,Arts entertainment recreation other services,422000,"['B_208_CUR', 'B_208_LOA']",0
+208,B_209,North West,E12000002,Arts entertainment recreation other services,411000,"['B_209_CUR', 'B_209_LOA']",0
+209,B_210,Wales,W92000004,Construction,121000,"['B_210_CUR', 'B_210_LOA']",0
+210,B_211,North West,E12000002,Arts entertainment recreation other services,718000,"['B_211_CUR', 'B_211_LOA']",0
+211,B_212,South East,E12000008,Retail,92000,"['B_212_CUR', 'B_212_LOA']",0
+212,B_213,London,E12000007,Retail,3419000,"['B_213_CUR', 'B_213_LOA']",0
+213,B_214,East,E12000006,Retail,40000,"['B_214_CUR', 'B_214_LOA']",0
+214,B_215,South West,E12000009,Information communication,86000,"['B_215_CUR', 'B_215_LOA']",0
+215,B_216,South East,E12000008,Arts entertainment recreation other services,332000,"['B_216_CUR', 'B_216_LOA']",0
+216,B_217,South East,E12000008,Arts entertainment recreation other services,66000,"['B_217_CUR', 'B_217_LOA']",0
+217,B_218,North East,E12000001,Accommodation food services,104000,"['B_218_CUR', 'B_218_LOA']",0
+218,B_219,South East,E12000008,Construction,76000,"['B_219_CUR', 'B_219_LOA']",0
+219,B_220,East,E12000006,Construction,83649000,"['B_220_CUR', 'B_220_LOA']",0
+220,B_221,East Midlands,E12000004,Agriculture forestry fishing,41000,"['B_221_CUR', 'B_221_LOA']",0
+221,B_222,South East,E12000008,Professional scientific technical,185000,"['B_222_CUR', 'B_222_LOA']",0
+222,B_223,Scotland,S92000003,Wholesale,230000,"['B_223_CUR', 'B_223_LOA']",0
+223,B_224,East,E12000006,Construction,34000,"['B_224_CUR', 'B_224_LOA']",0
+224,B_225,London,E12000007,Information communication,10000,"['B_225_CUR', 'B_225_LOA']",0
+225,B_226,North West,E12000002,Professional scientific technical,279000,"['B_226_CUR', 'B_226_LOA']",0
+226,B_227,South East,E12000008,Retail,197000,"['B_227_CUR', 'B_227_LOA']",0
+227,B_228,Wales,W92000004,Construction,349000,"['B_228_CUR', 'B_228_LOA']",0
+228,B_229,South West,E12000009,Agriculture forestry fishing,53000,"['B_229_CUR', 'B_229_LOA']",0
+229,B_230,North West,E12000002,Accommodation food services,2000,"['B_230_CUR', 'B_230_LOA']",0
+230,B_231,North East,E12000001,Professional scientific technical,108000,"['B_231_CUR', 'B_231_LOA']",0
+231,B_232,London,E12000007,Professional scientific technical,121000,"['B_232_CUR', 'B_232_LOA']",0
+232,B_233,South East,E12000008,Production,138000,"['B_233_CUR', 'B_233_LOA']",0
+233,B_234,South East,E12000008,Construction,239000,"['B_234_CUR', 'B_234_LOA']",0
+234,B_235,West Midlands,E12000005,Health,142000,"['B_235_CUR', 'B_235_LOA']",0
+235,B_236,North West,E12000002,Professional scientific technical,10000,"['B_236_CUR', 'B_236_LOA']",0
+236,B_237,Northern Ireland,N92000002,Information communication,1390000,"['B_237_CUR', 'B_237_LOA']",0
+237,B_238,West Midlands,E12000005,Arts entertainment recreation other services,109000,"['B_238_CUR', 'B_238_LOA']",0
+238,B_239,North East,E12000001,Arts entertainment recreation other services,129000,"['B_239_CUR', 'B_239_LOA']",0
+239,B_240,London,E12000007,Information communication,269000,"['B_240_CUR', 'B_240_LOA']",0
+240,B_241,London,E12000007,Motor trades,213000,"['B_241_CUR', 'B_241_LOA']",0
+241,B_242,Yorkshire and The Humber,E12000003,Agriculture forestry fishing,10000,"['B_242_CUR', 'B_242_LOA']",0
+242,B_243,South West,E12000009,Arts entertainment recreation other services,218000,"['B_243_CUR', 'B_243_LOA']",0
+243,B_244,London,E12000007,Professional scientific technical,4407000,"['B_244_CUR', 'B_244_LOA']",0
+244,B_245,West Midlands,E12000005,Transport Storage inc postal,972000,"['B_245_CUR', 'B_245_LOA']",0
+245,B_246,Northern Ireland,N92000002,Accommodation food services,56000,"['B_246_CUR', 'B_246_LOA']",0
+246,B_247,Yorkshire and The Humber,E12000003,Property,278000,"['B_247_CUR', 'B_247_LOA']",0
+247,B_248,West Midlands,E12000005,Professional scientific technical,1150000,"['B_248_CUR', 'B_248_LOA']",0
+248,B_249,Scotland,S92000003,Business administration support services,67000,"['B_249_CUR', 'B_249_LOA']",0
+249,B_250,South West,E12000009,Arts entertainment recreation other services,106000,"['B_250_CUR', 'B_250_LOA']",0
+250,B_251,Yorkshire and The Humber,E12000003,Transport Storage inc postal,114000,"['B_251_CUR', 'B_251_LOA']",0
+251,B_252,South West,E12000009,Business administration support services,237000,"['B_252_CUR', 'B_252_LOA']",0
+252,B_253,Wales,W92000004,Health,428000,"['B_253_CUR', 'B_253_LOA']",0
+253,B_254,London,E12000007,Professional scientific technical,144000,"['B_254_CUR', 'B_254_LOA']",0
+254,B_255,Wales,W92000004,Business administration support services,676000,"['B_255_CUR', 'B_255_LOA']",0
+255,B_256,East,E12000006,Production,106000,"['B_256_CUR', 'B_256_LOA']",0
+256,B_257,South East,E12000008,Information communication,1931000,"['B_257_CUR', 'B_257_LOA']",0
+257,B_258,East Midlands,E12000004,Health,248000,"['B_258_CUR', 'B_258_LOA']",0
+258,B_259,Wales,W92000004,Health,0,"['B_259_CUR', 'B_259_LOA']",0
+259,B_260,Scotland,S92000003,Wholesale,102000,"['B_260_CUR', 'B_260_LOA']",0
+260,B_261,London,E12000007,Professional scientific technical,11000,"['B_261_CUR', 'B_261_LOA']",0
+261,B_262,West Midlands,E12000005,Wholesale,790000,"['B_262_CUR', 'B_262_LOA']",0
+262,B_263,Northern Ireland,N92000002,Finance insurance,83000,"['B_263_CUR', 'B_263_LOA']",0
+263,B_264,London,E12000007,Information communication,240000,"['B_264_CUR', 'B_264_LOA']",0
+264,B_265,Yorkshire and The Humber,E12000003,Agriculture forestry fishing,296000,"['B_265_CUR', 'B_265_LOA']",0
+265,B_266,Northern Ireland,N92000002,Professional scientific technical,528000,"['B_266_CUR', 'B_266_LOA']",0
+266,B_267,North West,E12000002,Transport Storage inc postal,387000,"['B_267_CUR', 'B_267_LOA']",0
+267,B_268,Yorkshire and The Humber,E12000003,Accommodation food services,91000,"['B_268_CUR', 'B_268_LOA']",0
+268,B_269,Yorkshire and The Humber,E12000003,Transport Storage inc postal,82000,"['B_269_CUR', 'B_269_LOA']",0
+269,B_270,Scotland,S92000003,Professional scientific technical,204000,"['B_270_CUR', 'B_270_LOA']",0
+270,B_271,London,E12000007,Arts entertainment recreation other services,7000,"['B_271_CUR', 'B_271_LOA']",0
+271,B_272,South East,E12000008,Information communication,139000,"['B_272_CUR', 'B_272_LOA']",0
+272,B_273,East,E12000006,Agriculture forestry fishing,176000,"['B_273_CUR', 'B_273_LOA']",0
+273,B_274,South East,E12000008,Property,1648000,"['B_274_CUR', 'B_274_LOA']",0
+274,B_275,London,E12000007,Professional scientific technical,777000,"['B_275_CUR', 'B_275_LOA']",0
+275,B_276,South East,E12000008,Production,55000,"['B_276_CUR', 'B_276_LOA']",0
+276,B_277,South East,E12000008,Retail,82000,"['B_277_CUR', 'B_277_LOA']",0
+277,B_278,North West,E12000002,Transport Storage inc postal,86000,"['B_278_CUR', 'B_278_LOA']",0
+278,B_279,North East,E12000001,Health,60000,"['B_279_CUR', 'B_279_LOA']",0
+279,B_280,North West,E12000002,Arts entertainment recreation other services,204000,"['B_280_CUR', 'B_280_LOA']",0
+280,B_281,Wales,W92000004,Transport Storage inc postal,29000,"['B_281_CUR', 'B_281_LOA']",0
+281,B_282,South East,E12000008,Professional scientific technical,152000,"['B_282_CUR', 'B_282_LOA']",0
+282,B_283,South West,E12000009,Retail,87000,"['B_283_CUR', 'B_283_LOA']",0
+283,B_284,South West,E12000009,Production,6000,"['B_284_CUR', 'B_284_LOA']",0
+284,B_285,West Midlands,E12000005,Professional scientific technical,479000,"['B_285_CUR', 'B_285_LOA']",0
+285,B_286,East Midlands,E12000004,Retail,207000,"['B_286_CUR', 'B_286_LOA']",0
+286,B_287,Yorkshire and The Humber,E12000003,Arts entertainment recreation other services,1000,"['B_287_CUR', 'B_287_LOA']",0
+287,B_288,London,E12000007,Health,212000,"['B_288_CUR', 'B_288_LOA']",0
+288,B_289,North East,E12000001,Information communication,196000,"['B_289_CUR', 'B_289_LOA']",0
+289,B_290,South East,E12000008,Business administration support services,59000,"['B_290_CUR', 'B_290_LOA']",0
+290,B_291,South West,E12000009,Retail,73000,"['B_291_CUR', 'B_291_LOA']",0
+291,B_292,West Midlands,E12000005,Construction,63000,"['B_292_CUR', 'B_292_LOA']",0
+292,B_293,Yorkshire and The Humber,E12000003,Accommodation food services,377000,"['B_293_CUR', 'B_293_LOA']",0
+293,B_294,North West,E12000002,Professional scientific technical,114000,"['B_294_CUR', 'B_294_LOA']",0
+294,B_295,South East,E12000008,Business administration support services,33000,"['B_295_CUR', 'B_295_LOA']",0
+295,B_296,London,E12000007,Professional scientific technical,496000,"['B_296_CUR', 'B_296_LOA']",0
+296,B_297,North East,E12000001,Agriculture forestry fishing,69000,"['B_297_CUR', 'B_297_LOA']",0
+297,B_298,West Midlands,E12000005,Business administration support services,234000,"['B_298_CUR', 'B_298_LOA']",0
+298,B_299,West Midlands,E12000005,Construction,136000,"['B_299_CUR', 'B_299_LOA']",0
+299,B_300,West Midlands,E12000005,Transport Storage inc postal,66000,"['B_300_CUR', 'B_300_LOA']",0
+300,B_301,South East,E12000008,Education,23000,"['B_301_CUR', 'B_301_LOA']",0
+301,B_302,London,E12000007,Business administration support services,144000,"['B_302_CUR', 'B_302_LOA']",0
+302,B_303,South East,E12000008,Production,18000,"['B_303_CUR', 'B_303_LOA']",0
+303,B_304,South West,E12000009,Arts entertainment recreation other services,210000,"['B_304_CUR', 'B_304_LOA']",0
+304,B_305,South East,E12000008,Construction,202000,"['B_305_CUR', 'B_305_LOA']",0
+305,B_306,South East,E12000008,Professional scientific technical,140000,"['B_306_CUR', 'B_306_LOA']",0
+306,B_307,London,E12000007,Construction,4328000,"['B_307_CUR', 'B_307_LOA']",0
+307,B_308,London,E12000007,Arts entertainment recreation other services,3623000,"['B_308_CUR', 'B_308_LOA']",0
+308,B_309,North West,E12000002,Wholesale,3000,"['B_309_CUR', 'B_309_LOA']",0
+309,B_310,Wales,W92000004,Accommodation food services,241000,"['B_310_CUR', 'B_310_LOA']",0
+310,B_311,London,E12000007,Retail,105000,"['B_311_CUR', 'B_311_LOA']",0
+311,B_312,London,E12000007,Information communication,163000,"['B_312_CUR', 'B_312_LOA']",0
+312,B_313,North West,E12000002,Agriculture forestry fishing,1000,"['B_313_CUR', 'B_313_LOA']",0
+313,B_314,Scotland,S92000003,Accommodation food services,155000,"['B_314_CUR', 'B_314_LOA']",0
+314,B_315,East,E12000006,Construction,259000,"['B_315_CUR', 'B_315_LOA']",0
+315,B_316,Scotland,S92000003,Construction,50000,"['B_316_CUR', 'B_316_LOA']",0
+316,B_317,South West,E12000009,Accommodation food services,2016000,"['B_317_CUR', 'B_317_LOA']",0
+317,B_318,Wales,W92000004,Production,890000,"['B_318_CUR', 'B_318_LOA']",0
+318,B_319,East,E12000006,Information communication,29000,"['B_319_CUR', 'B_319_LOA']",0
+319,B_320,West Midlands,E12000005,Information communication,7912000,"['B_320_CUR', 'B_320_LOA']",0
+320,B_321,Yorkshire and The Humber,E12000003,Wholesale,12000,"['B_321_CUR', 'B_321_LOA']",0
+321,B_322,South West,E12000009,Professional scientific technical,4000,"['B_322_CUR', 'B_322_LOA']",0
+322,B_323,North East,E12000001,Construction,92000,"['B_323_CUR', 'B_323_LOA']",0
+323,B_324,Yorkshire and The Humber,E12000003,Information communication,98000,"['B_324_CUR', 'B_324_LOA']",0
+324,B_325,Scotland,S92000003,Agriculture forestry fishing,93000,"['B_325_CUR', 'B_325_LOA']",0
+325,B_326,Wales,W92000004,Accommodation food services,4334000,"['B_326_CUR', 'B_326_LOA']",0
+326,B_327,Scotland,S92000003,Retail,91000,"['B_327_CUR', 'B_327_LOA']",0
+327,B_328,South East,E12000008,Arts entertainment recreation other services,1248000,"['B_328_CUR', 'B_328_LOA']",0
+328,B_329,East Midlands,E12000004,Professional scientific technical,745000,"['B_329_CUR', 'B_329_LOA']",0
+329,B_330,London,E12000007,Arts entertainment recreation other services,50000,"['B_330_CUR', 'B_330_LOA']",0
+330,B_331,London,E12000007,Information communication,0,"['B_331_CUR', 'B_331_LOA']",0
+331,B_332,South East,E12000008,Education,374000,"['B_332_CUR', 'B_332_LOA']",0
+332,B_333,London,E12000007,Information communication,231000,"['B_333_CUR', 'B_333_LOA']",0
+333,B_334,North West,E12000002,Transport Storage inc postal,88000,"['B_334_CUR', 'B_334_LOA']",0
+334,B_335,Wales,W92000004,Construction,2509000,"['B_335_CUR', 'B_335_LOA']",0
+335,B_336,South West,E12000009,Arts entertainment recreation other services,356000,"['B_336_CUR', 'B_336_LOA']",0
+336,B_337,London,E12000007,Wholesale,133000,"['B_337_CUR', 'B_337_LOA']",0
+337,B_338,East,E12000006,Retail,563000,"['B_338_CUR', 'B_338_LOA']",0
+338,B_339,East,E12000006,Business administration support services,52000,"['B_339_CUR', 'B_339_LOA']",0
+339,B_340,South East,E12000008,Retail,60000,"['B_340_CUR', 'B_340_LOA']",0
+340,B_341,East Midlands,E12000004,Agriculture forestry fishing,279000,"['B_341_CUR', 'B_341_LOA']",0
+341,B_342,Scotland,S92000003,Professional scientific technical,235000,"['B_342_CUR', 'B_342_LOA']",0
+342,B_343,South West,E12000009,Business administration support services,8000,"['B_343_CUR', 'B_343_LOA']",0
+343,B_344,North West,E12000002,Professional scientific technical,332000,"['B_344_CUR', 'B_344_LOA']",0
+344,B_345,London,E12000007,Business administration support services,199000,"['B_345_CUR', 'B_345_LOA']",0
+345,B_346,West Midlands,E12000005,Information communication,478000,"['B_346_CUR', 'B_346_LOA']",0
+346,B_347,Yorkshire and The Humber,E12000003,Wholesale,58000,"['B_347_CUR', 'B_347_LOA']",0
+347,B_348,East Midlands,E12000004,Wholesale,86000,"['B_348_CUR', 'B_348_LOA']",0
+348,B_349,London,E12000007,Professional scientific technical,96000,"['B_349_CUR', 'B_349_LOA']",0
+349,B_350,London,E12000007,Arts entertainment recreation other services,155000,"['B_350_CUR', 'B_350_LOA']",0
+350,B_351,South West,E12000009,Professional scientific technical,191000,"['B_351_CUR', 'B_351_LOA']",0
+351,B_352,Northern Ireland,N92000002,Accommodation food services,806000,"['B_352_CUR', 'B_352_LOA']",0
+352,B_353,London,E12000007,Production,1532000,"['B_353_CUR', 'B_353_LOA']",0
+353,B_354,London,E12000007,Transport Storage inc postal,232000,"['B_354_CUR', 'B_354_LOA']",0
+354,B_355,North West,E12000002,Retail,117000,"['B_355_CUR', 'B_355_LOA']",0
+355,B_356,West Midlands,E12000005,Arts entertainment recreation other services,175000,"['B_356_CUR', 'B_356_LOA']",0
+356,B_357,South West,E12000009,Arts entertainment recreation other services,657000,"['B_357_CUR', 'B_357_LOA']",0
+357,B_358,London,E12000007,Professional scientific technical,71000,"['B_358_CUR', 'B_358_LOA']",0
+358,B_359,South East,E12000008,Business administration support services,16000,"['B_359_CUR', 'B_359_LOA']",0
+359,B_360,South West,E12000009,Business administration support services,60000,"['B_360_CUR', 'B_360_LOA']",0
+360,B_361,West Midlands,E12000005,Business administration support services,59000,"['B_361_CUR', 'B_361_LOA']",0
+361,B_362,London,E12000007,Information communication,89000,"['B_362_CUR', 'B_362_LOA']",0
+362,B_363,Wales,W92000004,Property,1471000,"['B_363_CUR', 'B_363_LOA']",0
+363,B_364,London,E12000007,Business administration support services,280000,"['B_364_CUR', 'B_364_LOA']",0
+364,B_365,Wales,W92000004,Professional scientific technical,168000,"['B_365_CUR', 'B_365_LOA']",0
+365,B_366,London,E12000007,Production,247000,"['B_366_CUR', 'B_366_LOA']",0
+366,B_367,North West,E12000002,Professional scientific technical,70000,"['B_367_CUR', 'B_367_LOA']",0
+367,B_368,London,E12000007,Business administration support services,68000,"['B_368_CUR', 'B_368_LOA']",0
+368,B_369,East,E12000006,Construction,3000,"['B_369_CUR', 'B_369_LOA']",0
+369,B_370,Scotland,S92000003,Professional scientific technical,67000,"['B_370_CUR', 'B_370_LOA']",0
+370,B_371,Yorkshire and The Humber,E12000003,Production,365000,"['B_371_CUR', 'B_371_LOA']",0
+371,B_372,South East,E12000008,Information communication,10000,"['B_372_CUR', 'B_372_LOA']",0
+372,B_373,London,E12000007,Professional scientific technical,61000,"['B_373_CUR', 'B_373_LOA']",0
+373,B_374,West Midlands,E12000005,Wholesale,2498000,"['B_374_CUR', 'B_374_LOA']",0
+374,B_375,South West,E12000009,Business administration support services,2000,"['B_375_CUR', 'B_375_LOA']",0
+375,B_376,London,E12000007,Professional scientific technical,17000,"['B_376_CUR', 'B_376_LOA']",0
+376,B_377,East,E12000006,Motor trades,27000,"['B_377_CUR', 'B_377_LOA']",0
+377,B_378,London,E12000007,Construction,155000,"['B_378_CUR', 'B_378_LOA']",0
+378,B_379,South East,E12000008,Professional scientific technical,162000,"['B_379_CUR', 'B_379_LOA']",0
+379,B_380,North East,E12000001,Construction,590000,"['B_380_CUR', 'B_380_LOA']",0
+380,B_381,West Midlands,E12000005,Production,84000,"['B_381_CUR', 'B_381_LOA']",0
+381,B_382,West Midlands,E12000005,Motor trades,377000,"['B_382_CUR', 'B_382_LOA']",0
+382,B_383,South East,E12000008,Education,150000,"['B_383_CUR', 'B_383_LOA']",0
+383,B_384,North West,E12000002,Accommodation food services,198000,"['B_384_CUR', 'B_384_LOA']",0
+384,B_385,Scotland,S92000003,Accommodation food services,65000,"['B_385_CUR', 'B_385_LOA']",0
+385,B_386,West Midlands,E12000005,Retail,8361000,"['B_386_CUR', 'B_386_LOA']",0
+386,B_387,South West,E12000009,Accommodation food services,77000,"['B_387_CUR', 'B_387_LOA']",0
+387,B_388,London,E12000007,Production,2000,"['B_388_CUR', 'B_388_LOA']",0
+388,B_389,South West,E12000009,Business administration support services,164000,"['B_389_CUR', 'B_389_LOA']",0
+389,B_390,London,E12000007,Information communication,34000,"['B_390_CUR', 'B_390_LOA']",0
+390,B_391,North West,E12000002,Property,208000,"['B_391_CUR', 'B_391_LOA']",0
+391,B_392,West Midlands,E12000005,Information communication,481000,"['B_392_CUR', 'B_392_LOA']",0
+392,B_393,East Midlands,E12000004,Retail,302000,"['B_393_CUR', 'B_393_LOA']",0
+393,B_394,East,E12000006,Information communication,395000,"['B_394_CUR', 'B_394_LOA']",0
+394,B_395,South West,E12000009,Construction,40000,"['B_395_CUR', 'B_395_LOA']",0
+395,B_396,East,E12000006,Finance insurance,58000,"['B_396_CUR', 'B_396_LOA']",0
+396,B_397,London,E12000007,Professional scientific technical,261000,"['B_397_CUR', 'B_397_LOA']",0
+397,B_398,North West,E12000002,Production,59000,"['B_398_CUR', 'B_398_LOA']",0
+398,B_399,East Midlands,E12000004,Business administration support services,168000,"['B_399_CUR', 'B_399_LOA']",0
+399,B_400,East Midlands,E12000004,Business administration support services,578000,"['B_400_CUR', 'B_400_LOA']",0
+400,B_401,North West,E12000002,Health,188000,"['B_401_CUR', 'B_401_LOA']",0
+401,B_402,South West,E12000009,Agriculture forestry fishing,270000,"['B_402_CUR', 'B_402_LOA']",0
+402,B_403,West Midlands,E12000005,Health,555000,"['B_403_CUR', 'B_403_LOA']",0
+403,B_404,London,E12000007,Retail,72000,"['B_404_CUR', 'B_404_LOA']",0
+404,B_405,East,E12000006,Construction,85000,"['B_405_CUR', 'B_405_LOA']",0
+405,B_406,West Midlands,E12000005,Retail,86000,"['B_406_CUR', 'B_406_LOA']",0
+406,B_407,South East,E12000008,Wholesale,9000,"['B_407_CUR', 'B_407_LOA']",0
+407,B_408,East,E12000006,Professional scientific technical,172000,"['B_408_CUR', 'B_408_LOA']",0
+408,B_409,London,E12000007,Accommodation food services,71000,"['B_409_CUR', 'B_409_LOA']",0
+409,B_410,London,E12000007,Professional scientific technical,338000,"['B_410_CUR', 'B_410_LOA']",0
+410,B_411,North West,E12000002,Production,554000,"['B_411_CUR', 'B_411_LOA']",0
+411,B_412,London,E12000007,Professional scientific technical,181000,"['B_412_CUR', 'B_412_LOA']",0
+412,B_413,Scotland,S92000003,Professional scientific technical,32000,"['B_413_CUR', 'B_413_LOA']",0
+413,B_414,London,E12000007,Professional scientific technical,32000,"['B_414_CUR', 'B_414_LOA']",0
+414,B_415,East Midlands,E12000004,Property,206000,"['B_415_CUR', 'B_415_LOA']",0
+415,B_416,East Midlands,E12000004,Business administration support services,426000,"['B_416_CUR', 'B_416_LOA']",0
+416,B_417,South East,E12000008,Professional scientific technical,11000,"['B_417_CUR', 'B_417_LOA']",0
+417,B_418,West Midlands,E12000005,Transport Storage inc postal,461000,"['B_418_CUR', 'B_418_LOA']",0
+418,B_419,Wales,W92000004,Agriculture forestry fishing,423000,"['B_419_CUR', 'B_419_LOA']",0
+419,B_420,South East,E12000008,Information communication,1940000,"['B_420_CUR', 'B_420_LOA']",0
+420,B_421,West Midlands,E12000005,Agriculture forestry fishing,23000,"['B_421_CUR', 'B_421_LOA']",0
+421,B_422,East,E12000006,Professional scientific technical,22000,"['B_422_CUR', 'B_422_LOA']",0
+422,B_423,Scotland,S92000003,Retail,66000,"['B_423_CUR', 'B_423_LOA']",0
+423,B_424,South East,E12000008,Finance insurance,462897000,"['B_424_CUR', 'B_424_LOA']",0
+424,B_425,London,E12000007,Retail,62000,"['B_425_CUR', 'B_425_LOA']",0
+425,B_426,Wales,W92000004,Property,449000,"['B_426_CUR', 'B_426_LOA']",0
+426,B_427,Wales,W92000004,Accommodation food services,103000,"['B_427_CUR', 'B_427_LOA']",0
+427,B_428,East,E12000006,Finance insurance,250000,"['B_428_CUR', 'B_428_LOA']",0
+428,B_429,London,E12000007,Professional scientific technical,97000,"['B_429_CUR', 'B_429_LOA']",0
+429,B_430,London,E12000007,Retail,72000,"['B_430_CUR', 'B_430_LOA']",0
+430,B_431,South West,E12000009,Motor trades,1886000,"['B_431_CUR', 'B_431_LOA']",0
+431,B_432,Yorkshire and The Humber,E12000003,Information communication,72000,"['B_432_CUR', 'B_432_LOA']",0
+432,B_433,South East,E12000008,Health,218000,"['B_433_CUR', 'B_433_LOA']",0
+433,B_434,East Midlands,E12000004,Property,131000,"['B_434_CUR', 'B_434_LOA']",0
+434,B_435,Yorkshire and The Humber,E12000003,Accommodation food services,21000,"['B_435_CUR', 'B_435_LOA']",0
+435,B_436,East Midlands,E12000004,Construction,74000,"['B_436_CUR', 'B_436_LOA']",0
+436,B_437,West Midlands,E12000005,Property,219000,"['B_437_CUR', 'B_437_LOA']",0
+437,B_438,North West,E12000002,Construction,138000,"['B_438_CUR', 'B_438_LOA']",0
+438,B_439,London,E12000007,Health,639000,"['B_439_CUR', 'B_439_LOA']",0
+439,B_440,East,E12000006,Wholesale,365000,"['B_440_CUR', 'B_440_LOA']",0
+440,B_441,London,E12000007,Property,448000,"['B_441_CUR', 'B_441_LOA']",0
+441,B_442,South East,E12000008,Arts entertainment recreation other services,139000,"['B_442_CUR', 'B_442_LOA']",0
+442,B_443,North East,E12000001,Finance insurance,464000,"['B_443_CUR', 'B_443_LOA']",0
+443,B_444,London,E12000007,Health,16000,"['B_444_CUR', 'B_444_LOA']",0
+444,B_445,West Midlands,E12000005,Construction,166000,"['B_445_CUR', 'B_445_LOA']",0
+445,B_446,South East,E12000008,Professional scientific technical,1162000,"['B_446_CUR', 'B_446_LOA']",0
+446,B_447,South East,E12000008,Professional scientific technical,104000,"['B_447_CUR', 'B_447_LOA']",0
+447,B_448,London,E12000007,Transport Storage inc postal,96000,"['B_448_CUR', 'B_448_LOA']",0
+448,B_449,North East,E12000001,Accommodation food services,1588000,"['B_449_CUR', 'B_449_LOA']",0
+449,B_450,North East,E12000001,Health,72000,"['B_450_CUR', 'B_450_LOA']",0
+450,B_451,South East,E12000008,Professional scientific technical,113000,"['B_451_CUR', 'B_451_LOA']",0
+451,B_452,London,E12000007,Transport Storage inc postal,84000,"['B_452_CUR', 'B_452_LOA']",0
+452,B_453,London,E12000007,Professional scientific technical,68000,"['B_453_CUR', 'B_453_LOA']",0
+453,B_454,South East,E12000008,Property,142000,"['B_454_CUR', 'B_454_LOA']",0
+454,B_455,London,E12000007,Professional scientific technical,485000,"['B_455_CUR', 'B_455_LOA']",0
+455,B_456,London,E12000007,Finance insurance,3082000,"['B_456_CUR', 'B_456_LOA']",0
+456,B_457,South West,E12000009,Motor trades,4909000,"['B_457_CUR', 'B_457_LOA']",0
+457,B_458,West Midlands,E12000005,Property,184000,"['B_458_CUR', 'B_458_LOA']",0
+458,B_459,Scotland,S92000003,Wholesale,12457000,"['B_459_CUR', 'B_459_LOA']",0
+459,B_460,South West,E12000009,Agriculture forestry fishing,131000,"['B_460_CUR', 'B_460_LOA']",0
+460,B_461,London,E12000007,Business administration support services,73000,"['B_461_CUR', 'B_461_LOA']",0
+461,B_462,East,E12000006,Wholesale,57000,"['B_462_CUR', 'B_462_LOA']",0
+462,B_463,London,E12000007,Information communication,389000,"['B_463_CUR', 'B_463_LOA']",0
+463,B_464,North West,E12000002,Finance insurance,174000,"['B_464_CUR', 'B_464_LOA']",0
+464,B_465,West Midlands,E12000005,Professional scientific technical,149000,"['B_465_CUR', 'B_465_LOA']",0
+465,B_466,South West,E12000009,Production,248000,"['B_466_CUR', 'B_466_LOA']",0
+466,B_467,East,E12000006,Professional scientific technical,201000,"['B_467_CUR', 'B_467_LOA']",0
+467,B_468,North West,E12000002,Accommodation food services,871000,"['B_468_CUR', 'B_468_LOA']",0
+468,B_469,Northern Ireland,N92000002,Agriculture forestry fishing,0,"['B_469_CUR', 'B_469_LOA']",0
+469,B_470,West Midlands,E12000005,Construction,230000,"['B_470_CUR', 'B_470_LOA']",0
+470,B_471,West Midlands,E12000005,Professional scientific technical,62000,"['B_471_CUR', 'B_471_LOA']",0
+471,B_472,London,E12000007,Business administration support services,42000,"['B_472_CUR', 'B_472_LOA']",0
+472,B_473,London,E12000007,Professional scientific technical,1349000,"['B_473_CUR', 'B_473_LOA']",0
+473,B_474,East Midlands,E12000004,Property,192000,"['B_474_CUR', 'B_474_LOA']",0
+474,B_475,Yorkshire and The Humber,E12000003,Production,38000,"['B_475_CUR', 'B_475_LOA']",0
+475,B_476,North West,E12000002,Retail,563000,"['B_476_CUR', 'B_476_LOA']",0
+476,B_477,North West,E12000002,Production,60000,"['B_477_CUR', 'B_477_LOA']",0
+477,B_478,South East,E12000008,Professional scientific technical,212000,"['B_478_CUR', 'B_478_LOA']",0
+478,B_479,London,E12000007,Construction,67000,"['B_479_CUR', 'B_479_LOA']",1
+479,B_480,Yorkshire and The Humber,E12000003,Business administration support services,372000,"['B_480_CUR', 'B_480_LOA']",0
+480,B_481,Northern Ireland,N92000002,Production,3000,"['B_481_CUR', 'B_481_LOA']",0
+481,B_482,South West,E12000009,Retail,83000,"['B_482_CUR', 'B_482_LOA']",0
+482,B_483,East Midlands,E12000004,Wholesale,551000,"['B_483_CUR', 'B_483_LOA']",0
+483,B_484,West Midlands,E12000005,Construction,304000,"['B_484_CUR', 'B_484_LOA']",0
+484,B_485,South East,E12000008,Business administration support services,203000,"['B_485_CUR', 'B_485_LOA']",0
+485,B_486,West Midlands,E12000005,Professional scientific technical,117000,"['B_486_CUR', 'B_486_LOA']",0
+486,B_487,London,E12000007,Construction,56000,"['B_487_CUR', 'B_487_LOA']",0
+487,B_488,London,E12000007,Professional scientific technical,218000,"['B_488_CUR', 'B_488_LOA']",0
+488,B_489,South West,E12000009,Retail,79000,"['B_489_CUR', 'B_489_LOA']",0
+489,B_490,East Midlands,E12000004,Business administration support services,293000,"['B_490_CUR', 'B_490_LOA']",0
+490,B_491,South East,E12000008,Construction,36000,"['B_491_CUR', 'B_491_LOA']",0
+491,B_492,East,E12000006,Transport Storage inc postal,81000,"['B_492_CUR', 'B_492_LOA']",0
+492,B_493,South West,E12000009,Agriculture forestry fishing,151000,"['B_493_CUR', 'B_493_LOA']",0
+493,B_494,North West,E12000002,Health,203000,"['B_494_CUR', 'B_494_LOA']",0
+494,B_495,South West,E12000009,Information communication,197000,"['B_495_CUR', 'B_495_LOA']",0
+495,B_496,West Midlands,E12000005,Agriculture forestry fishing,61000,"['B_496_CUR', 'B_496_LOA']",0
+496,B_497,East Midlands,E12000004,Agriculture forestry fishing,7000,"['B_497_CUR', 'B_497_LOA']",0
+497,B_498,South East,E12000008,Agriculture forestry fishing,164000,"['B_498_CUR', 'B_498_LOA']",0
+498,B_499,South East,E12000008,Production,517000,"['B_499_CUR', 'B_499_LOA']",0
+499,B_500,London,E12000007,Construction,1081000,"['B_500_CUR', 'B_500_LOA']",0
+500,B_501,West Midlands,E12000005,Health,79000,"['B_501_CUR', 'B_501_LOA']",0
+501,B_502,Scotland,S92000003,Transport Storage inc postal,429000,"['B_502_CUR', 'B_502_LOA']",0
+502,B_503,London,E12000007,Professional scientific technical,113000,"['B_503_CUR', 'B_503_LOA']",0
+503,B_504,London,E12000007,Business administration support services,71000,"['B_504_CUR', 'B_504_LOA']",0
+504,B_505,West Midlands,E12000005,Production,663000,"['B_505_CUR', 'B_505_LOA']",0
+505,B_506,South West,E12000009,Construction,492000,"['B_506_CUR', 'B_506_LOA']",0
+506,B_507,North West,E12000002,Professional scientific technical,59000,"['B_507_CUR', 'B_507_LOA']",0
+507,B_508,North West,E12000002,Professional scientific technical,95000,"['B_508_CUR', 'B_508_LOA']",0
+508,B_509,South East,E12000008,Professional scientific technical,67000,"['B_509_CUR', 'B_509_LOA']",0
+509,B_510,London,E12000007,Property,126000,"['B_510_CUR', 'B_510_LOA']",0
+510,B_511,North West,E12000002,Business administration support services,97000,"['B_511_CUR', 'B_511_LOA']",0
+511,B_512,London,E12000007,Property,495000,"['B_512_CUR', 'B_512_LOA']",0
+512,B_513,North East,E12000001,Transport Storage inc postal,339000,"['B_513_CUR', 'B_513_LOA']",0
+513,B_514,East,E12000006,Arts entertainment recreation other services,118000,"['B_514_CUR', 'B_514_LOA']",0
+514,B_515,Northern Ireland,N92000002,Retail,27000,"['B_515_CUR', 'B_515_LOA']",0
+515,B_516,East Midlands,E12000004,Production,12000,"['B_516_CUR', 'B_516_LOA']",0
+516,B_517,South West,E12000009,Motor trades,32000,"['B_517_CUR', 'B_517_LOA']",0
+517,B_518,Scotland,S92000003,Transport Storage inc postal,802000,"['B_518_CUR', 'B_518_LOA']",0
+518,B_519,South West,E12000009,Construction,322000,"['B_519_CUR', 'B_519_LOA']",0
+519,B_520,Scotland,S92000003,Transport Storage inc postal,16000,"['B_520_CUR', 'B_520_LOA']",0
+520,B_521,West Midlands,E12000005,Professional scientific technical,55000,"['B_521_CUR', 'B_521_LOA']",0
+521,B_522,South East,E12000008,Business administration support services,129000,"['B_522_CUR', 'B_522_LOA']",0
+522,B_523,East,E12000006,Transport Storage inc postal,98000,"['B_523_CUR', 'B_523_LOA']",0
+523,B_524,East,E12000006,Property,36000,"['B_524_CUR', 'B_524_LOA']",0
+524,B_525,Yorkshire and The Humber,E12000003,Accommodation food services,53000,"['B_525_CUR', 'B_525_LOA']",0
+525,B_526,London,E12000007,Arts entertainment recreation other services,70000,"['B_526_CUR', 'B_526_LOA']",0
+526,B_527,East,E12000006,Health,292000,"['B_527_CUR', 'B_527_LOA']",0
+527,B_528,London,E12000007,Professional scientific technical,168000,"['B_528_CUR', 'B_528_LOA']",0
+528,B_529,East,E12000006,Motor trades,156000,"['B_529_CUR', 'B_529_LOA']",0
+529,B_530,Scotland,S92000003,Property,100000,"['B_530_CUR', 'B_530_LOA']",0
+530,B_531,South East,E12000008,Business administration support services,59000,"['B_531_CUR', 'B_531_LOA']",0
+531,B_532,North West,E12000002,Retail,25000,"['B_532_CUR', 'B_532_LOA']",0
+532,B_533,West Midlands,E12000005,Health,165000,"['B_533_CUR', 'B_533_LOA']",0
+533,B_534,East,E12000006,Education,91000,"['B_534_CUR', 'B_534_LOA']",0
+534,B_535,East Midlands,E12000004,Business administration support services,57000,"['B_535_CUR', 'B_535_LOA']",0
+535,B_536,East,E12000006,Business administration support services,361000,"['B_536_CUR', 'B_536_LOA']",0
+536,B_537,Yorkshire and The Humber,E12000003,Construction,1533000,"['B_537_CUR', 'B_537_LOA']",0
+537,B_538,West Midlands,E12000005,Accommodation food services,393000,"['B_538_CUR', 'B_538_LOA']",0
+538,B_539,South East,E12000008,Information communication,26523000,"['B_539_CUR', 'B_539_LOA']",0
+539,B_540,Northern Ireland,N92000002,Agriculture forestry fishing,130000,"['B_540_CUR', 'B_540_LOA']",0
+540,B_541,North West,E12000002,Wholesale,203000,"['B_541_CUR', 'B_541_LOA']",0
+541,B_542,South East,E12000008,Business administration support services,137000,"['B_542_CUR', 'B_542_LOA']",0
+542,B_543,West Midlands,E12000005,Information communication,51000,"['B_543_CUR', 'B_543_LOA']",0
+543,B_544,West Midlands,E12000005,Education,60000,"['B_544_CUR', 'B_544_LOA']",0
+544,B_545,South East,E12000008,Retail,79000,"['B_545_CUR', 'B_545_LOA']",0
+545,B_546,South East,E12000008,Business administration support services,69000,"['B_546_CUR', 'B_546_LOA']",0
+546,B_547,South East,E12000008,Property,209000,"['B_547_CUR', 'B_547_LOA']",0
+547,B_548,Yorkshire and The Humber,E12000003,Accommodation food services,231000,"['B_548_CUR', 'B_548_LOA']",0
+548,B_549,South East,E12000008,Health,69000,"['B_549_CUR', 'B_549_LOA']",0
+549,B_550,South East,E12000008,Business administration support services,229000,"['B_550_CUR', 'B_550_LOA']",0
+550,B_551,Scotland,S92000003,Business administration support services,93000,"['B_551_CUR', 'B_551_LOA']",0
+551,B_552,Yorkshire and The Humber,E12000003,Agriculture forestry fishing,152000,"['B_552_CUR', 'B_552_LOA']",0
+552,B_553,London,E12000007,Information communication,706846000,"['B_553_CUR', 'B_553_LOA']",0
+553,B_554,West Midlands,E12000005,Agriculture forestry fishing,5536000,"['B_554_CUR', 'B_554_LOA']",0
+554,B_555,London,E12000007,Retail,872000,"['B_555_CUR', 'B_555_LOA']",0
+555,B_556,North West,E12000002,Construction,4000,"['B_556_CUR', 'B_556_LOA']",0
+556,B_557,London,E12000007,Construction,40000,"['B_557_CUR', 'B_557_LOA']",0
+557,B_558,South East,E12000008,Agriculture forestry fishing,33000,"['B_558_CUR', 'B_558_LOA']",0
+558,B_559,London,E12000007,Business administration support services,295000,"['B_559_CUR', 'B_559_LOA']",0
+559,B_560,West Midlands,E12000005,Construction,87000,"['B_560_CUR', 'B_560_LOA']",0
+560,B_561,Yorkshire and The Humber,E12000003,Agriculture forestry fishing,38000,"['B_561_CUR', 'B_561_LOA']",0
+561,B_562,West Midlands,E12000005,Retail,6051000,"['B_562_CUR', 'B_562_LOA']",0
+562,B_563,South West,E12000009,Professional scientific technical,395000,"['B_563_CUR', 'B_563_LOA']",0
+563,B_564,South East,E12000008,Construction,78000,"['B_564_CUR', 'B_564_LOA']",0
+564,B_565,London,E12000007,Health,123000,"['B_565_CUR', 'B_565_LOA']",0
+565,B_566,South East,E12000008,Information communication,324000,"['B_566_CUR', 'B_566_LOA']",0
+566,B_567,Yorkshire and The Humber,E12000003,Transport Storage inc postal,64000,"['B_567_CUR', 'B_567_LOA']",1
+567,B_568,London,E12000007,Professional scientific technical,23000,"['B_568_CUR', 'B_568_LOA']",0
+568,B_569,South West,E12000009,Agriculture forestry fishing,79000,"['B_569_CUR', 'B_569_LOA']",0
+569,B_570,West Midlands,E12000005,Business administration support services,70000,"['B_570_CUR', 'B_570_LOA']",0
+570,B_571,South East,E12000008,Health,215000,"['B_571_CUR', 'B_571_LOA']",0
+571,B_572,North West,E12000002,Construction,1411000,"['B_572_CUR', 'B_572_LOA']",0
+572,B_573,North West,E12000002,Construction,224000,"['B_573_CUR', 'B_573_LOA']",0
+573,B_574,East Midlands,E12000004,Retail,23000,"['B_574_CUR', 'B_574_LOA']",0
+574,B_575,London,E12000007,Property,552000,"['B_575_CUR', 'B_575_LOA']",0
+575,B_576,South West,E12000009,Agriculture forestry fishing,297000,"['B_576_CUR', 'B_576_LOA']",0
+576,B_577,Scotland,S92000003,Retail,171000,"['B_577_CUR', 'B_577_LOA']",0
+577,B_578,London,E12000007,Information communication,335000,"['B_578_CUR', 'B_578_LOA']",0
+578,B_579,West Midlands,E12000005,Professional scientific technical,219000,"['B_579_CUR', 'B_579_LOA']",0
+579,B_580,Wales,W92000004,Retail,164000,"['B_580_CUR', 'B_580_LOA']",0
+580,B_581,London,E12000007,Professional scientific technical,911000,"['B_581_CUR', 'B_581_LOA']",0
+581,B_582,South East,E12000008,Production,379000,"['B_582_CUR', 'B_582_LOA']",0
+582,B_583,London,E12000007,Business administration support services,392000,"['B_583_CUR', 'B_583_LOA']",0
+583,B_584,London,E12000007,Construction,166000,"['B_584_CUR', 'B_584_LOA']",0
+584,B_585,London,E12000007,Information communication,872000,"['B_585_CUR', 'B_585_LOA']",0
+585,B_586,North West,E12000002,Agriculture forestry fishing,384000,"['B_586_CUR', 'B_586_LOA']",0
+586,B_587,London,E12000007,Professional scientific technical,74000,"['B_587_CUR', 'B_587_LOA']",0
+587,B_588,East,E12000006,Transport Storage inc postal,189000,"['B_588_CUR', 'B_588_LOA']",0
+588,B_589,East Midlands,E12000004,Professional scientific technical,223000,"['B_589_CUR', 'B_589_LOA']",0
+589,B_590,West Midlands,E12000005,Information communication,175000,"['B_590_CUR', 'B_590_LOA']",0
+590,B_591,South East,E12000008,Accommodation food services,234000,"['B_591_CUR', 'B_591_LOA']",0
+591,B_592,South East,E12000008,Property,26000,"['B_592_CUR', 'B_592_LOA']",0
+592,B_593,London,E12000007,Construction,83000,"['B_593_CUR', 'B_593_LOA']",0
+593,B_594,Scotland,S92000003,Arts entertainment recreation other services,20000,"['B_594_CUR', 'B_594_LOA']",0
+594,B_595,East,E12000006,Information communication,58000,"['B_595_CUR', 'B_595_LOA']",0
+595,B_596,South East,E12000008,Production,103000,"['B_596_CUR', 'B_596_LOA']",0
+596,B_597,London,E12000007,Business administration support services,227000,"['B_597_CUR', 'B_597_LOA']",0
+597,B_598,South West,E12000009,Property,172000,"['B_598_CUR', 'B_598_LOA']",0
+598,B_599,East,E12000006,Information communication,1038000,"['B_599_CUR', 'B_599_LOA']",0
+599,B_600,South West,E12000009,Production,104000,"['B_600_CUR', 'B_600_LOA']",0
+600,B_601,Yorkshire and The Humber,E12000003,Wholesale,442000,"['B_601_CUR', 'B_601_LOA']",0
+601,B_602,South East,E12000008,Construction,31000,"['B_602_CUR', 'B_602_LOA']",0
+602,B_603,East Midlands,E12000004,Construction,72000,"['B_603_CUR', 'B_603_LOA']",0
+603,B_604,Yorkshire and The Humber,E12000003,Retail,104000,"['B_604_CUR', 'B_604_LOA']",0
+604,B_605,Yorkshire and The Humber,E12000003,Construction,37000,"['B_605_CUR', 'B_605_LOA']",0
+605,B_606,North West,E12000002,Business administration support services,64000,"['B_606_CUR', 'B_606_LOA']",0
+606,B_607,South East,E12000008,Professional scientific technical,82000,"['B_607_CUR', 'B_607_LOA']",0
+607,B_608,London,E12000007,Construction,549000,"['B_608_CUR', 'B_608_LOA']",0
+608,B_609,East,E12000006,Business administration support services,129000,"['B_609_CUR', 'B_609_LOA']",0
+609,B_610,North East,E12000001,Construction,81000,"['B_610_CUR', 'B_610_LOA']",0
+610,B_611,Wales,W92000004,Motor trades,95000,"['B_611_CUR', 'B_611_LOA']",0
+611,B_612,North West,E12000002,Business administration support services,387000,"['B_612_CUR', 'B_612_LOA']",0
+612,B_613,North East,E12000001,Production,69000,"['B_613_CUR', 'B_613_LOA']",0
+613,B_614,Scotland,S92000003,Professional scientific technical,140000,"['B_614_CUR', 'B_614_LOA']",0
+614,B_615,South West,E12000009,Construction,91000,"['B_615_CUR', 'B_615_LOA']",0
+615,B_616,South East,E12000008,Professional scientific technical,112000,"['B_616_CUR', 'B_616_LOA']",0
+616,B_617,Wales,W92000004,Professional scientific technical,76000,"['B_617_CUR', 'B_617_LOA']",0
+617,B_618,London,E12000007,Construction,1256000,"['B_618_CUR', 'B_618_LOA']",0
+618,B_619,South West,E12000009,Construction,238000,"['B_619_CUR', 'B_619_LOA']",0
+619,B_620,East Midlands,E12000004,Arts entertainment recreation other services,6000,"['B_620_CUR', 'B_620_LOA']",0
+620,B_621,East,E12000006,Agriculture forestry fishing,226000,"['B_621_CUR', 'B_621_LOA']",0
+621,B_622,South West,E12000009,Construction,476000,"['B_622_CUR', 'B_622_LOA']",0
+622,B_623,London,E12000007,Health,208000,"['B_623_CUR', 'B_623_LOA']",0
+623,B_624,East Midlands,E12000004,Arts entertainment recreation other services,137000,"['B_624_CUR', 'B_624_LOA']",0
+624,B_625,North West,E12000002,Health,179000,"['B_625_CUR', 'B_625_LOA']",0
+625,B_626,South East,E12000008,Business administration support services,387000,"['B_626_CUR', 'B_626_LOA']",0
+626,B_627,North West,E12000002,Business administration support services,104000,"['B_627_CUR', 'B_627_LOA']",0
+627,B_628,London,E12000007,Business administration support services,153000,"['B_628_CUR', 'B_628_LOA']",0
+628,B_629,West Midlands,E12000005,Accommodation food services,78000,"['B_629_CUR', 'B_629_LOA']",0
+629,B_630,North East,E12000001,Construction,168000,"['B_630_CUR', 'B_630_LOA']",0
+630,B_631,London,E12000007,Professional scientific technical,44000,"['B_631_CUR', 'B_631_LOA']",0
+631,B_632,East,E12000006,Agriculture forestry fishing,161000,"['B_632_CUR', 'B_632_LOA']",0
+632,B_633,Yorkshire and The Humber,E12000003,Retail,357000,"['B_633_CUR', 'B_633_LOA']",0
+633,B_634,South East,E12000008,Information communication,21000,"['B_634_CUR', 'B_634_LOA']",0
+634,B_635,South East,E12000008,Motor trades,200000,"['B_635_CUR', 'B_635_LOA']",0
+635,B_636,East,E12000006,Arts entertainment recreation other services,356000,"['B_636_CUR', 'B_636_LOA']",0
+636,B_637,Yorkshire and The Humber,E12000003,Professional scientific technical,83000,"['B_637_CUR', 'B_637_LOA']",0
+637,B_638,London,E12000007,Professional scientific technical,4055000,"['B_638_CUR', 'B_638_LOA']",0
+638,B_639,South East,E12000008,Professional scientific technical,191000,"['B_639_CUR', 'B_639_LOA']",0
+639,B_640,North West,E12000002,Information communication,128000,"['B_640_CUR', 'B_640_LOA']",0
+640,B_641,South East,E12000008,Professional scientific technical,64000,"['B_641_CUR', 'B_641_LOA']",0
+641,B_642,South West,E12000009,Accommodation food services,61000,"['B_642_CUR', 'B_642_LOA']",0
+642,B_643,West Midlands,E12000005,Professional scientific technical,195000,"['B_643_CUR', 'B_643_LOA']",0
+643,B_644,London,E12000007,Arts entertainment recreation other services,27000,"['B_644_CUR', 'B_644_LOA']",0
+644,B_645,South West,E12000009,Agriculture forestry fishing,176000,"['B_645_CUR', 'B_645_LOA']",0
+645,B_646,London,E12000007,Professional scientific technical,6904000,"['B_646_CUR', 'B_646_LOA']",0
+646,B_647,North West,E12000002,Retail,16000,"['B_647_CUR', 'B_647_LOA']",0
+647,B_648,East,E12000006,Construction,193000,"['B_648_CUR', 'B_648_LOA']",0
+648,B_649,London,E12000007,Information communication,17000,"['B_649_CUR', 'B_649_LOA']",0
+649,B_650,Scotland,S92000003,Construction,34000,"['B_650_CUR', 'B_650_LOA']",0
+650,B_651,Scotland,S92000003,Transport Storage inc postal,95000,"['B_651_CUR', 'B_651_LOA']",0
+651,B_652,West Midlands,E12000005,Retail,28000,"['B_652_CUR', 'B_652_LOA']",0
+652,B_653,West Midlands,E12000005,Health,241000,"['B_653_CUR', 'B_653_LOA']",0
+653,B_654,South East,E12000008,Retail,3772000,"['B_654_CUR', 'B_654_LOA']",0
+654,B_655,North East,E12000001,Accommodation food services,181000,"['B_655_CUR', 'B_655_LOA']",0
+655,B_656,South East,E12000008,Production,171000,"['B_656_CUR', 'B_656_LOA']",0
+656,B_657,South West,E12000009,Information communication,933000,"['B_657_CUR', 'B_657_LOA']",0
+657,B_658,North West,E12000002,Retail,1114000,"['B_658_CUR', 'B_658_LOA']",0
+658,B_659,East,E12000006,Professional scientific technical,1141000,"['B_659_CUR', 'B_659_LOA']",0
+659,B_660,Yorkshire and The Humber,E12000003,Business administration support services,312000,"['B_660_CUR', 'B_660_LOA']",0
+660,B_661,Scotland,S92000003,Professional scientific technical,42000,"['B_661_CUR', 'B_661_LOA']",0
+661,B_662,South West,E12000009,Business administration support services,136000,"['B_662_CUR', 'B_662_LOA']",0
+662,B_663,West Midlands,E12000005,Wholesale,51000,"['B_663_CUR', 'B_663_LOA']",0
+663,B_664,North West,E12000002,Construction,30000,"['B_664_CUR', 'B_664_LOA']",0
+664,B_665,West Midlands,E12000005,Education,54000,"['B_665_CUR', 'B_665_LOA']",0
+665,B_666,Scotland,S92000003,Business administration support services,62000,"['B_666_CUR', 'B_666_LOA']",0
+666,B_667,Yorkshire and The Humber,E12000003,Business administration support services,299000,"['B_667_CUR', 'B_667_LOA']",0
+667,B_668,Yorkshire and The Humber,E12000003,Retail,92000,"['B_668_CUR', 'B_668_LOA']",0
+668,B_669,South East,E12000008,Professional scientific technical,47000,"['B_669_CUR', 'B_669_LOA']",0
+669,B_670,East,E12000006,Arts entertainment recreation other services,72000,"['B_670_CUR', 'B_670_LOA']",0
+670,B_671,South West,E12000009,Accommodation food services,24000,"['B_671_CUR', 'B_671_LOA']",0
+671,B_672,East Midlands,E12000004,Construction,259000,"['B_672_CUR', 'B_672_LOA']",0
+672,B_673,North West,E12000002,Construction,56000,"['B_673_CUR', 'B_673_LOA']",0
+673,B_674,North West,E12000002,Agriculture forestry fishing,85000,"['B_674_CUR', 'B_674_LOA']",0
+674,B_675,East,E12000006,Construction,39000,"['B_675_CUR', 'B_675_LOA']",0
+675,B_676,London,E12000007,Accommodation food services,63000,"['B_676_CUR', 'B_676_LOA']",0
+676,B_677,Scotland,S92000003,Professional scientific technical,733000,"['B_677_CUR', 'B_677_LOA']",0
+677,B_678,Yorkshire and The Humber,E12000003,Motor trades,28000,"['B_678_CUR', 'B_678_LOA']",0
+678,B_679,London,E12000007,Finance insurance,169000,"['B_679_CUR', 'B_679_LOA']",0
+679,B_680,Scotland,S92000003,Motor trades,845000,"['B_680_CUR', 'B_680_LOA']",0
+680,B_681,East,E12000006,Arts entertainment recreation other services,66000,"['B_681_CUR', 'B_681_LOA']",0
+681,B_682,South West,E12000009,Property,120000,"['B_682_CUR', 'B_682_LOA']",0
+682,B_683,West Midlands,E12000005,Retail,389000,"['B_683_CUR', 'B_683_LOA']",0
+683,B_684,South East,E12000008,Accommodation food services,290000,"['B_684_CUR', 'B_684_LOA']",0
+684,B_685,South East,E12000008,Professional scientific technical,1708000,"['B_685_CUR', 'B_685_LOA']",1
+685,B_686,Scotland,S92000003,Agriculture forestry fishing,924000,"['B_686_CUR', 'B_686_LOA']",0
+686,B_687,Yorkshire and The Humber,E12000003,Transport Storage inc postal,1447000,"['B_687_CUR', 'B_687_LOA']",0
+687,B_688,South East,E12000008,Arts entertainment recreation other services,64000,"['B_688_CUR', 'B_688_LOA']",0
+688,B_689,North West,E12000002,Professional scientific technical,172000,"['B_689_CUR', 'B_689_LOA']",0
+689,B_690,North West,E12000002,Production,288000,"['B_690_CUR', 'B_690_LOA']",0
+690,B_691,East Midlands,E12000004,Retail,185000,"['B_691_CUR', 'B_691_LOA']",0
+691,B_692,North West,E12000002,Finance insurance,59000,"['B_692_CUR', 'B_692_LOA']",0
+692,B_693,London,E12000007,Information communication,87000,"['B_693_CUR', 'B_693_LOA']",0
+693,B_694,South East,E12000008,Information communication,133000,"['B_694_CUR', 'B_694_LOA']",0
+694,B_695,Northern Ireland,N92000002,Agriculture forestry fishing,182000,"['B_695_CUR', 'B_695_LOA']",0
+695,B_696,Scotland,S92000003,Accommodation food services,812000,"['B_696_CUR', 'B_696_LOA']",0
+696,B_697,South East,E12000008,Business administration support services,59000,"['B_697_CUR', 'B_697_LOA']",0
+697,B_698,West Midlands,E12000005,Information communication,11663000,"['B_698_CUR', 'B_698_LOA']",0
+698,B_699,Northern Ireland,N92000002,Agriculture forestry fishing,91000,"['B_699_CUR', 'B_699_LOA']",0
+699,B_700,London,E12000007,Professional scientific technical,4256000,"['B_700_CUR', 'B_700_LOA']",0
+700,B_701,North West,E12000002,Professional scientific technical,5968000,"['B_701_CUR', 'B_701_LOA']",0
+701,B_702,North West,E12000002,Construction,34000,"['B_702_CUR', 'B_702_LOA']",0
+702,B_703,South West,E12000009,Motor trades,237000,"['B_703_CUR', 'B_703_LOA']",0
+703,B_704,South East,E12000008,Information communication,85000,"['B_704_CUR', 'B_704_LOA']",0
+704,B_705,South East,E12000008,Finance insurance,53000,"['B_705_CUR', 'B_705_LOA']",0
+705,B_706,South West,E12000009,Information communication,3348000,"['B_706_CUR', 'B_706_LOA']",0
+706,B_707,East,E12000006,Accommodation food services,225000,"['B_707_CUR', 'B_707_LOA']",0
+707,B_708,West Midlands,E12000005,Business administration support services,40000,"['B_708_CUR', 'B_708_LOA']",0
+708,B_709,East Midlands,E12000004,Business administration support services,168000,"['B_709_CUR', 'B_709_LOA']",0
+709,B_710,West Midlands,E12000005,Agriculture forestry fishing,182000,"['B_710_CUR', 'B_710_LOA']",0
+710,B_711,Yorkshire and The Humber,E12000003,Retail,438000,"['B_711_CUR', 'B_711_LOA']",0
+711,B_712,London,E12000007,Professional scientific technical,186000,"['B_712_CUR', 'B_712_LOA']",0
+712,B_713,East Midlands,E12000004,Business administration support services,185000,"['B_713_CUR', 'B_713_LOA']",0
+713,B_714,South West,E12000009,Health,292000,"['B_714_CUR', 'B_714_LOA']",0
+714,B_715,North East,E12000001,Accommodation food services,389000,"['B_715_CUR', 'B_715_LOA']",0
+715,B_716,East Midlands,E12000004,Production,239000,"['B_716_CUR', 'B_716_LOA']",0
+716,B_717,East,E12000006,Arts entertainment recreation other services,488000,"['B_717_CUR', 'B_717_LOA']",0
+717,B_718,Wales,W92000004,Construction,330000,"['B_718_CUR', 'B_718_LOA']",0
+718,B_719,South West,E12000009,Agriculture forestry fishing,111000,"['B_719_CUR', 'B_719_LOA']",0
+719,B_720,North West,E12000002,Production,55000,"['B_720_CUR', 'B_720_LOA']",0
+720,B_721,West Midlands,E12000005,Professional scientific technical,244000,"['B_721_CUR', 'B_721_LOA']",0
+721,B_722,London,E12000007,Arts entertainment recreation other services,229000,"['B_722_CUR', 'B_722_LOA']",0
+722,B_723,North West,E12000002,Business administration support services,457000,"['B_723_CUR', 'B_723_LOA']",0
+723,B_724,East,E12000006,Property,39000,"['B_724_CUR', 'B_724_LOA']",0
+724,B_725,South West,E12000009,Education,250000,"['B_725_CUR', 'B_725_LOA']",0
+725,B_726,East Midlands,E12000004,Professional scientific technical,3087000,"['B_726_CUR', 'B_726_LOA']",0
+726,B_727,Scotland,S92000003,Transport Storage inc postal,49726000,"['B_727_CUR', 'B_727_LOA']",0
+727,B_728,South West,E12000009,Production,156000,"['B_728_CUR', 'B_728_LOA']",0
+728,B_729,Scotland,S92000003,Construction,735000,"['B_729_CUR', 'B_729_LOA']",0
+729,B_730,South West,E12000009,Business administration support services,1402000,"['B_730_CUR', 'B_730_LOA']",0
+730,B_731,East,E12000006,Construction,55000,"['B_731_CUR', 'B_731_LOA']",0
+731,B_732,West Midlands,E12000005,Construction,2529000,"['B_732_CUR', 'B_732_LOA']",0
+732,B_733,East,E12000006,Property,159000,"['B_733_CUR', 'B_733_LOA']",0
+733,B_734,Scotland,S92000003,Transport Storage inc postal,106000,"['B_734_CUR', 'B_734_LOA']",0
+734,B_735,Scotland,S92000003,Business administration support services,227000,"['B_735_CUR', 'B_735_LOA']",0
+735,B_736,South East,E12000008,Business administration support services,216000,"['B_736_CUR', 'B_736_LOA']",0
+736,B_737,North West,E12000002,Business administration support services,97000,"['B_737_CUR', 'B_737_LOA']",0
+737,B_738,East Midlands,E12000004,Professional scientific technical,150000,"['B_738_CUR', 'B_738_LOA']",0
+738,B_739,East,E12000006,Construction,16000,"['B_739_CUR', 'B_739_LOA']",0
+739,B_740,London,E12000007,Professional scientific technical,68000,"['B_740_CUR', 'B_740_LOA']",0
+740,B_741,South East,E12000008,Accommodation food services,97000,"['B_741_CUR', 'B_741_LOA']",0
+741,B_742,London,E12000007,Business administration support services,118000,"['B_742_CUR', 'B_742_LOA']",0
+742,B_743,Yorkshire and The Humber,E12000003,Professional scientific technical,65000,"['B_743_CUR', 'B_743_LOA']",0
+743,B_744,East,E12000006,Professional scientific technical,43000,"['B_744_CUR', 'B_744_LOA']",0
+744,B_745,South West,E12000009,Business administration support services,72000,"['B_745_CUR', 'B_745_LOA']",0
+745,B_746,South East,E12000008,Professional scientific technical,197000,"['B_746_CUR', 'B_746_LOA']",0
+746,B_747,London,E12000007,Finance insurance,58000,"['B_747_CUR', 'B_747_LOA']",0
+747,B_748,South West,E12000009,Professional scientific technical,5000,"['B_748_CUR', 'B_748_LOA']",0
+748,B_749,South West,E12000009,Accommodation food services,86000,"['B_749_CUR', 'B_749_LOA']",0
+749,B_750,Scotland,S92000003,Construction,311000,"['B_750_CUR', 'B_750_LOA']",0
+750,B_751,West Midlands,E12000005,Construction,233000,"['B_751_CUR', 'B_751_LOA']",0
+751,B_752,London,E12000007,Arts entertainment recreation other services,63000,"['B_752_CUR', 'B_752_LOA']",0
+752,B_753,East Midlands,E12000004,Business administration support services,16000,"['B_753_CUR', 'B_753_LOA']",0
+753,B_754,South West,E12000009,Construction,50000,"['B_754_CUR', 'B_754_LOA']",0
+754,B_755,Wales,W92000004,Professional scientific technical,849000,"['B_755_CUR', 'B_755_LOA']",0
+755,B_756,Yorkshire and The Humber,E12000003,Accommodation food services,219000,"['B_756_CUR', 'B_756_LOA']",0
+756,B_757,East Midlands,E12000004,Information communication,891000,"['B_757_CUR', 'B_757_LOA']",0
+757,B_758,London,E12000007,Education,234000,"['B_758_CUR', 'B_758_LOA']",0
+758,B_759,South East,E12000008,Production,200000,"['B_759_CUR', 'B_759_LOA']",0
+759,B_760,London,E12000007,Arts entertainment recreation other services,147000,"['B_760_CUR', 'B_760_LOA']",0
+760,B_761,North West,E12000002,Professional scientific technical,198000,"['B_761_CUR', 'B_761_LOA']",0
+761,B_762,North West,E12000002,Accommodation food services,1802000,"['B_762_CUR', 'B_762_LOA']",0
+762,B_763,Yorkshire and The Humber,E12000003,Professional scientific technical,25000,"['B_763_CUR', 'B_763_LOA']",0
+763,B_764,Yorkshire and The Humber,E12000003,Property,152000,"['B_764_CUR', 'B_764_LOA']",0
+764,B_765,Wales,W92000004,Information communication,58000,"['B_765_CUR', 'B_765_LOA']",0
+765,B_766,Scotland,S92000003,Motor trades,135000,"['B_766_CUR', 'B_766_LOA']",0
+766,B_767,West Midlands,E12000005,Retail,386000,"['B_767_CUR', 'B_767_LOA']",0
+767,B_768,London,E12000007,Construction,233000,"['B_768_CUR', 'B_768_LOA']",0
+768,B_769,South East,E12000008,Construction,85000,"['B_769_CUR', 'B_769_LOA']",0
+769,B_770,South East,E12000008,Business administration support services,37000,"['B_770_CUR', 'B_770_LOA']",0
+770,B_771,West Midlands,E12000005,Business administration support services,151000,"['B_771_CUR', 'B_771_LOA']",0
+771,B_772,Scotland,S92000003,Agriculture forestry fishing,93000,"['B_772_CUR', 'B_772_LOA']",0
+772,B_773,London,E12000007,Production,41000,"['B_773_CUR', 'B_773_LOA']",0
+773,B_774,East,E12000006,Retail,81000,"['B_774_CUR', 'B_774_LOA']",0
+774,B_775,East,E12000006,Professional scientific technical,305000,"['B_775_CUR', 'B_775_LOA']",0
+775,B_776,Yorkshire and The Humber,E12000003,Information communication,163483000,"['B_776_CUR', 'B_776_LOA']",0
+776,B_777,London,E12000007,Health,123000,"['B_777_CUR', 'B_777_LOA']",0
+777,B_778,South West,E12000009,Construction,1189000,"['B_778_CUR', 'B_778_LOA']",0
+778,B_779,South West,E12000009,Information communication,299000,"['B_779_CUR', 'B_779_LOA']",0
+779,B_780,London,E12000007,Professional scientific technical,7000,"['B_780_CUR', 'B_780_LOA']",0
+780,B_781,London,E12000007,Professional scientific technical,96000,"['B_781_CUR', 'B_781_LOA']",0
+781,B_782,North West,E12000002,Agriculture forestry fishing,26000,"['B_782_CUR', 'B_782_LOA']",0
+782,B_783,Scotland,S92000003,Retail,712000,"['B_783_CUR', 'B_783_LOA']",0
+783,B_784,East Midlands,E12000004,Professional scientific technical,1603000,"['B_784_CUR', 'B_784_LOA']",0
+784,B_785,East Midlands,E12000004,Arts entertainment recreation other services,766000,"['B_785_CUR', 'B_785_LOA']",0
+785,B_786,South West,E12000009,Business administration support services,20000,"['B_786_CUR', 'B_786_LOA']",0
+786,B_787,London,E12000007,Professional scientific technical,225000,"['B_787_CUR', 'B_787_LOA']",0
+787,B_788,London,E12000007,Professional scientific technical,91000,"['B_788_CUR', 'B_788_LOA']",0
+788,B_789,Scotland,S92000003,Agriculture forestry fishing,246000,"['B_789_CUR', 'B_789_LOA']",0
+789,B_790,Yorkshire and The Humber,E12000003,Transport Storage inc postal,372000,"['B_790_CUR', 'B_790_LOA']",0
+790,B_791,London,E12000007,Business administration support services,43000,"['B_791_CUR', 'B_791_LOA']",0
+791,B_792,East,E12000006,Business administration support services,128000,"['B_792_CUR', 'B_792_LOA']",0
+792,B_793,South East,E12000008,Retail,269000,"['B_793_CUR', 'B_793_LOA']",0
+793,B_794,West Midlands,E12000005,Property,204000,"['B_794_CUR', 'B_794_LOA']",0
+794,B_795,Northern Ireland,N92000002,Accommodation food services,199000,"['B_795_CUR', 'B_795_LOA']",0
+795,B_796,London,E12000007,Information communication,97000,"['B_796_CUR', 'B_796_LOA']",0
+796,B_797,South West,E12000009,Agriculture forestry fishing,75000,"['B_797_CUR', 'B_797_LOA']",0
+797,B_798,Yorkshire and The Humber,E12000003,Property,620000,"['B_798_CUR', 'B_798_LOA']",0
+798,B_799,North East,E12000001,Business administration support services,483000,"['B_799_CUR', 'B_799_LOA']",0
+799,B_800,East Midlands,E12000004,Professional scientific technical,58000,"['B_800_CUR', 'B_800_LOA']",0
+800,B_801,East,E12000006,Arts entertainment recreation other services,46000,"['B_801_CUR', 'B_801_LOA']",0
+801,B_802,North West,E12000002,Retail,142000,"['B_802_CUR', 'B_802_LOA']",0
+802,B_803,East Midlands,E12000004,Accommodation food services,1556000,"['B_803_CUR', 'B_803_LOA']",0
+803,B_804,London,E12000007,Finance insurance,8602000,"['B_804_CUR', 'B_804_LOA']",0
+804,B_805,East Midlands,E12000004,Transport Storage inc postal,31000,"['B_805_CUR', 'B_805_LOA']",1
+805,B_806,South West,E12000009,Health,195000,"['B_806_CUR', 'B_806_LOA']",0
+806,B_807,Northern Ireland,N92000002,Professional scientific technical,43000,"['B_807_CUR', 'B_807_LOA']",0
+807,B_808,South East,E12000008,Retail,233000,"['B_808_CUR', 'B_808_LOA']",0
+808,B_809,South East,E12000008,Construction,245000,"['B_809_CUR', 'B_809_LOA']",0
+809,B_810,South West,E12000009,Construction,139000,"['B_810_CUR', 'B_810_LOA']",0
+810,B_811,West Midlands,E12000005,Motor trades,104000,"['B_811_CUR', 'B_811_LOA']",0
+811,B_812,North West,E12000002,Arts entertainment recreation other services,123000,"['B_812_CUR', 'B_812_LOA']",0
+812,B_813,London,E12000007,Business administration support services,472000,"['B_813_CUR', 'B_813_LOA']",0
+813,B_814,Scotland,S92000003,Retail,929000,"['B_814_CUR', 'B_814_LOA']",0
+814,B_815,East Midlands,E12000004,Property,302000,"['B_815_CUR', 'B_815_LOA']",0
+815,B_816,East Midlands,E12000004,Wholesale,81000,"['B_816_CUR', 'B_816_LOA']",1
+816,B_817,East,E12000006,Construction,496000,"['B_817_CUR', 'B_817_LOA']",0
+817,B_818,London,E12000007,Arts entertainment recreation other services,53000,"['B_818_CUR', 'B_818_LOA']",0
+818,B_819,East Midlands,E12000004,Arts entertainment recreation other services,2856000,"['B_819_CUR', 'B_819_LOA']",0
+819,B_820,South East,E12000008,Business administration support services,318000,"['B_820_CUR', 'B_820_LOA']",0
+820,B_821,Scotland,S92000003,Professional scientific technical,77000,"['B_821_CUR', 'B_821_LOA']",0
+821,B_822,East Midlands,E12000004,Motor trades,94000,"['B_822_CUR', 'B_822_LOA']",0
+822,B_823,London,E12000007,Property,234000,"['B_823_CUR', 'B_823_LOA']",0
+823,B_824,South East,E12000008,Retail,541000,"['B_824_CUR', 'B_824_LOA']",0
+824,B_825,London,E12000007,Business administration support services,399000,"['B_825_CUR', 'B_825_LOA']",1
+825,B_826,London,E12000007,Construction,16000,"['B_826_CUR', 'B_826_LOA']",0
+826,B_827,South West,E12000009,Business administration support services,46000,"['B_827_CUR', 'B_827_LOA']",0
+827,B_828,London,E12000007,Business administration support services,106000,"['B_828_CUR', 'B_828_LOA']",0
+828,B_829,West Midlands,E12000005,Health,166000,"['B_829_CUR', 'B_829_LOA']",0
+829,B_830,Yorkshire and The Humber,E12000003,Construction,215000,"['B_830_CUR', 'B_830_LOA']",0
+830,B_831,West Midlands,E12000005,Production,130000,"['B_831_CUR', 'B_831_LOA']",0
+831,B_832,South West,E12000009,Information communication,230000,"['B_832_CUR', 'B_832_LOA']",0
+832,B_833,South East,E12000008,Motor trades,23000,"['B_833_CUR', 'B_833_LOA']",0
+833,B_834,North West,E12000002,Accommodation food services,177000,"['B_834_CUR', 'B_834_LOA']",0
+834,B_835,South East,E12000008,Business administration support services,20412000,"['B_835_CUR', 'B_835_LOA']",0
+835,B_836,East,E12000006,Information communication,450000,"['B_836_CUR', 'B_836_LOA']",0
+836,B_837,South East,E12000008,Construction,92000,"['B_837_CUR', 'B_837_LOA']",0
+837,B_838,Yorkshire and The Humber,E12000003,Transport Storage inc postal,8653000,"['B_838_CUR', 'B_838_LOA']",0
+838,B_839,London,E12000007,Education,157000,"['B_839_CUR', 'B_839_LOA']",0
+839,B_840,East,E12000006,Production,241000,"['B_840_CUR', 'B_840_LOA']",0
+840,B_841,North West,E12000002,Health,63000,"['B_841_CUR', 'B_841_LOA']",0
+841,B_842,Yorkshire and The Humber,E12000003,Agriculture forestry fishing,45771000,"['B_842_CUR', 'B_842_LOA']",0
+842,B_843,London,E12000007,Accommodation food services,30000,"['B_843_CUR', 'B_843_LOA']",0
+843,B_844,London,E12000007,Wholesale,72000,"['B_844_CUR', 'B_844_LOA']",0
+844,B_845,Yorkshire and The Humber,E12000003,Public administration defence,354000,"['B_845_CUR', 'B_845_LOA']",0
+845,B_846,South East,E12000008,Construction,217000,"['B_846_CUR', 'B_846_LOA']",0
+846,B_847,East,E12000006,Property,111000,"['B_847_CUR', 'B_847_LOA']",0
+847,B_848,Scotland,S92000003,Retail,57000,"['B_848_CUR', 'B_848_LOA']",0
+848,B_849,West Midlands,E12000005,Accommodation food services,71000,"['B_849_CUR', 'B_849_LOA']",0
+849,B_850,London,E12000007,Information communication,149000,"['B_850_CUR', 'B_850_LOA']",0
+850,B_851,London,E12000007,Professional scientific technical,55000,"['B_851_CUR', 'B_851_LOA']",0
+851,B_852,South West,E12000009,Production,57000,"['B_852_CUR', 'B_852_LOA']",0
+852,B_853,West Midlands,E12000005,Transport Storage inc postal,656768000,"['B_853_CUR', 'B_853_LOA']",0
+853,B_854,Scotland,S92000003,Accommodation food services,1350000,"['B_854_CUR', 'B_854_LOA']",0
+854,B_855,London,E12000007,Property,47000,"['B_855_CUR', 'B_855_LOA']",0
+855,B_856,Wales,W92000004,Construction,550000,"['B_856_CUR', 'B_856_LOA']",0
+856,B_857,London,E12000007,Wholesale,253000,"['B_857_CUR', 'B_857_LOA']",0
+857,B_858,London,E12000007,Accommodation food services,705000,"['B_858_CUR', 'B_858_LOA']",0
+858,B_859,East,E12000006,Transport Storage inc postal,1799000,"['B_859_CUR', 'B_859_LOA']",0
+859,B_860,South West,E12000009,Agriculture forestry fishing,44000,"['B_860_CUR', 'B_860_LOA']",0
+860,B_861,South West,E12000009,Property,7000,"['B_861_CUR', 'B_861_LOA']",0
+861,B_862,East Midlands,E12000004,Business administration support services,117000,"['B_862_CUR', 'B_862_LOA']",0
+862,B_863,London,E12000007,Wholesale,73000,"['B_863_CUR', 'B_863_LOA']",0
+863,B_864,Scotland,S92000003,Retail,271000,"['B_864_CUR', 'B_864_LOA']",0
+864,B_865,South East,E12000008,Arts entertainment recreation other services,2000,"['B_865_CUR', 'B_865_LOA']",0
+865,B_866,Yorkshire and The Humber,E12000003,Public administration defence,314000,"['B_866_CUR', 'B_866_LOA']",0
+866,B_867,South West,E12000009,Motor trades,185000,"['B_867_CUR', 'B_867_LOA']",0
+867,B_868,South East,E12000008,Business administration support services,18000,"['B_868_CUR', 'B_868_LOA']",0
+868,B_869,East Midlands,E12000004,Construction,540000,"['B_869_CUR', 'B_869_LOA']",0
+869,B_870,Scotland,S92000003,Business administration support services,6699000,"['B_870_CUR', 'B_870_LOA']",0
+870,B_871,South East,E12000008,Construction,173000,"['B_871_CUR', 'B_871_LOA']",0
+871,B_872,East,E12000006,Construction,59000,"['B_872_CUR', 'B_872_LOA']",0
+872,B_873,East,E12000006,Health,609000,"['B_873_CUR', 'B_873_LOA']",0
+873,B_874,East,E12000006,Construction,212000,"['B_874_CUR', 'B_874_LOA']",0
+874,B_875,North West,E12000002,Property,80000,"['B_875_CUR', 'B_875_LOA']",0
+875,B_876,South East,E12000008,Arts entertainment recreation other services,374000,"['B_876_CUR', 'B_876_LOA']",0
+876,B_877,Wales,W92000004,Professional scientific technical,221000,"['B_877_CUR', 'B_877_LOA']",0
+877,B_878,North West,E12000002,Professional scientific technical,31000,"['B_878_CUR', 'B_878_LOA']",0
+878,B_879,South East,E12000008,Information communication,773000,"['B_879_CUR', 'B_879_LOA']",0
+879,B_880,London,E12000007,Business administration support services,189000,"['B_880_CUR', 'B_880_LOA']",0
+880,B_881,East,E12000006,Agriculture forestry fishing,378000,"['B_881_CUR', 'B_881_LOA']",0
+881,B_882,East,E12000006,Professional scientific technical,82000,"['B_882_CUR', 'B_882_LOA']",0
+882,B_883,London,E12000007,Construction,1265000,"['B_883_CUR', 'B_883_LOA']",0
+883,B_884,London,E12000007,Production,178000,"['B_884_CUR', 'B_884_LOA']",0
+884,B_885,East Midlands,E12000004,Motor trades,91000,"['B_885_CUR', 'B_885_LOA']",0
+885,B_886,London,E12000007,Production,243000,"['B_886_CUR', 'B_886_LOA']",0
+886,B_887,South East,E12000008,Business administration support services,46000,"['B_887_CUR', 'B_887_LOA']",0
+887,B_888,Yorkshire and The Humber,E12000003,Wholesale,16000,"['B_888_CUR', 'B_888_LOA']",0
+888,B_889,Scotland,S92000003,Wholesale,56000,"['B_889_CUR', 'B_889_LOA']",1
+889,B_890,East Midlands,E12000004,Education,1766000,"['B_890_CUR', 'B_890_LOA']",0
+890,B_891,North West,E12000002,Retail,190000,"['B_891_CUR', 'B_891_LOA']",0
+891,B_892,West Midlands,E12000005,Accommodation food services,3729000,"['B_892_CUR', 'B_892_LOA']",0
+892,B_893,Scotland,S92000003,Professional scientific technical,4000,"['B_893_CUR', 'B_893_LOA']",0
+893,B_894,London,E12000007,Retail,53000,"['B_894_CUR', 'B_894_LOA']",0
+894,B_895,London,E12000007,Construction,3128000,"['B_895_CUR', 'B_895_LOA']",0
+895,B_896,Scotland,S92000003,Motor trades,220000,"['B_896_CUR', 'B_896_LOA']",0
+896,B_897,West Midlands,E12000005,Professional scientific technical,212000,"['B_897_CUR', 'B_897_LOA']",0
+897,B_898,South West,E12000009,Construction,77000,"['B_898_CUR', 'B_898_LOA']",0
+898,B_899,South East,E12000008,Accommodation food services,143000,"['B_899_CUR', 'B_899_LOA']",0
+899,B_900,North West,E12000002,Construction,7000,"['B_900_CUR', 'B_900_LOA']",0
+900,B_901,North West,E12000002,Information communication,1000,"['B_901_CUR', 'B_901_LOA']",0
+901,B_902,London,E12000007,Finance insurance,13000,"['B_902_CUR', 'B_902_LOA']",0
+902,B_903,London,E12000007,Construction,8000,"['B_903_CUR', 'B_903_LOA']",0
+903,B_904,South West,E12000009,Business administration support services,64000,"['B_904_CUR', 'B_904_LOA']",0
+904,B_905,London,E12000007,Arts entertainment recreation other services,130000,"['B_905_CUR', 'B_905_LOA']",0
+905,B_906,Wales,W92000004,Professional scientific technical,18029000,"['B_906_CUR', 'B_906_LOA']",0
+906,B_907,South West,E12000009,Transport Storage inc postal,46000,"['B_907_CUR', 'B_907_LOA']",0
+907,B_908,London,E12000007,Professional scientific technical,161000,"['B_908_CUR', 'B_908_LOA']",0
+908,B_909,Scotland,S92000003,Wholesale,4602000,"['B_909_CUR', 'B_909_LOA']",0
+909,B_910,Scotland,S92000003,Property,208000,"['B_910_CUR', 'B_910_LOA']",0
+910,B_911,South West,E12000009,Construction,825000,"['B_911_CUR', 'B_911_LOA']",0
+911,B_912,South East,E12000008,Business administration support services,1527000,"['B_912_CUR', 'B_912_LOA']",0
+912,B_913,South West,E12000009,Wholesale,892000,"['B_913_CUR', 'B_913_LOA']",0
+913,B_914,South East,E12000008,Property,756000,"['B_914_CUR', 'B_914_LOA']",0
+914,B_915,East,E12000006,Health,33000,"['B_915_CUR', 'B_915_LOA']",0
+915,B_916,South East,E12000008,Arts entertainment recreation other services,6111000,"['B_916_CUR', 'B_916_LOA']",0
+916,B_917,South West,E12000009,Professional scientific technical,233000,"['B_917_CUR', 'B_917_LOA']",0
+917,B_918,London,E12000007,Retail,112000,"['B_918_CUR', 'B_918_LOA']",1
+918,B_919,East,E12000006,Construction,428000,"['B_919_CUR', 'B_919_LOA']",0
+919,B_920,North East,E12000001,Accommodation food services,72000,"['B_920_CUR', 'B_920_LOA']",0
+920,B_921,London,E12000007,Information communication,54000,"['B_921_CUR', 'B_921_LOA']",0
+921,B_922,London,E12000007,Professional scientific technical,75000,"['B_922_CUR', 'B_922_LOA']",0
+922,B_923,London,E12000007,Business administration support services,120000,"['B_923_CUR', 'B_923_LOA']",0
+923,B_924,North West,E12000002,Accommodation food services,11000,"['B_924_CUR', 'B_924_LOA']",0
+924,B_925,London,E12000007,Business administration support services,108000,"['B_925_CUR', 'B_925_LOA']",0
+925,B_926,London,E12000007,Professional scientific technical,152000,"['B_926_CUR', 'B_926_LOA']",0
+926,B_927,Yorkshire and The Humber,E12000003,Professional scientific technical,169000,"['B_927_CUR', 'B_927_LOA']",0
+927,B_928,South West,E12000009,Accommodation food services,1014000,"['B_928_CUR', 'B_928_LOA']",0
+928,B_929,Northern Ireland,N92000002,Retail,240000,"['B_929_CUR', 'B_929_LOA']",0
+929,B_930,West Midlands,E12000005,Professional scientific technical,28000,"['B_930_CUR', 'B_930_LOA']",0
+930,B_931,South East,E12000008,Health,24000,"['B_931_CUR', 'B_931_LOA']",0
+931,B_932,London,E12000007,Professional scientific technical,81000,"['B_932_CUR', 'B_932_LOA']",0
+932,B_933,South West,E12000009,Professional scientific technical,42000,"['B_933_CUR', 'B_933_LOA']",0
+933,B_934,East,E12000006,Construction,291000,"['B_934_CUR', 'B_934_LOA']",0
+934,B_935,Northern Ireland,N92000002,Business administration support services,18000,"['B_935_CUR', 'B_935_LOA']",0
+935,B_936,West Midlands,E12000005,Construction,740000,"['B_936_CUR', 'B_936_LOA']",0
+936,B_937,North West,E12000002,Public administration defence,167000,"['B_937_CUR', 'B_937_LOA']",0
+937,B_938,London,E12000007,Professional scientific technical,24000,"['B_938_CUR', 'B_938_LOA']",0
+938,B_939,West Midlands,E12000005,Professional scientific technical,64000,"['B_939_CUR', 'B_939_LOA']",0
+939,B_940,South West,E12000009,Agriculture forestry fishing,165000,"['B_940_CUR', 'B_940_LOA']",0
+940,B_941,London,E12000007,Construction,356000,"['B_941_CUR', 'B_941_LOA']",0
+941,B_942,Scotland,S92000003,Professional scientific technical,834000,"['B_942_CUR', 'B_942_LOA']",0
+942,B_943,Scotland,S92000003,Production,37000,"['B_943_CUR', 'B_943_LOA']",0
+943,B_944,Scotland,S92000003,Accommodation food services,384000,"['B_944_CUR', 'B_944_LOA']",0
+944,B_945,North East,E12000001,Retail,75000,"['B_945_CUR', 'B_945_LOA']",0
+945,B_946,London,E12000007,Transport Storage inc postal,135000,"['B_946_CUR', 'B_946_LOA']",0
+946,B_947,London,E12000007,Accommodation food services,77000,"['B_947_CUR', 'B_947_LOA']",0
+947,B_948,West Midlands,E12000005,Construction,73000,"['B_948_CUR', 'B_948_LOA']",0
+948,B_949,North West,E12000002,Agriculture forestry fishing,1068000,"['B_949_CUR', 'B_949_LOA']",0
+949,B_950,South East,E12000008,Professional scientific technical,235000,"['B_950_CUR', 'B_950_LOA']",0
+950,B_951,East,E12000006,Production,245000,"['B_951_CUR', 'B_951_LOA']",0
+951,B_952,North West,E12000002,Professional scientific technical,113000,"['B_952_CUR', 'B_952_LOA']",0
+952,B_953,Wales,W92000004,Information communication,31000,"['B_953_CUR', 'B_953_LOA']",0
+953,B_954,Scotland,S92000003,Education,25000,"['B_954_CUR', 'B_954_LOA']",0
+954,B_955,London,E12000007,Education,213000,"['B_955_CUR', 'B_955_LOA']",0
+955,B_956,East,E12000006,Business administration support services,125000,"['B_956_CUR', 'B_956_LOA']",0
+956,B_957,Scotland,S92000003,Arts entertainment recreation other services,53000,"['B_957_CUR', 'B_957_LOA']",0
+957,B_958,South East,E12000008,Professional scientific technical,1650000,"['B_958_CUR', 'B_958_LOA']",0
+958,B_959,East Midlands,E12000004,Wholesale,32863000,"['B_959_CUR', 'B_959_LOA']",0
+959,B_960,London,E12000007,Professional scientific technical,769000,"['B_960_CUR', 'B_960_LOA']",0
+960,B_961,London,E12000007,Construction,53000,"['B_961_CUR', 'B_961_LOA']",0
+961,B_962,East Midlands,E12000004,Information communication,157000,"['B_962_CUR', 'B_962_LOA']",0
+962,B_963,London,E12000007,Retail,180000,"['B_963_CUR', 'B_963_LOA']",0
+963,B_964,Northern Ireland,N92000002,Agriculture forestry fishing,140000,"['B_964_CUR', 'B_964_LOA']",0
+964,B_965,South West,E12000009,Retail,143000,"['B_965_CUR', 'B_965_LOA']",0
+965,B_966,Wales,W92000004,Accommodation food services,244000,"['B_966_CUR', 'B_966_LOA']",0
+966,B_967,London,E12000007,Construction,2523000,"['B_967_CUR', 'B_967_LOA']",0
+967,B_968,London,E12000007,Retail,114000,"['B_968_CUR', 'B_968_LOA']",0
+968,B_969,East Midlands,E12000004,Health,180000,"['B_969_CUR', 'B_969_LOA']",0
+969,B_970,East,E12000006,Production,5000,"['B_970_CUR', 'B_970_LOA']",0
+970,B_971,East,E12000006,Property,74000,"['B_971_CUR', 'B_971_LOA']",0
+971,B_972,London,E12000007,Professional scientific technical,351000,"['B_972_CUR', 'B_972_LOA']",0
+972,B_973,South East,E12000008,Transport Storage inc postal,92000,"['B_973_CUR', 'B_973_LOA']",0
+973,B_974,South East,E12000008,Construction,87000,"['B_974_CUR', 'B_974_LOA']",0
+974,B_975,Northern Ireland,N92000002,Agriculture forestry fishing,178000,"['B_975_CUR', 'B_975_LOA']",0
+975,B_976,South West,E12000009,Accommodation food services,107000,"['B_976_CUR', 'B_976_LOA']",0
+976,B_977,South East,E12000008,Transport Storage inc postal,392000,"['B_977_CUR', 'B_977_LOA']",0
+977,B_978,West Midlands,E12000005,Arts entertainment recreation other services,477000,"['B_978_CUR', 'B_978_LOA']",0
+978,B_979,South West,E12000009,Retail,494000,"['B_979_CUR', 'B_979_LOA']",0
+979,B_980,London,E12000007,Professional scientific technical,782000,"['B_980_CUR', 'B_980_LOA']",0
+980,B_981,West Midlands,E12000005,Agriculture forestry fishing,17000,"['B_981_CUR', 'B_981_LOA']",0
+981,B_982,North West,E12000002,Wholesale,79000,"['B_982_CUR', 'B_982_LOA']",0
+982,B_983,London,E12000007,Finance insurance,93000,"['B_983_CUR', 'B_983_LOA']",0
+983,B_984,Scotland,S92000003,Retail,20000,"['B_984_CUR', 'B_984_LOA']",0
+984,B_985,Scotland,S92000003,Health,71000,"['B_985_CUR', 'B_985_LOA']",0
+985,B_986,East,E12000006,Professional scientific technical,475000,"['B_986_CUR', 'B_986_LOA']",0
+986,B_987,South East,E12000008,Production,41000,"['B_987_CUR', 'B_987_LOA']",0
+987,B_988,London,E12000007,Finance insurance,203000,"['B_988_CUR', 'B_988_LOA']",0
+988,B_989,East,E12000006,Health,8807000,"['B_989_CUR', 'B_989_LOA']",0
+989,B_990,South East,E12000008,Construction,110000,"['B_990_CUR', 'B_990_LOA']",0
+990,B_991,East,E12000006,Information communication,22000,"['B_991_CUR', 'B_991_LOA']",0
+991,B_992,London,E12000007,Accommodation food services,123000,"['B_992_CUR', 'B_992_LOA']",0
+992,B_993,Yorkshire and The Humber,E12000003,Construction,209000,"['B_993_CUR', 'B_993_LOA']",0
+993,B_994,London,E12000007,Property,30000,"['B_994_CUR', 'B_994_LOA']",0
+994,B_995,South East,E12000008,Property,27000,"['B_995_CUR', 'B_995_LOA']",0
+995,B_996,London,E12000007,Arts entertainment recreation other services,293000,"['B_996_CUR', 'B_996_LOA']",0
+996,B_997,London,E12000007,Construction,184000,"['B_997_CUR', 'B_997_LOA']",0
+997,B_998,East Midlands,E12000004,Agriculture forestry fishing,115000,"['B_998_CUR', 'B_998_LOA']",0
+998,B_999,South East,E12000008,Arts entertainment recreation other services,2672000,"['B_999_CUR', 'B_999_LOA']",0
+999,B_1000,London,E12000007,Professional scientific technical,76000,"['B_1000_CUR', 'B_1000_LOA']",0
