@@ -64,7 +64,7 @@ def generate_businesses(
         "turnover" : turnover,
         "account_ids" : account_ids,
         "criminal" : criminal
-    }).to_csv("businesses.csv")
+    }).to_csv("businesses.csv", index = False)
 
 generate_businesses()
 
