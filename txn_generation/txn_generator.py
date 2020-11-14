@@ -44,8 +44,11 @@ if __name__ == "__main__":
     print("Pi is roughly %f" % (4.0 * count / n)) # count/n is the number of points x,y that lie outside of a circle radius 1'''
     print(type(df))
     print(type(df.select("txn_prob")))
-    print(type(df.select(["txn_prob","amount"]).collect()[0]))
-    for row in df.select("txn_prob").collect():
+    print(df.select(["txn_prob","amount"]).collect()[0])
+    # instead, add a new column with a 1/0 value depending on whether the value of txn_prob column is > 0.7
+    # see this https://stackoverflow.com/questions/40977625/apply-a-function-to-a-single-column-of-a-csv-in-spark
+    # then change this to output a new dataframe where each row is a list of values
+    for row in df.select("txn_prob").collect(): # don't do it this way as this collects all the dataframe up into the driver node
       if row["txn_prob"] > 0.1:
         pass
         #print("Transact!")
