@@ -5,53 +5,44 @@ import random
 from operator import add
 
 from pyspark.sql import SparkSession#, SQLContext
-from pyspark.sql.types import StructType, StructField, StringType
+from pyspark.sql.types import StructType, StructField, StringType, ArrayType
+from pyspark.sql.functions import udf
 import time
 
-num_steps = 365 #number of days in simulation
-random_numbers = [random.random() for x in range(num_steps)]
+num_steps = 2 #number of days in simulation
 
+
+def transact(txn_prob, amount):
+    random_numbers = [random.random() for x in range(num_steps)]
+    return [amount for x in random_numbers if x < txn_prob]
 
 
 if __name__ == "__main__":
-    """
-        Usage: pi [partitions]
-    """
+
     spark = SparkSession\
         .builder\
         .appName("txnGenerator")\
         .getOrCreate()
 
     start = time.time()
-    '''txn_data_schema = StructType([StructField("type", StringType(), True),
-     StructField("account_from", StringType(), True)])'''
+
     #sc = SQLContext(spark)
 
     df = spark.read.csv('../link_generation/links_df.csv', inferSchema=True, header=True)
-    '''df = sc.read.load("../link_generation/links_df.csv",
-                    header='true',
-                    inferSchema='true').cache()'''
 
-    '''partitions = int(sys.argv[1]) if len(sys.argv) > 1 else 2
-    n = 100000 * partitions
+    #print(type(df))
+    #print(type(df.select("txn_prob")))
+    # convert transact() to a spark sql udf, explicitly setting its return type
+    # to be a list of strings ArrayType(StringType())
+    udf_transact = udf(transact, ArrayType(StringType()))
+    # add a new column "transactions" to df, the values of this column will be
+    # the result of applying udf_transact elementwise to the txn_prob column.
+    # N.B. inputs to sql udfs MUST BE columns, e.g. cannot be intergers
+    df.withColumn("transactions", udf_transact(df["txn_prob"], df["amount"])).show()
 
-    def f(_):
-        x = random() * 2 - 1
-        y = random() * 2 - 1
-        return 1 if x ** 2 + y ** 2 <= 1 else 0
 
-    count = spark.sparkContext.parallelize(range(1, n + 1), partitions).map(f).reduce(add)
-    print("Pi is roughly %f" % (4.0 * count / n)) # count/n is the number of points x,y that lie outside of a circle radius 1'''
-    print(type(df))
-    print(type(df.select("txn_prob")))
-    print(df.select(["txn_prob","amount"]).collect()[0])
-    # instead, add a new column with a 1/0 value depending on whether the value of txn_prob column is > 0.7
-    # see this https://stackoverflow.com/questions/40977625/apply-a-function-to-a-single-column-of-a-csv-in-spark
-    # then change this to output a new dataframe where each row is a list of values
-    for row in df.select("txn_prob").collect(): # don't do it this way as this collects all the dataframe up into the driver node
-      if row["txn_prob"] > 0.1:
-        pass
-        #print("Transact!")
+
+
     print("Spark job takes {:.2f}s".format(time.time() - start))
 
     spark.stop()
