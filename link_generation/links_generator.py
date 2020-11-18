@@ -29,7 +29,7 @@ def create_retail_link(ind_acct_ids, biz_acct_ids):
     link_features_dict['type'] = 'retail_purchase'
     link_features_dict['account_from'] = random.choices(ind_acct_ids)[0]
     link_features_dict['account_to'] = random.choices(biz_acct_ids)[0]
-    link_features_dict['amount_range'] = int(random.uniform(30,300))
+    link_features_dict['amount'] = int(random.uniform(30,300))
     link_features_dict['txn_prob'] = 0.8
     link_features_dict['MoP'] = 'FPS' # Faster payments
     return link_features_dict
@@ -39,7 +39,7 @@ def create_supplier_link(ind_acct_ids, biz_acct_ids):
     link_features_dict['type'] = 'supplier'
     link_features_dict['account_from'] = random.choices(biz_acct_ids)[0]
     link_features_dict['account_to'] = random.choices(biz_acct_ids)[0]
-    link_features_dict['amount_range'] = int(random.uniform(1000,10000))
+    link_features_dict['amount'] = int(random.uniform(1000,10000))
     link_features_dict['txn_prob'] = 0.8
     link_features_dict['MoP'] = 'BACS'
     return link_features_dict
@@ -49,7 +49,7 @@ def create_salary_link(ind_acct_ids, biz_acct_ids):
     link_features_dict['type'] = 'salary'
     link_features_dict['account_from'] = random.choices(biz_acct_ids)[0]
     link_features_dict['account_to'] = random.choices(ind_acct_ids)[0]
-    link_features_dict['amount_range'] = int(random.uniform(1000,9000))
+    link_features_dict['amount'] = int(random.uniform(1000,9000))
     link_features_dict['txn_prob'] = 0.033
     link_features_dict['MoP'] = 'BACS'
     return link_features_dict
