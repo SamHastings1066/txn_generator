@@ -1,9 +1,9 @@
 import pandas as pd
 import random
 
-num_links = 1000 # number of links to generate
-num_ind_accts = 100 # number of individual accounts
-num_biz_accts = 10 # number of businuess accounts
+num_links = 1000000 # number of links to generate
+num_ind_accts = 100000 # number of individual accounts
+num_biz_accts = 10000 # number of businuess accounts
 
 txn_types = ["retail_purchase","supplier","salary"]
 txn_proportions_dict = [80, 15, 5] # !!!weight correspond to order of txn_types above!!!
