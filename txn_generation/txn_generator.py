@@ -35,6 +35,7 @@ if __name__ == "__main__":
     # to be a list of strings ArrayType(StringType())
     udf_transact = udf(transact, ArrayType(ArrayType(StringType())))
 
+    # need to add a new schema to deliver this
     '''StructType([
     StructField("timestep", IntegerType(), nullable = True),
     StructField("txn_type", StringType(), nullable = True),
@@ -73,8 +74,10 @@ if __name__ == "__main__":
     for name in names_as:
         transaction_output_df = transaction_output_df.withColumnRenamed(name[0],name[1])
 
-    transaction_output_df.show()
-    print(transaction_output_df.count())
+    # The comments below relate to running this code on 1M links
+    transaction_output_df.show() # This takes 9.6s because spark works it it don't need to create the entire df
+    transaction_output_df.write.csv("output_txns.csv") # This takes about 10 mins and generates 4 csv files of about 14Gb total
+    print(transaction_output_df.count()) # takes another 10 minutes to count ~278M txns
 
     print("Spark job takes {:.2f}s".format(time.time() - start))
 
